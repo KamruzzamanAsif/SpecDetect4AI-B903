@@ -1,31 +1,17 @@
 {
-  "/home/kamruzzaman-asif/Desktop/Stats/github/generated_original_mlalorithms_funcs/fit_transform.py": {
-    "R12": [
-      "Use np.matmul() instead of np.dot() for matrices at line 22"
-    ],
+  "/home/kamruzzaman-asif/Desktop/SpecDetect4AI-B903/enhanced_detection/messy_repo/orphan.py": {
     "R2": [
-      "Random Seed Not Set at line 8"
+      "Random Seed Not Set at line 2"
     ]
   },
-  "/home/kamruzzaman-asif/Desktop/Stats/github/generated_original_mlalorithms_funcs/transform.py": {
-    "R12": [
-      "Use np.matmul() instead of np.dot() for matrices at line 9"
+  "/home/kamruzzaman-asif/Desktop/SpecDetect4AI-B903/enhanced_detection/messy_repo/utils2.py": {
+    "R2": [
+      "Random Seed Not Set at line 3"
     ]
   },
-  "/home/kamruzzaman-asif/Desktop/Stats/github/generated_original_mlalorithms_funcs/test_PCA.py": {
-    "R11": [
-      "Potential data leakage: model.fit() used without a pipeline at line 14",
-      "Potential data leakage: model.fit() used without a pipeline at line 18"
-    ],
+  "/home/kamruzzaman-asif/Desktop/SpecDetect4AI-B903/enhanced_detection/messy_repo/utils.py": {
     "R2": [
-      "Random Seed Not Set at line 17"
-    ],
-    "R22": [
-      "Call to a sensitive function detected without prior scaling; consider applying a scaler (e.g., StandardScaler) before executing scale-sensitive operations at line 14"
-    ],
-    "R23": [
-      "Model.fit() called without EarlyStopping callback at line 14",
-      "Model.fit() called without EarlyStopping callback at line 18"
+      "Random Seed Not Set at line 4"
     ]
   }
 }
