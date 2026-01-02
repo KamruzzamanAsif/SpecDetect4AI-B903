@@ -1,0 +1,123 @@
+[
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/docs/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 157
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/examples/geocode_cities.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/geoparse.py",
+    "num_functions": 29,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 272,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1254
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/tests/conftest.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/tests/test_mordecai.py",
+    "num_functions": 49,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 100,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 410
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/mordecai/utilities.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 267
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/train/train_country_model.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "openeventdata/mordecai/openeventdata-mordecai-9d37110/train/train_ranker.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 206
+  }
+]

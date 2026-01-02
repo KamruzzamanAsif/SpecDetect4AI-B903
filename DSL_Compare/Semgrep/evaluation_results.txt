@@ -1,0 +1,6 @@
+TP: 17
+FP: 3
+FN: 118
+Précision: 0.850
+Rappel: 0.126
+F1-score: 0.219

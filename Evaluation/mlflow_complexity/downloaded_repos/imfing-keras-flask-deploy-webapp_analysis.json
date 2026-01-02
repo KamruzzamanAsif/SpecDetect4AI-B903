@@ -1,0 +1,24 @@
+[
+  {
+    "file": "imfing/keras-flask-deploy-webapp/imfing-keras-flask-deploy-webapp-765a56e/app.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "imfing/keras-flask-deploy-webapp/imfing-keras-flask-deploy-webapp-765a56e/util.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  }
+]

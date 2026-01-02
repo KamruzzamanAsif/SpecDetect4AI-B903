@@ -1,0 +1,123 @@
+[
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/PyNomaly/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/PyNomaly/loop.py",
+    "num_functions": 35,
+    "max_function_depth": 3,
+    "num_classes": 3,
+    "num_assignments": 124,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 886
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/iris.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/iris_dist_grid.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/multiple_gaussian_2d.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/numba_speed_diff.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/numpy_array.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/examples/stream.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "vc1492a/PyNomaly/vc1492a-PyNomaly-684dd39/tests/test_loop.py",
+    "num_functions": 31,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 129,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 836
+  }
+]

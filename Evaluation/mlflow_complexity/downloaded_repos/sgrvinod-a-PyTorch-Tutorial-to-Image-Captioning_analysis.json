@@ -1,0 +1,79 @@
+[
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/caption.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 73,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 218
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/create_input_files.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/datasets.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 179
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/models.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 214
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 88,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 331
+  },
+  {
+    "file": "sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/sgrvinod-a-PyTorch-Tutorial-to-Image-Captioning-cc9c7e2/utils.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 286
+  }
+]

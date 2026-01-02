@@ -1,0 +1,156 @@
+[
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/datasets/build_file_list.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 161
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/datasets/build_of.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 75
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/datasets/ucf101.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 66,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 200
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/models/flow_resnet.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 106,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 315
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/models/flow_vgg16.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/models/rgb_resnet.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 91,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 277
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/models/rgb_vgg16.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/scripts/eval_ucf101_pytorch/VideoSpatialPrediction.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 102
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/scripts/eval_ucf101_pytorch/VideoTemporalPrediction.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 111
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/scripts/eval_ucf101_pytorch/spatial_demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 136
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/scripts/eval_ucf101_pytorch/temporal_demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 138
+  },
+  {
+    "file": "bryanyzhu/two-stream-pytorch/bryanyzhu-two-stream-pytorch-e0c1bad/video_transforms.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 10,
+    "num_assignments": 110,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 341
+  }
+]

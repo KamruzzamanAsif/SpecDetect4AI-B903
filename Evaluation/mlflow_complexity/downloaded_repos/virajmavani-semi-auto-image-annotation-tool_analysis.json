@@ -1,0 +1,35 @@
+[
+  {
+    "file": "virajmavani/semi-auto-image-annotation-tool/virajmavani-semi-auto-image-annotation-tool-52d65e3/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "virajmavani/semi-auto-image-annotation-tool/virajmavani-semi-auto-image-annotation-tool-52d65e3/main.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 233,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 613
+  },
+  {
+    "file": "virajmavani/semi-auto-image-annotation-tool/virajmavani-semi-auto-image-annotation-tool-52d65e3/tf_config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  }
+]

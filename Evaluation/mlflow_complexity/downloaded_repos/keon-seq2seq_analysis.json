@@ -1,0 +1,35 @@
+[
+  {
+    "file": "keon/seq2seq/keon-seq2seq-0e124a7/model.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  },
+  {
+    "file": "keon/seq2seq/keon-seq2seq-0e124a7/train.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 115
+  },
+  {
+    "file": "keon/seq2seq/keon-seq2seq-0e124a7/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/test/common.py",
+    "num_functions": 30,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 83,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 479
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/test/test_nn.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/test/test_swa.py",
+    "num_functions": 49,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 183,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 694
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/nn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/nn/functional.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/nn/modules/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/nn/modules/linear.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/optim/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "pytorch/contrib/pytorch-contrib-c545fed/torchcontrib/optim/swa.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 344
+  }
+]

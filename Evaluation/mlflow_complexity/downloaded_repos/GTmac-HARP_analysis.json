@@ -1,0 +1,68 @@
+[
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/baseline.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/graph_coarsening.py",
+    "num_functions": 22,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 183,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 544
+  },
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/harp.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/scoring.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/skipgram.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 255
+  },
+  {
+    "file": "GTmac/HARP/GTmac-HARP-72a13bf/src/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  }
+]

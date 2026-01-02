@@ -1,0 +1,156 @@
+[
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 338
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/docs/epytext.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/docs/underscores.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/horovod/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/horovod/runner_base.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/horovod/tensorflow/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/horovod/tensorflow/keras.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/xgboost/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/sparkdl/xgboost/xgboost.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 331
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/tests/horovod/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "databricks/spark-deep-learning/databricks-spark-deep-learning-e4d95da/tests/horovod/runner_base_test.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  }
+]

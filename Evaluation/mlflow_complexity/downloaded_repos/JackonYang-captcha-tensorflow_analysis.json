@@ -1,0 +1,90 @@
+[
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/datasets/base.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/datasets/gen_captcha.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/tensorflow_v1/cnn_1_char.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 166
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/tensorflow_v1/cnn_n_char.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 170
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/tensorflow_v1/main.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 180
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/tensorflow_v1/simple_softmax.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "JackonYang/captcha-tensorflow/JackonYang-captcha-tensorflow-306f1b1/tensorflow_v1/softmax_with_log.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 118
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/pytorch/data.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/pytorch/main.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 227
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/pytorch/model.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 153
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/pytorch/util.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/evaluate.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 170
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/models/transform_nets.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/part_seg/part_seg_model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/part_seg/test.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 97,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 256
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/part_seg/train_multi_gpu.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 126,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 390
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/provider.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 157
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/sem_seg/batch_inference.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 173
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/sem_seg/collect_indoor3d_data.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/sem_seg/indoor3d_util.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 162,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 591
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/sem_seg/model.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/train.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 265
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/utils/data_prep_util.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 145
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/utils/eulerangles.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 418
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/utils/pc_util.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 198
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/utils/plyfile.py",
+    "num_functions": 72,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 916
+  },
+  {
+    "file": "WangYueFt/dgcnn/WangYueFt-dgcnn-f765b46/tensorflow/utils/tf_util.py",
+    "num_functions": 25,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 706
+  }
+]

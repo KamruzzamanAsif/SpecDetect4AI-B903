@@ -1,0 +1,57 @@
+[
+  {
+    "file": "SullyChen/Autopilot-TensorFlow/SullyChen-Autopilot-TensorFlow-33b9e5f/driving_data.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "SullyChen/Autopilot-TensorFlow/SullyChen-Autopilot-TensorFlow-33b9e5f/model.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "SullyChen/Autopilot-TensorFlow/SullyChen-Autopilot-TensorFlow-33b9e5f/run.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 39
+  },
+  {
+    "file": "SullyChen/Autopilot-TensorFlow/SullyChen-Autopilot-TensorFlow-33b9e5f/run_dataset.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 39
+  },
+  {
+    "file": "SullyChen/Autopilot-TensorFlow/SullyChen-Autopilot-TensorFlow-33b9e5f/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 57
+  }
+]

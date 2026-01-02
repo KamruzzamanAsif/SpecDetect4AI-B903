@@ -1,0 +1,189 @@
+[
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/contrib/example.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/contrib/ftp_selective_upload.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 142
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 172
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/examples/wsclient.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/setup.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/train_faces.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zm_detect.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 139,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 565
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zm_train_faces.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/apigw.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/common_params.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 507
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/image_manip.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 161
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/log.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/hook/zmes_hook_helpers/utils.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 107,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 556
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/pushapi_plugins/pushapi_pushover.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 132
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/tools/config_edit.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "pliablepixels/zmeventnotification/pliablepixels-zmeventnotification-0c7abd4/tools/config_upgrade.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 375
+  }
+]

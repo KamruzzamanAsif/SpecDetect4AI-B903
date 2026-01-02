@@ -1,0 +1,211 @@
+[
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/autoreject.py",
+    "num_functions": 45,
+    "max_function_depth": 2,
+    "num_classes": 7,
+    "num_assignments": 262,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1457
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/bayesopt.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/conftest.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/ransac.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 248
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/tests/test_autoreject.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 116,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 405
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/tests/test_bayesopt.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/tests/test_ransac.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/tests/test_utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/tests/test_viz.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/autoreject/utils.py",
+    "num_functions": 18,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 490
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/doc/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 150
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_auto_repair.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_autoreject_workflow.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 232
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_channel_thresholds.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_estimate_global_reject.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_global_reject.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_ransac.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 134
+  },
+  {
+    "file": "autoreject/autoreject/autoreject-autoreject-e32e9e8/examples/plot_visualize_bad_epochs.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  }
+]

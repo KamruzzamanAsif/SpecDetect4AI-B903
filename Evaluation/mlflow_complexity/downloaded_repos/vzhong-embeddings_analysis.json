@@ -1,0 +1,145 @@
+[
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/docs/source/conf.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 313
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/concat.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/elmo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/embedding.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 186
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/fasttext.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/glove.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/kazuma.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/embeddings/numberbatch.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 174
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/test/speed_test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "vzhong/embeddings/vzhong-embeddings-8fa9a67/test/test_embeddings.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  }
+]

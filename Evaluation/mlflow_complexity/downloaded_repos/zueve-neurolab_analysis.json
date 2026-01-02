@@ -1,0 +1,156 @@
+[
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/doc/src/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 223
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/example/newgrnn.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/example/newhem.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/example/newhop.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/example/newp.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/example/newpnn.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/error.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 251
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/init.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 191
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/test/doctests.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 12
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/test/error.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/test/tool.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/neurolab/train/spo.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "zueve/neurolab/zueve-neurolab-4603af1/test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/DCSCN.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 209,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 769
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/augmentation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/convert_y.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/evaluate.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 111
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/args.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 107
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/custom_freeze_graph.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/loader.py",
+    "num_functions": 25,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 355
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/optimize_for_inference.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/tf_graph.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 305
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/helper/utilty.py",
+    "num_functions": 44,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 150,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 617
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/sr.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "jiny2001/dcscn-super-resolution/jiny2001-dcscn-super-resolution-d382bc3/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 125
+  }
+]

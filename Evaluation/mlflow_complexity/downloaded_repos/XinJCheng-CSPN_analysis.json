@@ -1,0 +1,167 @@
+[
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_paddle/demo.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/data_transform.py",
+    "num_functions": 35,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 493
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/eval.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 169
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/eval_kitti_dataset_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/eval_nyu_dataset_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/kitti_dataset_loader.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 72,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 225
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/loss.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/lr_scheduler.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/models/cspn.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 81,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/models/torch_resnet_cspn_nyu.py",
+    "num_functions": 33,
+    "max_function_depth": 1,
+    "num_classes": 9,
+    "num_assignments": 185,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 435
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/models/update_model.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/nyu_dataset_loader.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 205
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 61,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 292
+  },
+  {
+    "file": "XinJCheng/CSPN/XinJCheng-CSPN-b3e487b/cspn_pytorch/utils.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 216
+  }
+]

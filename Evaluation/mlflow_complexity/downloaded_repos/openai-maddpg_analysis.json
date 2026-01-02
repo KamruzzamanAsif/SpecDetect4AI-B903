@@ -1,0 +1,79 @@
+[
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/experiments/train.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 193
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/maddpg/__init__.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/maddpg/common/distributions.py",
+    "num_functions": 95,
+    "max_function_depth": 1,
+    "num_classes": 14,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 331
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/maddpg/common/tf_util.py",
+    "num_functions": 35,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 332
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/maddpg/trainer/maddpg.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/maddpg/trainer/replay_buffer.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "openai/maddpg/openai-maddpg-3ceefa0/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  }
+]

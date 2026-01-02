@@ -1,0 +1,90 @@
+[
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/0_multiply.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/1_linear_regression.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/2_logistic_regression.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 74
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/3_neural_net.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 72
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/4_modern_neural_net.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 76
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/5_convolutional_net.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 93
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/6_lstm.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 92
+  },
+  {
+    "file": "vinhkhuc/PyTorch-Mini-Tutorials/vinhkhuc-PyTorch-Mini-Tutorials-bb96786/data_util.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  }
+]

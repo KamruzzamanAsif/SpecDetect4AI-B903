@@ -1,0 +1,57 @@
+[
+  {
+    "file": "nishitpatel01/Fake_News_Detection/nishitpatel01-Fake_News_Detection-880a278/DataPrep.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 172
+  },
+  {
+    "file": "nishitpatel01/Fake_News_Detection/nishitpatel01-Fake_News_Detection-880a278/FeatureSelection.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "nishitpatel01/Fake_News_Detection/nishitpatel01-Fake_News_Detection-880a278/classifier.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 63,
+    "pipeline_patterns": 12,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 481
+  },
+  {
+    "file": "nishitpatel01/Fake_News_Detection/nishitpatel01-Fake_News_Detection-880a278/front.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "nishitpatel01/Fake_News_Detection/nishitpatel01-Fake_News_Detection-880a278/prediction.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  }
+]

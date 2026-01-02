@@ -1,0 +1,35 @@
+[
+  {
+    "file": "chuanqi305/MobileNet-SSD/chuanqi305-MobileNet-SSD-bb17b6c/demo.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "chuanqi305/MobileNet-SSD/chuanqi305-MobileNet-SSD-bb17b6c/gen.py",
+    "num_functions": 28,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 815
+  },
+  {
+    "file": "chuanqi305/MobileNet-SSD/chuanqi305-MobileNet-SSD-bb17b6c/merge_bn.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  }
+]

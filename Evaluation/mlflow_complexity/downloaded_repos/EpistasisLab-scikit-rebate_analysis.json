@@ -1,0 +1,145 @@
+[
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/_version.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/iter.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 138
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/multisurf.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/multisurfstar.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/relieff.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 106,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 551
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/scoring_utils.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 492
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/surf.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/surfstar.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/turf.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/skrebate/vls.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 165
+  },
+  {
+    "file": "EpistasisLab/scikit-rebate/EpistasisLab-scikit-rebate-1679885/tests.py",
+    "num_functions": 39,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 31,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 521
+  }
+]

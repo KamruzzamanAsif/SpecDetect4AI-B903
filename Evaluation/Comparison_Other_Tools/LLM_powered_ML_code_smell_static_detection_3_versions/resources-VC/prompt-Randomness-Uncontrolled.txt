@@ -1,0 +1,195 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Set random seed explicitly during the development process whenever a possible random procedure is involved in the application.
+#### Context
+There are several scenarios involving random seeds. In some algorithms, randomness is inherently involved in the training process. For the cross-validation process in the model evaluation stage, the dataset split by some library APIs can vary depending on random seeds.
+#### Problem
+If the random seed is not set, the result will be irreproducible, which increases the debugging effort. In addition, it will be difficult to replicate the study based on the previous one. For example, in Scikit-Learn, if the random seed is not set, the random forest algorithm may provide a different result every time it runs, and the dataset split by cross-validation splitter will also be different in the next run (8).
+#### Solution
+It is recommended to set global random seed first for reproducible results in Scikit-Learn, Pytorch, Numpy and other libraries where a random seed is involved (1)(9). Specifically, DataLoader in PyTorch needs to be set with a random seed to ensure the data is split and loaded in the same way every time running the code.
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if any of these libraries or modules is imported:
+    
+    -   `random`
+        
+    -   `numpy`
+        
+    -   `tensorflow`
+        
+    -   `torch`
+        
+    -   `scikit-learn`
+        
+    -   `xgboost`
+        
+    -   `lightgbm`
+        
+    -   `catboost`
+        
+
+2.  If a relevant library or random module is imported:
+    
+    2.1 Search for any use of random operations:
+    
+    -   Python random:
+        
+        -   `random.random()`
+            
+        -   `random.randint()`
+            
+        -   `random.choice()`
+            
+        -   `random.shuffle()`
+            
+        -   `random.sample()`
+            
+        -   `random.uniform()`
+            
+    -   NumPy random:
+        
+        -   `np.random.rand()`
+            
+        -   `np.random.randn()`
+            
+        -   `np.random.randint()`
+            
+        -   `np.random.choice()`
+            
+        -   `np.random.shuffle()`
+            
+        -   `np.random.normal()`
+            
+    -   TensorFlow random:
+        
+        -   `tf.random.uniform()`
+            
+        -   `tf.random.normal()`
+            
+        -   `tf.random.shuffle()`
+            
+    -   PyTorch random:
+        
+        -   `torch.rand()`
+            
+        -   `torch.randn()`
+            
+        -   `torch.randint()`
+            
+        -   `torch.randperm()`
+            
+        -   Random behavior when using `torch.utils.data.DataLoader` with `shuffle=True`
+            
+    -   Scikit-Learn models or utilities:
+        
+        -   `train_test_split()`
+            
+        -   `KFold()`, `StratifiedKFold()`
+            
+        -   `RandomForestClassifier()`, `GradientBoostingClassifier()`
+            
+        -   `LogisticRegression()`
+            
+        -   `RandomizedSearchCV()`
+            
+    -   XGBoost models:
+        
+        -   `XGBClassifier()`
+            
+        -   `xgboost.train()`
+            
+    -   LightGBM models:
+        
+        -   `LGBMClassifier()`
+            
+        -   `lightgbm.train()`
+            
+    -   CatBoost models:
+        
+        -   `CatBoostClassifier()`
+            
+
+
+3.  For each random operation or model creation:
+    
+    3.1 Check if a random seed is explicitly set:
+    
+    -   For Python random:
+        
+        -   Look for `random.seed(value)`
+            
+    -   For NumPy:
+        
+        -   Look for `np.random.seed(value)`
+            
+    -   For TensorFlow:
+        
+        -   Look for `tf.random.set_seed(value)`
+            
+    -   For PyTorch:
+        
+        -   Look for `torch.manual_seed(value)`
+            
+        -   Look for seeded `generator` passed to `DataLoader`
+            
+    -   For Scikit-Learn:
+        
+        -   Look for `random_state=...` parameter set in functions and models
+            
+    -   For XGBoost:
+        
+        -   Look for `seed=...` or `random_state=...` set
+            
+    -   For LightGBM:
+        
+        -   Look for `seed=...` or `random_state=...` set
+            
+    -   For CatBoost:
+        
+        -   Look for `random_seed=...` set
+            
+
+
+4.  If a random operation, split, or model is used without setting a random seed, either globally or locally:
+    
+
+-   Mark as Randomness Uncontrolled.
+    
+
+
+5.  If none of these libraries or modules are imported:
+    
+
+-   Skip this check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Randomness Uncontrolled code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Randomness Uncontrolled code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": "kf = KFold(random_state=None)",
+        "line": 55
+    }
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

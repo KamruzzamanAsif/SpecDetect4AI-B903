@@ -1,0 +1,46 @@
+[
+  {
+    "file": "clinicalml/cfrnet/clinicalml-cfrnet-e508033/cfr/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "clinicalml/cfrnet/clinicalml-cfrnet-e508033/cfr/cfr_net.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 107,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 278
+  },
+  {
+    "file": "clinicalml/cfrnet/clinicalml-cfrnet-e508033/cfr/logger.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "clinicalml/cfrnet/clinicalml-cfrnet-e508033/cfr_net_train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 131,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 428
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/MidTermFeatures.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 377
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/ShortTermFeatures.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 238,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 685
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audacityAnnotation2WAVs.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audioAnalysis.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 624
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audioBasicIO.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 168
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audioSegmentation.py",
+    "num_functions": 22,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 307,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1183
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audioTrainTest.py",
+    "num_functions": 29,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 283,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1221
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/audioVisualization.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 232
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/convertToWav.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pyAudioAnalysis/utilities.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pytests/test_feature_extraction.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/pytests/test_segmentation.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/tests/script_test_classifier.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/tests/script_tests.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "tyiannak/pyAudioAnalysis/tyiannak-pyAudioAnalysis-a246ebf/tests/script_train_classifiers_all.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  }
+]

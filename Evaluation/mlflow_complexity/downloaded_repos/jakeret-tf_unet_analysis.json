@@ -1,0 +1,156 @@
+[
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/docs/check_sphinx.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 268
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/scripts/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/scripts/launcher.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/scripts/rfi_launcher.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/scripts/ufig_launcher.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/scripts/ultrasound_launcher.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 114
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/image_gen.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/image_util.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 206
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/layers.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/unet.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 133,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 539
+  },
+  {
+    "file": "jakeret/tf_unet/jakeret-tf_unet-0dcdf2f/tf_unet/util.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  }
+]

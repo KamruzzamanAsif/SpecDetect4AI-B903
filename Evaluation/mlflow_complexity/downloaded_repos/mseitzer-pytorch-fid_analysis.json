@@ -1,0 +1,79 @@
+[
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/noxfile.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/setup.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/src/pytorch_fid/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/src/pytorch_fid/__main__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/src/pytorch_fid/fid_score.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 355
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/src/pytorch_fid/inception.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 344
+  },
+  {
+    "file": "mseitzer/pytorch-fid/mseitzer-pytorch-fid-b9c1811/tests/test_fid_score.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 102
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "sksq96/pytorch-summary/sksq96-pytorch-summary-345d898/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "sksq96/pytorch-summary/sksq96-pytorch-summary-345d898/torchsummary/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "sksq96/pytorch-summary/sksq96-pytorch-summary-345d898/torchsummary/tests/test_models/test_model.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "sksq96/pytorch-summary/sksq96-pytorch-summary-345d898/torchsummary/tests/unit_tests/torchsummary_test.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "sksq96/pytorch-summary/sksq96-pytorch-summary-345d898/torchsummary/torchsummary.py",
+    "num_functions": 4,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  }
+]

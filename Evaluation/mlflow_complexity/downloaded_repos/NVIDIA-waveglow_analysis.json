@@ -1,0 +1,90 @@
+[
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/convert_model.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 75
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/denoiser.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/distributed.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 184
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/glow.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 311
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/glow_old.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 233
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/inference.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 84
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/mel2samp.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 142
+  },
+  {
+    "file": "NVIDIA/waveglow/NVIDIA-waveglow-8afb643/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 188
+  }
+]

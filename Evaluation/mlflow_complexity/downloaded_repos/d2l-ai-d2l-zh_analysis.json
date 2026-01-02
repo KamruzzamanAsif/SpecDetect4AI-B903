@@ -1,0 +1,156 @@
+[
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/ci/docker/print_versions.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/ci/submit-job.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 202
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/contrib/to-rm-mx-contrib-text/d2lzh/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/contrib/to-rm-mx-contrib-text/d2lzh/text/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/contrib/to-rm-mx-contrib-text/d2lzh/text/embedding.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/contrib/to-rm-mx-contrib-text/d2lzh/text/vocab.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/contrib/to-rm-mx-contrib-text/d2lzh/utils.py",
+    "num_functions": 71,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 205,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 837
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/d2l/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/d2l/mxnet.py",
+    "num_functions": 203,
+    "max_function_depth": 2,
+    "num_classes": 33,
+    "num_assignments": 671,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2551
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/d2l/paddle.py",
+    "num_functions": 208,
+    "max_function_depth": 2,
+    "num_classes": 34,
+    "num_assignments": 698,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 2680
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/d2l/tensorflow.py",
+    "num_functions": 128,
+    "max_function_depth": 2,
+    "num_classes": 25,
+    "num_assignments": 375,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1477
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/d2l/torch.py",
+    "num_functions": 208,
+    "max_function_depth": 2,
+    "num_classes": 34,
+    "num_assignments": 683,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 2666
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "d2l-ai/d2l-zh/d2l-ai-d2l-zh-e6b18cc/static/post_latex/main.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  }
+]

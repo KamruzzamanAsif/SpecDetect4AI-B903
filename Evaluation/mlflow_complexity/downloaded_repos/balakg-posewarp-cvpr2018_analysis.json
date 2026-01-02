@@ -1,0 +1,90 @@
+[
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/data_generation.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 154,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 461
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/networks.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 191,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 344
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/param.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/posewarp_gan_train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/posewarp_train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/transformations.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 154,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 599
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/truncated_vgg.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "balakg/posewarp-cvpr2018/balakg-posewarp-cvpr2018-5e62e04/code/util.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  }
+]

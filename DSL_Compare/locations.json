@@ -1,0 +1,490 @@
+[
+  {
+    "file": "examples/shap/binary_classification.py",
+    "line": 19
+  },
+  {
+    "file": "examples/evaluation/evaluate_on_binary_classifier.py",
+    "line": 14
+  },
+  {
+    "file": "examples/evaluation/evaluate_on_regressor.py",
+    "line": 15
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_custom_metrics.py",
+    "line": 20
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_custom_metrics_comprehensive.py",
+    "line": 22
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_model_validation.py",
+    "line": 15
+  },
+  {
+    "file": "tests/resources/onnx/generate_onnx_models.py",
+    "line": 73
+  },
+  {
+    "file": "examples/sklearn_autolog/linear_regression.py",
+    "line": 19
+  },
+  {
+    "file": "examples/databricks/log_runs.py",
+    "line": 46
+  },
+  {
+    "file": "examples/pytorch/mnist_tensorboard_artifact.py",
+    "line": 131
+  },
+  {
+    "file": "examples/pytorch/torchscript/MNIST/mnist_torchscript.py",
+    "line": 173
+  },
+  {
+    "file": "examples/shap/multiclass_classification.py",
+    "line": 18
+  },
+  {
+    "file": "examples/sklearn_autolog/pipeline.py",
+    "line": 21
+  },
+  {
+    "file": "examples/shap/regression.py",
+    "line": 19
+  },
+  {
+    "file": "tests/autologging/test_autologging_behaviors_integration.py",
+    "line": 62
+  },
+  {
+    "file": "tests/autologging/test_autologging_behaviors_integration.py",
+    "line": 181
+  },
+  {
+    "file": "tests/autologging/test_autologging_behaviors_integration.py",
+    "line": 263
+  },
+  {
+    "file": "tests/autologging/test_autologging_utils.py",
+    "line": 587
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1717
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1717
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1757
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1794
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1866
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1891
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1915
+  },
+  {
+    "file": "tests/evaluate/test_default_evaluator.py",
+    "line": 1939
+  },
+  {
+    "file": "tests/pyfunc/test_dependencies_functions.py",
+    "line": 244
+  },
+  {
+    "file": "tests/evaluate/test_evaluation.py",
+    "line": 223
+  },
+  {
+    "file": "tests/evaluate/test_evaluation.py",
+    "line": 240
+  },
+  {
+    "file": "tests/evaluate/test_evaluation.py",
+    "line": 298
+  },
+  {
+    "file": "tests/evaluate/test_evaluation.py",
+    "line": 1219
+  },
+  {
+    "file": "tests/tensorflow/test_keras_model_export.py",
+    "line": 82
+  },
+  {
+    "file": "tests/tensorflow/test_keras_model_export.py",
+    "line": 115
+  },
+  {
+    "file": "tests/tensorflow/test_keras_model_export.py",
+    "line": 166
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 60
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 63
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 83
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 103
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 113
+  },
+  {
+    "file": "tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py",
+    "line": 146
+  },
+  {
+    "file": "tests/shap/test_log.py",
+    "line": 147
+  },
+  {
+    "file": "tests/pyfunc/test_model_export_with_class_and_artifacts.py",
+    "line": 104
+  },
+  {
+    "file": "tests/pyfunc/test_model_export_with_class_and_artifacts.py",
+    "line": 1093
+  },
+  {
+    "file": "tests/paddle/test_paddle_autolog.py",
+    "line": 26
+  },
+  {
+    "file": "tests/pyfunc/test_pyfunc_schema_enforcement.py",
+    "line": 28
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 189
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 236
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 265
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 282
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 324
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 352
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 367
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 379
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 990
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 1081
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 1110
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 1165
+  },
+  {
+    "file": "tests/spark/autologging/ml/test_pyspark_ml_autologging.py",
+    "line": 1216
+  },
+  {
+    "file": "tests/tracking/test_rest_tracking.py",
+    "line": 1566
+  },
+  {
+    "file": "tests/pyfunc/test_scoring_server.py",
+    "line": 110
+  },
+  {
+    "file": "tests/store/artifact/test_sftp_artifact_repo.py",
+    "line": 208
+  },
+  {
+    "file": "tests/shap/test_shap.py",
+    "line": 50
+  },
+  {
+    "file": "tests/shap/test_shap.py",
+    "line": 62
+  },
+  {
+    "file": "tests/shap/test_shap.py",
+    "line": 233
+  },
+  {
+    "file": "tests/models/test_signature.py",
+    "line": 158
+  },
+  {
+    "file": "tests/models/test_signature.py",
+    "line": 170
+  },
+  {
+    "file": "tests/models/test_signature.py",
+    "line": 183
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 183
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 192
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 332
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 364
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 399
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 434
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 454
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 667
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 690
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 726
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 769
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 876
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 903
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 964
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1002
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1021
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1040
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1055
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1072
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1085
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1099
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1126
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1161
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1286
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1313
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1450
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1463
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1537
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1600
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1617
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1653
+  },
+  {
+    "file": "tests/sklearn/test_sklearn_autolog.py",
+    "line": 1685
+  },
+  {
+    "file": "tests/pyfunc/test_spark.py",
+    "line": 974
+  },
+  {
+    "file": "tests/spark/autologging/datasource/test_spark_datasource_autologging_crossframework.py",
+    "line": 23
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 76
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 91
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 121
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 163
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 168
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 466
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 574
+  },
+  {
+    "file": "tests/tensorflow/test_tensorflow2_autolog.py",
+    "line": 602
+  },
+  {
+    "file": "tests/recipes/test_train_step.py",
+    "line": 365
+  },
+  {
+    "file": "tests/recipes/test_train_step.py",
+    "line": 371
+  },
+  {
+    "file": "tests/transformers/test_transformers_autolog.py",
+    "line": 354
+  },
+  {
+    "file": "tests/transformers/test_transformers_autolog.py",
+    "line": 390
+  },
+  {
+    "file": "tests/transformers/test_transformers_autolog.py",
+    "line": 430
+  },
+  {
+    "file": "tests/transformers/test_transformers_autolog.py",
+    "line": 472
+  },
+  {
+    "file": "tests/pyfunc/test_virtualenv.py",
+    "line": 37
+  },
+  {
+    "file": "examples/hyperparam/train.py",
+    "line": 140
+  },
+  {
+    "file": "examples/sklearn_logistic_regression/train.py",
+    "line": 11
+  },
+  {
+    "file": "examples/tensorflow/train.py",
+    "line": 93
+  },
+  {
+    "file": "examples/keras/train.py",
+    "line": 44
+  },
+  {
+    "file": "examples/multistep_workflow/train_keras.py",
+    "line": 85
+  },
+  {
+    "file": "examples/ray_serve/train_model.py",
+    "line": 23
+  }
+]

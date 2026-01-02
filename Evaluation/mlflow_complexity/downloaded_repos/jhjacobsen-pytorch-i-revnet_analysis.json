@@ -1,0 +1,57 @@
+[
+  {
+    "file": "jhjacobsen/pytorch-i-revnet/jhjacobsen-pytorch-i-revnet-3074130/CIFAR_main.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "jhjacobsen/pytorch-i-revnet/jhjacobsen-pytorch-i-revnet-3074130/models/iRevNet.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 61,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "jhjacobsen/pytorch-i-revnet/jhjacobsen-pytorch-i-revnet-3074130/models/model_utils.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 89
+  },
+  {
+    "file": "jhjacobsen/pytorch-i-revnet/jhjacobsen-pytorch-i-revnet-3074130/models/tests.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "jhjacobsen/pytorch-i-revnet/jhjacobsen-pytorch-i-revnet-3074130/models/utils_cifar.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 160
+  }
+]

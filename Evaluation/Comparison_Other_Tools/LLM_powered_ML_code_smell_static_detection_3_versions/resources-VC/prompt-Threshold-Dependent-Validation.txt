@@ -1,0 +1,108 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Use threshold-independent metrics instead of threshold-dependent ones in model evaluation.
+#### Context
+The performance of the machine learning model can be measured by different metrics, including threshold-dependent metrics (e.g., F-measure) or threshold-independent metrics (e.g., Area Under the Curve (AUC)).
+#### Problem
+Choosing a specific threshold is tricky and can lead to a less-interpretable result [15].
+#### Solution
+Threshold-independent metrics are more robust and should be preferred over threshold-dependent metrics.
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if a machine learning evaluation library is imported:
+    
+    -   `sklearn.metrics`
+        
+    -   `tensorflow.keras.metrics`
+        
+    -   `torchmetrics`
+        
+    -   `xgboost`, `lightgbm`, or any ML model with `.score()` methods
+        
+2.  If evaluation metrics are used:
+    
+    2.1 Search for use of threshold-dependent metrics:
+    
+    -   `f1_score(...)`
+        
+    -   `precision_score(...)`
+        
+    -   `recall_score(...)`
+        
+    -   `accuracy_score(...)`
+        
+    -   `fbeta_score(...)`
+        
+    -   Any custom logic comparing `y_pred > threshold` or `if pred >= 0.5`
+        
+    
+    2.2 Check if these metrics are used alone for evaluation or model selection.
+    
+     If only threshold-dependent metrics are used → mark as Threshold-Dependent Validation
+    
+3.  Check if threshold-independent metrics are used:
+    
+    -   `roc_auc_score(...)`
+        
+    -   `metrics.auc(...)`
+        
+    -   `log_loss(...)`
+        
+    -   `average_precision_score(...)`
+        
+    -   `precision_recall_curve(...)`
+        
+    -   `roc_curve(...)`
+        
+    
+    3.1 If threshold-independent metrics are used alongside threshold-dependent ones:
+    
+    -   Do not mark as code smell.
+        
+4.  If thresholding logic is applied manually (e.g., `pred > 0.5`) to turn probabilities into class labels:
+    
+    -   And used for model comparison or reporting
+        
+    -   Without also reporting threshold-independent metrics:
+        
+    -   Mark as Threshold-Dependent Validation
+        
+5.  If no evaluation metric or model validation step is present:
+
+-   Skip this check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Threshold Dependent Validation code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Threshold Dependent Validation code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": <Code of the first instance as a String>,
+        "line": <Line number of the first instance as an Int>
+    },
+    {
+        "code": <Code of the second instance as a String>,
+        "line": <line number of the second instance as an Int>
+    }
+]
+
+Respond with only the json array of the instance and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

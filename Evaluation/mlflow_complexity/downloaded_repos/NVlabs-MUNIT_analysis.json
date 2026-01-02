@@ -1,0 +1,79 @@
+[
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/data.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/networks.py",
+    "num_functions": 44,
+    "max_function_depth": 1,
+    "num_classes": 15,
+    "num_assignments": 188,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 576
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 109
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/test_batch.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 160
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/trainer.py",
+    "num_functions": 21,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 158,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 381
+  },
+  {
+    "file": "NVlabs/MUNIT/NVlabs-MUNIT-a82e222/utils.py",
+    "num_functions": 26,
+    "max_function_depth": 3,
+    "num_classes": 1,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 386
+  }
+]

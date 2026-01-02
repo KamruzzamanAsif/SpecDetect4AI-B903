@@ -1,0 +1,233 @@
+[
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/args.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/datasets/img_cap_retrieval.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/datasets/nli.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 107
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/datasets/sst.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/embedders.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 212
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/embeddings.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/encoders.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/logger.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/tasks/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/tasks/base.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 87
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/tasks/img_cap_retrieval.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 99,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 314
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/tasks/nli.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 105
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/dme/tasks/text_classification.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 103
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/get_embeddings.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/get_flickr30k.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 101
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/get_multinli.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/get_snli.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/get_sst2.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "facebookresearch/DME/facebookresearch-DME-ab5a9d1/train.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 229
+  }
+]

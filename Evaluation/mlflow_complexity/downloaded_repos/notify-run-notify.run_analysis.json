@@ -1,0 +1,46 @@
+[
+  {
+    "file": "notify-run/notify.run/notify-run-notify.run-0b37558/py_client/notify_run/__init__.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 152
+  },
+  {
+    "file": "notify-run/notify.run/notify-run-notify.run-0b37558/py_client/notify_run/cli.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "notify-run/notify.run/notify-run-notify.run-0b37558/py_client/notify_run/keras.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "notify-run/notify.run/notify-run-notify.run-0b37558/py_client/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  }
+]

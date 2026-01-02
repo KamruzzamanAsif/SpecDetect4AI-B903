@@ -1,0 +1,46 @@
+[
+  {
+    "file": "imfing/audio-classification/imfing-audio-classification-a036ccc/cnn.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "imfing/audio-classification/imfing-audio-classification-a036ccc/feat_extract.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "imfing/audio-classification/imfing-audio-classification-a036ccc/nn.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "imfing/audio-classification/imfing-audio-classification-a036ccc/svm.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/DEPRECATED/Graphers/SPY.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 207
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/DEPRECATED/Graphers/Stock Vs. Volume.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/DEPRECATED/Scrapers/Yahoo Finance Multi Stock Scraper.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/DEPRECATED/Scrapers/finviz.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/DEPRECATED/Scrapers/stock_scraper.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Patterns/MACD.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Patterns/TrendLine.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Prediction/svc.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Regression/linear-svc-machine-learning.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Screener/QMAScreener.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Sentiment/analyse.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 153
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Sentiment/getSentiment.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 125
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Sentiment/headlines.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "Vaibhav/Stock-Analysis/Vaibhav-Stock-Analysis-d5aefe8/Sentiment/stocktwits.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  }
+]

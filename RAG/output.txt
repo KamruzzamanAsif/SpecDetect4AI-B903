@@ -1,0 +1,29 @@
+Réponse :
+```python
+def check_empty_column_initialization(ast_node):
+    """
+    Détecte l'initialisation de colonnes vides dans un DataFrame Pandas.
+    Cela se produit lorsque des colonnes sont créées sans être assignées à des valeurs ou à des données.
+    """
+    import ast
+    add_parent_info(ast_node)
+    
+    # Recherche des assignations de colonnes dans le DataFrame
+    column_assignments = [
+        n for n in ast.walk(ast_node)
+        if isinstance(n, ast.Assign) and 
+        any(isinstance(t, ast.Subscript) and isinstance(t.value, ast.Name) and t.value.id == 'df' for t in n.targets)
+    ]
+    
+    # Vérifie si des colonnes sont assignées sans valeur
+    for assignment in column_assignments:
+        if len(assignment.value.elts) == 0:  # Vérifie si la liste d'assignation est vide
+            return True  # Une colonne vide a été initialisée
+    return False  # Aucune colonne vide n'a été initialisée
+```
+
+Sources utilisées (top-k = 4):
+  [1] docs/parse_dsl.txt
+  [2] docs/parse_dsl.txt
+  [3] docs/parse_dsl.txt
+  [4] docs/parse_dsl.txt

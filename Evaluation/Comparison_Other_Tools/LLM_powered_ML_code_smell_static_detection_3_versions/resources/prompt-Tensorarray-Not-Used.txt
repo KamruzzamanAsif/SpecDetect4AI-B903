@@ -1,0 +1,79 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Use tf.TensorArray() in TensorFlow 2 if the value of the array will change in the loop.
+#### Context
+Developers may need to change the value of the array in the loops in TensorFlow.
+#### Problem
+If the developer initializes an array using tf.constant() and tries to assign a new value to it in the loop to keep it growing, the code will run into an error. The developer can fix this error by the low-level tf.while_loop() API (6). However, it is inefficient coding in this way. A lot of intermediate tensors are built in this process.
+#### Solution
+Using tf.TensorArray() for growing array in the loop is a better alternative for this kind of problem in TensorFlow 2. Developers should use new data types from libraries for more intelligent solutions.
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `tensorflow` is imported.
+    
+2.  If TensorFlow is imported:
+    
+    2.1 Search for uses of:
+    
+    -   `tf.constant(...)`
+        
+3.  For each `tf.constant(...)` found:
+    
+    3.1 Check if:
+    
+    -   It is used to initialize an array or tensor.
+        
+    -   Then inside a loop (`for`, `while`, `tf.while_loop`) the array/tensor is modified, grown, or extended.
+        
+4.  Operations inside the loop that indicate size change to watch for:
+    
+    -   `tf.concat(...)`
+        
+    -   `tf.stack(...)`
+        
+    -   Manual slicing and reassignments
+        
+    -   Reassigning larger arrays to the same variable
+        
+    -   Any cumulative aggregation pattern that modifies the tensor's size over iterations
+        
+5.  If `tf.constant()` is used and then the array/tensor is grown or modified inside a loop, and `tf.TensorArray()` is not used instead:
+    
+
+-   Mark as TensorArray Not Used.
+    
+
+6.  If TensorFlow is not imported:
+    
+
+-   Skip this check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the TensorArray Not Used code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the TensorArray Not Used code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"c = tf.constant([1, 1])",
+"c = tf.concat([c, [b]], 0)"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

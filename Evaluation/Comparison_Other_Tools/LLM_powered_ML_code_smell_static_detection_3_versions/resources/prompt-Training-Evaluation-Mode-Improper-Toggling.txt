@@ -1,0 +1,81 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Call the training mode in the appropriate place in deep learning code to avoid forgetting to toggle back the training mode after the inference step.
+#### Context
+In PyTorch, calling .eval() means we are going into the evaluation mode and the Dropout layer will be deactivated.
+#### Problem
+If the training mode did not toggle back in time, the Dropout layer would not be used in some data training and thus affect the training result (36). The same applies to TensorFlow library.
+#### Solution
+Developers should call the training mode in the right place to avoid forgetting to switch back to the training mode after the inference step.
+
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `torch` (PyTorch) is imported.
+    
+2.  If PyTorch is imported:
+    
+    2.1 Search for calls to:
+    
+    -   `model.eval()`
+        
+    -   `model.train()`
+        
+3.  Check for alternation between modes:
+    
+    -   If `model.eval()` is called temporarily for evaluation (e.g., in validation step during training),
+        
+    -   Then verify that `model.train()` is called immediately after or before the next training loop/step.
+        
+4.  Typical evaluation contexts to look for:
+    
+    -   Evaluation or validation inside the training loop
+        
+    -   Evaluation between epochs
+        
+    -   Validation with `torch.no_grad()`
+        
+5.  If `model.eval()` is called and training continues afterward without a corresponding `model.train()` call:
+    
+
+-   Mark as Training / Evaluation Mode Improper Toggling.
+    
+
+6.  If TensorFlow is imported (optional, less common since `training=True/False` is passed explicitly in TF2 API):
+    
+    -   Check if Keras model methods (`model(x, training=True/False)` or `Dropout(training=...)`) are misused or if `training=True` is missing when needed.
+        
+    -   This is harder to catch structurally; you may skip TF unless explicitly relevant.
+        
+7.  If neither `torch` nor `tensorflow` is imported:
+    
+
+-   Skip this check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Training / Evaluation Mode Improper Toggling code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Training / Evaluation Mode Improper Toggling code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"net.train()"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

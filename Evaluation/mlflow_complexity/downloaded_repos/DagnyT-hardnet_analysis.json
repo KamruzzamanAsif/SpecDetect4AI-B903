@@ -1,0 +1,211 @@
+[
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/benchmarks/hpatches_extract_HardNet.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 178
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/EvalMetrics.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/HardNet.py",
+    "num_functions": 18,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 128,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 602
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/HardNetClassicalHardNegMiningSiftInit.py",
+    "num_functions": 33,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 183,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 809
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/HardNetHPatchesSplits.py",
+    "num_functions": 24,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 163,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 710
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/HardNetMultipleDatasets.py",
+    "num_functions": 24,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 164,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 707
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/Loggers.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/Losses.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/Utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/W1BS.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 60
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/check_gor_HardNet.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/check_gor_triplet.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/dataloaders/TotalDataLoader.py",
+    "num_functions": 6,
+    "max_function_depth": 3,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/dataloaders/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/dataset.py",
+    "num_functions": 24,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 139,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 417
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/download_all_datasets.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/code/phototour.py",
+    "num_functions": 13,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 233
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/examples/extract_DenseHardNet.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 124
+  },
+  {
+    "file": "DagnyT/hardnet/DagnyT-hardnet-b1e9967/examples/extract_hardnet_desc_from_hpatches_file.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 132
+  }
+]

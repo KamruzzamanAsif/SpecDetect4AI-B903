@@ -1,0 +1,101 @@
+[
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/examples/mnist.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 115
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/FFT.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/differentiable.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 107
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/filters_bank.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 100
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/scattering.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 161
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/scatwave/utils.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 283
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "edouardoyallon/pyscatwave/edouardoyallon-pyscatwave-b2bd090/test/test_scattering.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 142
+  }
+]

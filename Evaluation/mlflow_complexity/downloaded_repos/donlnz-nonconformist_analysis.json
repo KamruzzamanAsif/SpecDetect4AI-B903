@@ -1,0 +1,211 @@
+[
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/docs/conf.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 327
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/acp_classification_tree.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/acp_regression_tree.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/confidence_credibility.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/cross_validation.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/icp_classification_tree.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/icp_regression_tree.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/nc_factory.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/oob_calibration.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/examples/tcp_classification_svm.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/acp.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 6,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 379
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/base.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/cp.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 175
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/evaluation.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 457
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/icp.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 440
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/nc.py",
+    "num_functions": 28,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 524
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/nonconformist/util.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "donlnz/nonconformist/donlnz-nonconformist-c32760d/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  }
+]

@@ -1,0 +1,114 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Add a mask for possible invalid values. For example, developers should wrap the argument for tf.log() with tf.clip() to avoid the argument turning to zero.
+#### Context
+In deep learning, the value of the variable changes during training. The variable may turn into an invalid value for another operation in this process.
+#### Problem
+Several posts on Stack Overflow talk about the pitfalls that are not easy to discover caused by the input of the log function approaching zero (21)(22)(23)(24). In this kind of programs, the input variable turns to zero and becomes an invalid value for tf.log(), which raises an error during the training process. However, the error’s stack trace did not directly point to the line of code that the bug exists [22]. This problem is not easy to debug and may take a long training time to find.
+#### Solution
+The developer should check the input for the log function or other functions that have special requirements for the argument and add a mask for them to avoid the invalid value. For example, developer can change tf.log(x) to tf.log(tf.clip_by_value(x,1e-10,1.0)). If the value of x becomes zero, i.e., lower than the lowest bound 1e-10, the tf.clip_by_value() API will act as a mask and outputs 1e-10. It will save time and effort if the developer could identify this smell before the code run into errors.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Always apply this check, regardless of which libraries are imported.  
+    (Missing mask can happen with any mathematical computation library or pure Python.)
+    
+
+2.  Search for the use of functions that require a positive nonzero input and can fail if input is 0, negative, NaN, or too small.  
+    Here is the exhaustive list of functions to check:
+    
+    2.1 Logarithmic functions:
+    
+    -   `tf.math.log()`
+        
+    -   `tf.log()` (TensorFlow 1.x)
+        
+    -   `torch.log()`
+        
+    -   `np.log()`
+        
+    -   `np.log1p()`
+        
+    -   `jax.numpy.log()` _(if JAX is used)_
+        
+    
+    2.2 Root functions (optional, rare): _(Not mandatory unless you want extreme coverage.)_
+    
+    -   `np.sqrt()`
+        
+    -   `torch.sqrt()`
+        
+    -   `tf.math.sqrt()`
+        
+    -   (Problems here happen with negative values.)
+        
+    
+    2.3 Division operations (optional, less priority):
+    
+    -   Manual division `/` where denominator could become 0.
+        
+
+
+3.  For each function call found:
+    
+    3.1 Check if a "mask" is applied to the input to guarantee that it stays within a valid range:
+    
+    -   Typical masks:
+        
+        -   `tf.clip_by_value(x, min, max)`
+            
+        -   `torch.clamp(x, min=min_value, max=max_value)`
+            
+        -   `np.clip(x, min, max)`
+            
+        -   Manual `x = max(x, 1e-10)` or equivalent small floor
+            
+    
+    3.2 Mask should happen immediately before applying `log()` or similar.
+    
+
+
+4.  If the function (`log`, `log1p`, etc.) is called directly on a variable without masking:
+    
+
+-   Mark as Missing the Mask of Invalid Value.
+    
+
+5.  If the function is applied directly to a literal constant (e.g., `np.log(5)`), no mask is needed.
+    
+
+##### Special notes:
+
+-   If the value passed is the output of a softmax, sigmoid, probability computation, or anything potentially close to `0` or `1`, masking is definitely necessary.
+    
+-   If the value is hard-coded and safe (e.g., manually crafted numbers), no smell.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Missing The Mask Of Invalid Value code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Missing The Mask Of Invalid Value code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": "cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_*tf.log(y_conv),reduction_indices=[1]))",
+        "line": 97
+    }
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

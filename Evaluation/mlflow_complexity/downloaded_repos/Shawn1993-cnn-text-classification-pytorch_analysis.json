@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Shawn1993/cnn-text-classification-pytorch/Shawn1993-cnn-text-classification-pytorch-c3059f4/main.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 116
+  },
+  {
+    "file": "Shawn1993/cnn-text-classification-pytorch/Shawn1993-cnn-text-classification-pytorch-c3059f4/model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "Shawn1993/cnn-text-classification-pytorch/Shawn1993-cnn-text-classification-pytorch-c3059f4/mydatasets.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "Shawn1993/cnn-text-classification-pytorch/Shawn1993-cnn-text-classification-pytorch-c3059f4/train.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 102
+  }
+]

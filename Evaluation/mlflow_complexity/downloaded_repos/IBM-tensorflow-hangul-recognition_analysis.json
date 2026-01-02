@@ -1,0 +1,57 @@
+[
+  {
+    "file": "IBM/tensorflow-hangul-recognition/IBM-tensorflow-hangul-recognition-d6435db/hangul_model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 318
+  },
+  {
+    "file": "IBM/tensorflow-hangul-recognition/IBM-tensorflow-hangul-recognition-d6435db/tests/test_image_generator.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "IBM/tensorflow-hangul-recognition/IBM-tensorflow-hangul-recognition-d6435db/tools/classify-hangul.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "IBM/tensorflow-hangul-recognition/IBM-tensorflow-hangul-recognition-d6435db/tools/convert-to-tfrecords.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 198
+  },
+  {
+    "file": "IBM/tensorflow-hangul-recognition/IBM-tensorflow-hangul-recognition-d6435db/tools/hangul-image-generator.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  }
+]

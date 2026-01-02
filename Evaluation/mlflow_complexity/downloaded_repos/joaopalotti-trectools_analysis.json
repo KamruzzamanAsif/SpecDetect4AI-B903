@@ -1,0 +1,200 @@
+[
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/fusion.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 221
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/misc.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/procedures.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 102
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_eval.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 272,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 982
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_indri.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_pisa.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_pool.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 100
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_pool_maker.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 145
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_qrel.py",
+    "num_functions": 25,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 306
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_res.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_run.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 190
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_terrier.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/trectools/trec_topics.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/unittests/runner.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/unittests/testtreceval.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "joaopalotti/trectools/joaopalotti-trectools-8a896de/unittests/testtrecrun.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  }
+]

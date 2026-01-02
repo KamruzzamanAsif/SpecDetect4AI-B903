@@ -1,0 +1,79 @@
+[
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/doc/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 295
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/nolds/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/nolds/datasets.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 468
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/nolds/examples.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 120,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 620
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/nolds/measures.py",
+    "num_functions": 31,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 291,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2222
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/nolds/test_measures.py",
+    "num_functions": 46,
+    "max_function_depth": 2,
+    "num_classes": 9,
+    "num_assignments": 167,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 691
+  },
+  {
+    "file": "CSchoel/nolds/CSchoel-nolds-f121fee/setup.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/docs/conf.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 325
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/examples/alternative_base.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/examples/benchmarks.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/examples/federated_learning_with_encryption.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 266
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/examples/logistic_regression_encrypted_model.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 218
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/__about__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/command_line.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 280
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/encoding.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 265
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/paillier.py",
+    "num_functions": 43,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 752
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/tests/cli_test.py",
+    "num_functions": 37,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 88,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 400
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/tests/math_test.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/tests/paillier_test.py",
+    "num_functions": 116,
+    "max_function_depth": 1,
+    "num_classes": 14,
+    "num_assignments": 350,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1103
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/tests/util_test.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/phe/util.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 443
+  },
+  {
+    "file": "data61/python-paillier/data61-python-paillier-7d9911e/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 65
+  }
+]

@@ -1,0 +1,61 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Use self.net() in PyTorch to forward the input to the network instead of self.net.forward().
+#### Context
+Both self.net() and self.net.forward() can be used to forward the input into the network in PyTorch.
+#### Problem
+In PyTorch, self.net() and self.net.forward() are not identical. The self.net() also deals with all the register hooks, which would not be considered when calling the plain .forward() (5).
+#### Solution
+It is recommended to use self.net() rather than self.net.forward().
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `torch` is imported.
+    
+2.  If PyTorch is imported:
+    
+    2.1 Search for calls to:
+    
+    -   `.forward(...)` directly on a `nn.Module` subclass (e.g., `self.net.forward(...)`, `net.forward(...)`)
+        
+3.  If `.forward(...)` is used instead of calling the model directly (e.g., `net(...)`):
+    
+
+-   Mark as PyTorch Call Method Misused.
+    
+
+4.  If none of these patterns are found, or if PyTorch is not imported:
+    
+
+-   Skip this check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Pytorch Call Method Misused code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Pytorch Call Method Misused code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": "x = self.pool.forward(F.relu(self.conv1(x)))",
+        "line": 27
+    }
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/bt/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/bt/algos.py",
+    "num_functions": 110,
+    "max_function_depth": 1,
+    "num_classes": 56,
+    "num_assignments": 350,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2361
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/bt/backtest.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 608
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/bt/core.py",
+    "num_functions": 87,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 309,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 2088
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/docs/source/_themes/klink/docs/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 249
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/docs/source/_themes/klink/klink/__init__.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/docs/source/_themes/klink/klink/demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/docs/source/_themes/klink/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/docs/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 258
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/examples/buy_and_hold.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/examples/pairs_trading.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 241
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/tests/bench.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/tests/test_algos.py",
+    "num_functions": 75,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 760,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2304
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/tests/test_backtest.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 106,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 324
+  },
+  {
+    "file": "pmorissette/bt/pmorissette-bt-dda47fa/tests/test_core.py",
+    "num_functions": 84,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 843,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3981
+  }
+]

@@ -1,0 +1,81 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Check whether feature scaling is added before scaling-sensitive operations.
+#### Context
+Feature scaling is a method of aligning features from various value ranges to the same range (18).
+#### Problem
+There are many operations sensitive to feature scaling, including Principal Component Analysis (PCA), Support Vector Machine (SVM), Stochastic Gradient Descent (SGD), Multi-layer Perceptron classifier and L1 and L2 regularization (2)(16). Missing scaling can lead to a wrong conclusion. For example, if one variable is on a larger scale than another, it will dominate the PCA procedure. Therefore, PCA without feature scaling can produce a wrong principal component result.
+#### Solution
+To avoid bugs, whether feature scaling is added before scaling-sensitive operations should be checked.
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `scikit-learn` (sklearn) is imported.
+    
+    -   `import sklearn`
+        
+    -   or `from sklearn import ...`
+        
+2.  Search for usage of scaling-sensitive operations:
+    
+    -   `PCA()`
+        
+    -   `SVC()`
+        
+    -   `SGDClassifier()`
+        
+    -   `SGDRegressor()`
+        
+    -   `MLPClassifier()`
+        
+    -   `MLPRegressor()`
+        
+    -   `Ridge()`
+        
+    -   `Lasso()`
+        
+    -   `ElasticNet()`
+        
+3.  For each of these:
+    
+    -   Check if a scaler (`StandardScaler()`, `MinMaxScaler()`, `RobustScaler()`, `Normalizer()`, etc.) is applied before the sensitive operation.
+        
+    -   Typically this is done through a `Pipeline()` or manual preprocessing.
+        
+4.  If no scaling is done before, mark as No Scaling Before Scaling-sensitive Operation.
+    
+5.  If scikit-learn is not imported, skip the check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the No Scaling Before Scaling Sensitive Operation code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the No Scaling Before Scaling Sensitive Operation code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": "clf = make_pipeline(PCA(n_components=2), GaussianNB())",
+        "line": 43
+    },
+    {
+        "code": "clf = SVC()",
+        "line": 99
+    }
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

@@ -1,0 +1,58 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+When the multiply operation is performed on two-dimensional matrixes, use np.matmul() instead of np.dot() in NumPy for better semantics.
+#### Context
+When the multiply operation is performed on twodimensional matrixes, np.matmul() and np.dot() give the same result, which is a matrix.
+#### Problem
+In mathematics, the result of the dot product is expected to be a scalar rather than a vector (39). The np.dot() returns a new matrix for two-dimensional matrixes multiplication, which does not match with its mathematics semantics. Developers sometimes use np.dot() in scenarios where it is not supposed to, e.g., twodimensional multiplication.
+#### Solution
+When the multiply operation is performed on twodimensional matrixes, np.matmul() is preferred over np.dot() for its clear semantic (34)(35).
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `numpy` is imported.
+    
+    -   `import numpy as np`
+        
+    -   `from numpy import ...`
+        
+2.  If NumPy is imported:
+    
+    -   Search for any usage of `np.dot()`.
+        
+3.  When `np.dot()` is used:
+    
+    -   Check if both operands are two-dimensional arrays (`ndim == 2`).
+        
+4.  If both operands are 2D, mark as Matrix Multiplication API Misused.
+    
+5.  Expected alternative: use `np.matmul()` instead for 2D matrix multiplication.
+    
+6.  If NumPy is not imported, skip checking.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Matrix Multiplication Api Misused code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Matrix Multiplication Api Misused code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"np.dot(a, b)"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

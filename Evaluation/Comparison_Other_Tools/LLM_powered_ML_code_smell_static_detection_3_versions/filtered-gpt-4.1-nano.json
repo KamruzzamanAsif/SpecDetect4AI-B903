@@ -1,0 +1,562 @@
+{
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/mnist_autolog_example.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "            \"scheduler\": torch.optim.lr_scheduler.ReduceLROnPlateau("
+      ],
+      "lines": [
+        209
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___19.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()"
+      ],
+      "lines": [
+        12
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/dummy_evaluator.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "pdf = pd.read_csv(local_artifact_path)",
+        "return pdf.to_numpy()"
+      ],
+      "lines": [
+        25,
+        26
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_6.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 42 >>>     train = model.history",
+        "Line 43 >>>     predictions = model.predict(model.make_future_dataframe(30))"
+      ],
+      "lines": [
+        42,
+        43
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/grid_search_cv.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "svc = svm.SVC()",
+        "clf = GridSearchCV(svc, parameters)"
+      ],
+      "lines": [
+        16,
+        17
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___18.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()",
+        "loss.backward()"
+      ],
+      "lines": [
+        36,
+        42
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_7.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 81 >>>     dataset_shuffled = tf.random.shuffle(dataset_tf, seed=42)"
+      ],
+      "lines": [
+        81
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_high_level_api.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "optim = paddle.optimizer.Adam(learning_rate=0.01, parameters=model.parameters())"
+      ],
+      "lines": [
+        20
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/base_models.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 26 >>> ",
+        "Line 27 >>> class ConfigModel(",
+        "Line 28 >>>     BaseModel,",
+        "Line 29 >>>     # Ignore extra fields for pydantic config models, since they are unused",
+        "Line 30 >>>     extra=Extra.ignore,",
+        "Line 31 >>> )"
+      ],
+      "lines": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_3.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "model = CatBoostRegressor(**params)"
+      ],
+      "lines": [
+        21
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/custom_metrics_patch.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "        sample_weight=1 / eval_df[\"prediction\"].values,"
+      ],
+      "lines": [
+        8
+      ]
+    },
+    "In-Place Apis Misused": {
+      "instances": [
+        "        sample_weight=1 / eval_df[\"prediction\"].values,"
+      ],
+      "lines": [
+        8
+      ]
+    },
+    "Missing The Mask Of Invalid Value": {
+      "instances": [
+        "        sample_weight=1 / eval_df["
+      ],
+      "lines": [
+        8
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/evaluate_with_custom_metrics_comprehensive.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 29 >>> eval_data = X_test.copy()"
+      ],
+      "lines": [
+        29
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/dummy_module.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "# this is a blank module used for testing _add_code_to_system_path from model_utils.py"
+      ],
+      "lines": [
+        1
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/one_vs_rest.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "lor = LogisticRegression(maxIter=5)"
+      ],
+      "lines": [
+        15
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___12.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()"
+      ],
+      "lines": [
+        4
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/mnist_tensorboard_artifact.py": {
+    "Training Evaluation Mode Improper Toggling": {
+      "instances": [
+        "Line 166 >>>     model.eval()",
+        "Line 192 >>> def log_scalar(name, value, step):"
+      ],
+      "lines": [
+        166,
+        192
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/wrapped_recipe_model.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "output = pd.DataFrame(columns=score_cols, data=probabilities)"
+      ],
+      "lines": [
+        38
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/ml_package_versions.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 4 >>> _ML_PACKAGE_VERSIONS = {",
+        "Line 122 >>>         \"models\": {\"",
+        "Line 137 >>>             \"minimum\": \"0.11.1\",",
+        "Line 138 >>>             \"maximum\": \"0.14.0\"",
+        "Line 142 >>>             \"maximum\": \"0.14.0\""
+      ],
+      "lines": [
+        4,
+        122,
+        137,
+        138,
+        142
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___11.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()"
+      ],
+      "lines": [
+        12
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_keras.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "model.compile(loss=\"mse\", optimizer=keras.optimizers.Adam(lr=0.0001))"
+      ],
+      "lines": [
+        90
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___35.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()"
+      ],
+      "lines": [
+        12
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/sources.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "__all__ = []"
+      ],
+      "lines": [
+        1
+      ]
+    },
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "__all__ = []"
+      ],
+      "lines": [
+        1
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_ingest_step.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "pd.testing.assert_frame_equal(reloaded_df, pandas_df)",
+        "pd.testing.assert_frame_equal(reloaded_df, pandas_df)",
+        "pd.testing.assert_frame_equal(reloaded_df, pandas_df)"
+      ],
+      "lines": [
+        94,
+        134,
+        182
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___31.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "ndarray = mx.nd.array(data.values)"
+      ],
+      "lines": [
+        119
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/iris.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "return torch.optim.SGD("
+      ],
+      "lines": [
+        41
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/pipeline.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 18 >>>     lor = LogisticRegression(maxIter=5, featuresCol=scaler.getOutputCol())"
+      ],
+      "lines": [
+        18
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_low_level_api.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "opt = paddle.optimizer.SGD(learning_rate=0.01, parameters=model.parameters())"
+      ],
+      "lines": [
+        45
+      ]
+    },
+    "Training Evaluation Mode Improper Toggling": {
+      "instances": [
+        "model.train()"
+      ],
+      "lines": [
+        42
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___5.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "loss.backward()"
+      ],
+      "lines": [
+        4
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_pytest_raises_checker.py": {
+    "Training Evaluation Mode Improper Toggling": {
+      "instances": [
+        "with pytest.raises(Exception):",
+        "with context_manager, pytest.raises(Exception):",
+        "pytest.raises(Exception)"
+      ],
+      "lines": [
+        23,
+        32,
+        41
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/log_runs.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "clf = GridSearchCV(svm.SVC(), parameters)",
+        "clf = svm.SVC(**params)"
+      ],
+      "lines": [
+        46,
+        51
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/databricks_job_context.py": {
+    "Data Leakage": {
+      "instances": [
+        "class DatabricksJobRunContext(RunContextProvider):",
+        "    def in_context(self):",
+        "        return databricks_utils.is_in_databricks_job()",
+        "    def tags(self):",
+        "        job_id = databricks_utils.get_job_id()",
+        "        job_run_id = databricks_utils.get_job_run_id()",
+        "        job_type = databricks_utils.get_job_type()",
+        "        webapp_url = databricks_utils.get_webapp_url()",
+        "        workspace_url = databricks_utils.get_workspace_url()",
+        "        workspace_url_fallback, workspace_id = databricks_utils.get_workspace_info_from_dbutils()",
+        "        tags = {",
+        "            MLFLOW_SOURCE_NAME: (",
+        "                f\"jobs/{job_id}/run/{job_run_id}\"",
+        "                if job_id is not None and job_run_id is not None",
+        "                else None",
+        "            ),",
+        "            MLFLOW_SOURCE_TYPE: SourceType.to_string(SourceType.JOB),",
+        "        }",
+        "        if job_id is not None:",
+        "            tags[MLFLOW_DATABRICKS_JOB_ID] = job_id",
+        "        if job_run_id is not None:",
+        "            tags[MLFLOW_DATABRICKS_JOB_RUN_ID] = job_run_id",
+        "        if job_type is not None:",
+        "            tags[MLFLOW_DATABRICKS_JOB_TYPE] = job_type",
+        "        if webapp_url is not None:",
+        "            tags[MLFLOW_DATABRICKS_WEBAPP_URL] = webapp_url",
+        "        if workspace_url is not None:",
+        "            tags[MLFLOW_DATABRICKS_WORKSPACE_URL] = workspace_url",
+        "        elif workspace_url_fallback is not None:",
+        "            tags[MLFLOW_DATABRICKS_WORKSPACE_URL] = workspace_url_fallback",
+        "        if workspace_id is not None:",
+        "            tags[MLFLOW_DATABRICKS_WORKSPACE_ID] = workspace_id",
+        "        return tags"
+      ],
+      "lines": [
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_1.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "mlflow.tensorflow.autolog()"
+      ],
+      "lines": [
+        15
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_pmdarima_model_export.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "        np.testing.assert_array_equal(r_example, example)"
+      ],
+      "lines": [
+        135
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/base.py": {
+    "Training Evaluation Mode Improper Toggling": {
+      "instances": [
+        "# This call should import the **system** operator, not the dummy_package.operator"
+      ],
+      "lines": [
+        1
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_5.py": {
+    "Data Leakage": {
+      "instances": [
+        "Line 16 >>>     X, y = load_diabetes(return_X_y=True, as_frame=True)",
+        "Line 17 >>>     X_train, X_test, y_train, y_test = train_test_split(X, y)"
+      ],
+      "lines": [
+        16,
+        17
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "    regressor = xgb.XGBRegressor(n_estimators=20, reg_lambda=1, gamma=0, max_depth=3)"
+      ],
+      "lines": [
+        23
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/routes.py": {
+    "Gradients Not Cleared Before Backward Propagation": {
+      "instances": [
+        "Line 6 >>> CREATE_USER = _get_rest_path(\"/mlflow/users/create\")",
+        "Line 7 >>> GET_USER = _get_rest_path(\"/mlflow/users/get\")",
+        "Line 8 >>> UPDATE_USER_PASSWORD = _get_rest_path(\"/mlflow/users/update-password\")",
+        "Line 9 >>> UPDATE_USER_ADMIN = _get_rest_path(\"/mlflow/users/update-admin\")",
+        "Line 10 >>> DELETE_USER = _get_rest_path(\"/mlflow/users/delete\")",
+        "Line 11 >>> CREATE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/create\")",
+        "Line 12 >>> GET_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/get\")",
+        "Line 13 >>> UPDATE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/update\")",
+        "Line 14 >>> DELETE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/delete\")",
+        "Line 15 >>> CREATE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/create\")",
+        "Line 16 >>> GET_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/get\")",
+        "Line 17 >>> UPDATE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/update\")",
+        "Line 18 >>> DELETE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/delete\")"
+      ],
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    "Missing The Mask Of Invalid Value": {
+      "instances": [
+        "Line 6 >>> CREATE_USER = _get_rest_path(\"/mlflow/users/create\")",
+        "Line 7 >>> GET_USER = _get_rest_path(\"/mlflow/users/get\")",
+        "Line 8 >>> UPDATE_USER_PASSWORD = _get_rest_path(\"/mlflow/users/update-password\")",
+        "Line 9 >>> UPDATE_USER_ADMIN = _get_rest_path(\"/mlflow/users/update-admin\")",
+        "Line 10 >>> DELETE_USER = _get_rest_path(\"/mlflow/users/delete\")",
+        "Line 11 >>> CREATE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/create\")",
+        "Line 12 >>> GET_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/get\")",
+        "Line 13 >>> UPDATE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/update\")",
+        "Line 14 >>> DELETE_EXPERIMENT_PERMISSION = _get_rest_path(\"/mlflow/experiments/permissions/delete\")",
+        "Line 15 >>> CREATE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/create\")",
+        "Line 16 >>> GET_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/get\")",
+        "Line 17 >>> UPDATE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/update\")",
+        "Line 18 >>> DELETE_REGISTERED_MODEL_PERMISSION = _get_rest_path(\"/mlflow/registered-models/permissions/delete\")"
+      ],
+      "lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  }
+}

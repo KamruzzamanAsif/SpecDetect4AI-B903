@@ -1,0 +1,69 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Set deterministic algorithm option to True during the development process, and use the option that provides better performance in the production.
+#### Context
+Using deterministic algorithms can improve reproducibility.
+#### Problem
+The non-deterministic algorithm cannot produce repeatable results, which is inconvenient for debugging.
+#### Solution
+Some libraries provide APIs for developers to use the deterministic algorithm. In PyTorch, it is suggested to set torch.use_-deterministic_algorithms(True) when debugging (9). However, the application will perform slower if this option is set, so it is suggested not to use it in the deployment stage.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if any of these libraries is imported:
+    
+    -   `torch` (PyTorch)
+
+    -   `tensorflow`
+
+2.  If PyTorch is imported:
+
+    2.1 Before any model training (`model.forward()`, `loss.backward()`, `optimizer.step()`, or any training loop):
+
+    -   Search if:
+
+        -   `torch.use_deterministic_algorithms(True)` is called.
+
+
+    If not set to `True` before training starts, mark as Deterministic Algorithm Option Not Used.
+
+3.  If TensorFlow is imported:
+
+    3.1 Before any model training (`model.fit()`, `GradientTape` manual training loops, etc.):
+
+    -   Search if:
+
+        -   `tf.config.experimental.enable_op_determinism()` is called.
+
+
+    If not called before training, mark as Deterministic Algorithm Option Not Used.
+
+4.  If none of these libraries are imported:
+
+-   Skip this check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Deterministic Algorithm Option Not Used code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Deterministic Algorithm Option Not Used code smell found as a json array of string. The json array contains the complete code line of each instance.
+
+Something like this:
+
+"instances": [
+"model.fit()"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return an empty json array like this : []

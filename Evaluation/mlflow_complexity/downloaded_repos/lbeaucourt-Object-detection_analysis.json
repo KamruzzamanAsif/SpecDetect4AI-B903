@@ -1,0 +1,57 @@
+[
+  {
+    "file": "lbeaucourt/Object-detection/lbeaucourt-Object-detection-559b589/function/realtime.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "lbeaucourt/Object-detection/lbeaucourt-Object-detection-559b589/function/video.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 113
+  },
+  {
+    "file": "lbeaucourt/Object-detection/lbeaucourt-Object-detection-559b589/my-object-detection.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "lbeaucourt/Object-detection/lbeaucourt-Object-detection-559b589/utils/app_utils.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "lbeaucourt/Object-detection/lbeaucourt-Object-detection-559b589/utils/objDet_utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  }
+]

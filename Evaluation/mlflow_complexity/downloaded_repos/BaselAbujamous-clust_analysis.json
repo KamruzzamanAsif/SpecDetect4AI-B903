@@ -1,0 +1,233 @@
+[
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/__main__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/clustpipeline.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 83,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 381
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/clustering.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/datastructures.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 195
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/eigengene.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/glob.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/graphics.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 202
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/io.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 71,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 339
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/mnplots.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 120,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 323
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/numeric.py",
+    "num_functions": 18,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 236
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/output.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 122,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 470
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/postprocess_results.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 276,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 580
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/preprocess_data.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 250,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 696
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/statistical.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/uncles.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 215,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 595
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/clust/scripts/validation.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "BaselAbujamous/clust/BaselAbujamous-clust-f91fd48/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  }
+]

@@ -1,0 +1,946 @@
+{
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_gluon_autolog.py": {
+    "Deterministic Algorithm Option Not Used": {
+      "instances": [
+        "Line 33 >>>             array_module.array(np.random.rand(1, 32))",
+        "Line 34 >>>             array_module.full(1, random.randint(0, 10), dtype=\"float32\")",
+        "Line 67 >>>         est.fit(data, epochs=3, val_data=validation)",
+        "Line 161 >>>     est.fit(data, epochs=3)",
+        "Line 185 >>>         est.fit(data, epochs=3)",
+        "Line 213 >>>         est.fit(data, epochs=3)"
+      ],
+      "lines": [
+        33,
+        34,
+        67,
+        161,
+        185,
+        213
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 33 >>>             array_module.array(np.random.rand(1, 32)),",
+        "Line 34 >>>             array_module.full(1, random.randint(0, 10), dtype=\"float32\"),"
+      ],
+      "lines": [
+        33,
+        34
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_prophet_model_export.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "np.random.seed(42)",
+        "np.random.seed(SEED)"
+      ],
+      "lines": [
+        53,
+        122
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_2.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 24 >>> classifier = LogisticRegression(**params).fit(X, y)"
+      ],
+      "lines": [
+        24
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 23 >>> params = {\"C\": 1.0, \"random_state\": 42}"
+      ],
+      "lines": [
+        23
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/mnist_autolog_example.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 208 >>>         self.optimizer = torch.optim.Adam(self.parameters(), lr=self.learning_rate)"
+      ],
+      "lines": [
+        208
+      ]
+    },
+    "Memory Not Freed": {
+      "instances": [
+        "Line 167 >>>         self.val_outputs.append(loss)",
+        "Line 191 >>>         self.test_outputs.append(test_acc)"
+      ],
+      "lines": [
+        167,
+        191
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 55 >>>         self.df_train, self.df_val = random_split(self.df_train, [55000, 5000])"
+      ],
+      "lines": [
+        55
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_gluon_model_export.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 65 >>>     labels = np.random.randint(0, 10, size=N)",
+        "Line 66 >>>     train_data = np.random.random(shape)"
+      ],
+      "lines": [
+        65,
+        66
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_model.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "knn_model = sklearn.neighbors.KNeighborsClassifier()"
+      ],
+      "lines": [
+        37
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 27 >>> def iris_data():",
+        "Line 28 >>>     iris = sklearn.datasets.load_iris()",
+        "Line 37 >>>     knn_model = sklearn.neighbors.KNeighborsClassifier()"
+      ],
+      "lines": [
+        27,
+        28,
+        37
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/dummy_evaluator.py": {
+    "Threshold Dependent Validation": {
+      "instances": [
+        "Line 51 >>>             accuracy_score = sk_metrics.accuracy_score(self.y, y_pred)"
+      ],
+      "lines": [
+        51
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_6.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 23 >>>     model = Prophet().fit(sales_data)"
+      ],
+      "lines": [
+        23
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 23 >>>     model = Prophet().fit(sales_data)",
+        "Line 28 >>>     metrics_raw = cross_validation("
+      ],
+      "lines": [
+        23,
+        28
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/pyfunc.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 30 >>> with mlflow.start_run():",
+        "Line 68 >>> with mlflow.start_run():",
+        "Line 100 >>> with mlflow.start_run():",
+        "Line 135 >>> with mlflow.start_run():"
+      ],
+      "lines": [
+        30,
+        68,
+        100,
+        135
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/grid_search_cv.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 16 >>>     svc = svm.SVC()"
+      ],
+      "lines": [
+        16
+      ]
+    },
+    "No Scaling Before Scaling Sensitive Operation": {
+      "instances": [
+        "Line 16 >>>     svc = svm.SVC()"
+      ],
+      "lines": [
+        16
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 16 >>>     svc = svm.SVC()",
+        "Line 17 >>>     clf = GridSearchCV(svc, parameters)"
+      ],
+      "lines": [
+        16,
+        17
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_7.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "Line 73 >>>     dataset = fetch_california_housing(as_frame=True)[\"frame\"]"
+      ],
+      "lines": [
+        73
+      ]
+    },
+    "Deterministic Algorithm Option Not Used": {
+      "instances": [
+        "Line 68 >>> if __name__ == \"__main__\":"
+      ],
+      "lines": [
+        68
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 36 >>>             rand_w = tf.random.uniform(shape=[x.shape[-1], 1])",
+        "Line 37 >>>             rand_b = tf.random.uniform(shape=[])",
+        "Line 93 >>>         lin_reg = LinearRegression()"
+      ],
+      "lines": [
+        36,
+        37,
+        93
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 36 >>>             rand_w = tf.random.uniform(shape=[x.shape[-1], 1])",
+        "Line 37 >>>             rand_b = tf.random.uniform(shape=[])"
+      ],
+      "lines": [
+        36,
+        37
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_high_level_api.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "model.fit(train_dataset, epochs=6, batch_size=8, verbose=1)"
+      ],
+      "lines": [
+        23
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_3.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 21 >>> model = CatBoostRegressor(**params)"
+      ],
+      "lines": [
+        21
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_model.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 23 >>>     model = GradientBoostingClassifier()"
+      ],
+      "lines": [
+        23
+      ]
+    },
+    "No Scaling Before Scaling Sensitive Operation": {
+      "instances": [
+        "model = GradientBoostingClassifier()"
+      ],
+      "lines": [
+        23
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 26 >>>     data, target = shuffle(data, target)",
+        "Line 23 >>>     model = GradientBoostingClassifier()"
+      ],
+      "lines": [
+        26,
+        23
+      ]
+    },
+    "Threshold Dependent Validation": {
+      "instances": [
+        "Line 33 >>>     print(\"MSE:\", mean_squared_error(model.predict(val_x), val_y))"
+      ],
+      "lines": [
+        33
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___38.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "Line 82 >>>         ingested_df = read_parquet_as_pandas_df(data_parquet_path=dataset_dst_path)"
+      ],
+      "lines": [
+        82
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_model_utils.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 22 >>>     knn_model = knn.KNeighborsClassifier()"
+      ],
+      "lines": [
+        22
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 22 >>>     knn_model = knn.KNeighborsClassifier()"
+      ],
+      "lines": [
+        22
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/evaluate_with_custom_metrics_comprehensive.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 22 >>> lin_reg = LinearRegression().fit(X_train, y_train)"
+      ],
+      "lines": [
+        22
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 18 >>>     cali_housing.data, cali_housing.target, test_size=0.2, random_state=123"
+      ],
+      "lines": [
+        18
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_pytorch_metric_value_conversion_utils.py": {
+    "Deterministic Algorithm Option Not Used": {
+      "instances": [
+        "Line 13 >>>     multi_item_torch_tensor = torch.rand((2, 2))",
+        "Line 22 >>>     torch_tensor_val = torch.rand(1)",
+        "Line 27 >>>     torch_tensor_val = torch.rand(1)"
+      ],
+      "lines": [
+        13,
+        22,
+        27
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 13 >>>     multi_item_torch_tensor = torch.rand((2, 2))",
+        "Line 22 >>>     torch_tensor_val = torch.rand(1)",
+        "Line 27 >>>     torch_tensor_val = torch.rand(1)"
+      ],
+      "lines": [
+        13,
+        22,
+        27
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___37.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 188 >>>         page_id = get_random_id()"
+      ],
+      "lines": [
+        188
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_fluent.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 191 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 199 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 207 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 214 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 221 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 237 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 253 >>>     name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 266 >>>     name = \"Random experiment %d\" % random.randint(1, 1e6)",
+        "Line 288 >>>     exp_name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 304 >>>     exp_name = \"random experiment %d\" % random.randint(1, 1e6)",
+        "Line 1018 >>>     name = f\"Random experiment {random.randint(1, 1e6)}\"",
+        "Line 1039 >>>     for name in [None, f\"Random {random.randint(1, 1e6)}\"]:"
+      ],
+      "lines": [
+        191,
+        199,
+        207,
+        214,
+        221,
+        237,
+        253,
+        266,
+        288,
+        304,
+        1018,
+        1039
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/one_vs_rest.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 15 >>>     lor = LogisticRegression(maxIter=5)"
+      ],
+      "lines": [
+        15
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 12 >>>     train, test = df.randomSplit([0.8, 0.2])",
+        "Line 15 >>>     lor = LogisticRegression(maxIter=5)"
+      ],
+      "lines": [
+        12,
+        15
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_http_dataset_source.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "Line 56 >>>     parsed1 = pd.read_csv(loaded1, sep=\";\")",
+        "Line 64 >>>     parsed2 = pd.read_csv(loaded2, sep=\";\")",
+        "Line 75 >>>     parsed3 = pd.read_csv(loaded3, sep=\";\")"
+      ],
+      "lines": [
+        56,
+        64,
+        75
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_signature.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 183 >>>             sk_model=RandomForestRegressor(),"
+      ],
+      "lines": [
+        183
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "from sklearn.ensemble import RandomForestRegressor"
+      ],
+      "lines": [
+        6
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/mnist_tensorboard_artifact.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "optimizer = optim.SGD(model.parameters(), lr=args.lr, momentum=args.momentum)"
+      ],
+      "lines": [
+        135
+      ]
+    },
+    "Memory Not Freed": {
+      "instances": [
+        "Line 147 >>>         loss = F.nll_loss(output, target)",
+        "Line 174 >>>             test_loss += F.nll_loss(",
+        "Line 175 >>>                 output, target, reduction=\"sum\"",
+        "Line 176 >>>             ).data.item()  # sum up batch loss"
+      ],
+      "lines": [
+        147,
+        174,
+        175,
+        176
+      ]
+    },
+    "Missing The Mask Of Invalid Value": {
+      "instances": [
+        "Line 118 >>>         return F.log_softmax(x, dim=0)"
+      ],
+      "lines": [
+        118
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "train_loader = torch.utils.data.DataLoader(",
+        "test_loader = torch.utils.data.DataLoader("
+      ],
+      "lines": [
+        75,
+        88
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_log.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 73 >>>         shap_values_original.values, shap_values_new.values, rtol=100, atol=100",
+        "Line 74 >>>         )",
+        "Line 112 >>>             shap_values_original.values, shap_values_new.values, rtol=100, atol=100",
+        "Line 138 >>>     np.testing.assert_allclose(shap_values_original.values, shap_values_new, rtol=100, atol=100)",
+        "Line 175 >>>     shap_values_new = explainer_pyfunc.predict(X[:2])",
+        "Line 353 >>>     scores = pd.DataFrame(data=decoded_json[\"predictions\"]).values",
+        "Line 390 >>>     np.testing.assert_allclose(scores, model(X[:3]).values, rtol=100, atol=100)",
+        "Line 389 >>>     scores = pd.DataFrame(data=decoded_json[\"predictions\"]).values",
+        "Line 390 >>>     np.testing.assert_allclose(scores, model(X[:3]).values, rtol=100, atol=100)",
+        "Line 390 >>>     np.testing.assert_allclose(scores, model(X[:3]).values, rtol=100, atol=100)"
+      ],
+      "lines": [
+        73,
+        74,
+        112,
+        138,
+        175,
+        353,
+        390,
+        389,
+        390,
+        390
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 31 >>>     model = sklearn.ensemble.RandomForestRegressor(n_estimators=100)",
+        "Line 52 >>>         model = sklearn.ensemble.RandomForestRegressor(n_estimators=100)",
+        "Line 88 >>>         model = sklearn.ensemble.RandomForestRegressor(n_estimators=100)",
+        "Line 127 >>>         model = sklearn.ensemble.RandomForestRegressor(n_estimators=100)",
+        "Line 166 >>>     model = sklearn.ensemble.RandomForestRegressor(n_estimators=100)",
+        "Line 328 >>>     reg = sklearn.ensemble.RandomForestRegressor(n_estimators=10).fit(X, y)",
+        "Line 364 >>>     reg = sklearn.ensemble.RandomForestRegressor(n_estimators=10).fit(X, y)"
+      ],
+      "lines": [
+        31,
+        52,
+        88,
+        127,
+        166,
+        328,
+        364
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_keras.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "Line 36 >>>     ratings_df = spark.read.parquet(ratings_data)",
+        "Line 72 >>>     pandas_df = concat_train_df.toPandas()",
+        "Line 73 >>>     pandas_test_df = concat_test_df.toPandas()"
+      ],
+      "lines": [
+        36,
+        72,
+        73
+      ]
+    },
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 77 >>>     x_test = pd.DataFrame(pandas_test_df.features.values.tolist(), index=pandas_test_df.index)",
+        "Line 78 >>>     x_train = pd.DataFrame(pandas_df.features.values.tolist(), index=pandas_df.index)"
+      ],
+      "lines": [
+        77,
+        78
+      ]
+    },
+    "Deterministic Algorithm Option Not Used": {
+      "instances": [
+        "        shuffle=False,"
+      ],
+      "lines": [
+        103
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 90 >>>     model.compile(loss=\"mse\", optimizer=keras.optimizers.Adam(lr=0.0001))"
+      ],
+      "lines": [
+        90
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 38 >>>     (training_df, test_df) = ratings_df.randomSplit([0.8, 0.2], seed=42)"
+      ],
+      "lines": [
+        38
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/step.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 153 >>>         n=max_rows, ignore_index=True, random_state=42"
+      ],
+      "lines": [
+        153
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/iterative_prune_mnist.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "trainer = L.Trainer(max_epochs=self.parser_args.max_epochs)"
+      ],
+      "lines": [
+        37
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 37 >>>         trainer = L.Trainer(max_epochs=self.parser_args.max_epochs)"
+      ],
+      "lines": [
+        37
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/__init___31.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 119 >>>             ndarray = mx.nd.array(data.values)"
+      ],
+      "lines": [
+        118
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/pipeline.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 18 >>>     lor = LogisticRegression(maxIter=5, featuresCol=scaler.getOutputCol())"
+      ],
+      "lines": [
+        18
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 14 >>>     train, test = df.randomSplit([0.8, 0.2])",
+        "Line 18 >>>     lor = LogisticRegression(maxIter=5, featuresCol=scaler.getOutputCol())"
+      ],
+      "lines": [
+        14,
+        18
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_low_level_api.py": {
+    "Data Leakage": {
+      "instances": [
+        "Line 16 >>>     X_min_max = min_max_scaler.fit_transform(X)",
+        "Line 17 >>>     X_normalized = preprocessing.scale(X_min_max, with_std=False)"
+      ],
+      "lines": [
+        16,
+        17
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 45 >>>     opt = paddle.optimizer.SGD(learning_rate=0.01, parameters=model.parameters())"
+      ],
+      "lines": [
+        45
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "np.random.shuffle(training_data)"
+      ],
+      "lines": [
+        51
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_lightgbm_model_export.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 79 >>>     model = lgb.LGBMClassifier(n_estimators=10)"
+      ],
+      "lines": [
+        79
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 79 >>>     model = lgb.LGBMClassifier(n_estimators=10)"
+      ],
+      "lines": [
+        79
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/transform.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "Line 104 >>>         train_df = pd.read_parquet(train_data_path)",
+        "Line 112 >>>         validation_df = pd.read_parquet(validation_data_path)"
+      ],
+      "lines": [
+        104,
+        112
+      ]
+    },
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 145 >>>             transformed_features[self.target_col] = dataset[self.target_col].values"
+      ],
+      "lines": [
+        141
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "transformer.fit(train_df.drop(columns=[self.target_col]), train_df[self.target_col])"
+      ],
+      "lines": [
+        136
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_tensorflow2_autolog.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 677 >>>         model.fit(data, labels, 8, epochs=10, steps_per_epoch=1)",
+        "Line 168 >>>         optimizer=tf.keras.optimizers.Adam(), loss=\"categorical_crossentropy\", metrics=[\"accuracy\"]",
+        "Line 121 >>>         optimizer=tf.keras.optimizers.Adam(),",
+        "Line 113 >>>     model.compile(",
+        "Line 613 >>>         optimizer=\"Adam\","
+      ],
+      "lines": [
+        677,
+        168,
+        121,
+        113,
+        613
+      ]
+    },
+    "Unnecessary Iteration": {
+      "instances": [
+        "    return [v[pos] for v in random_train_data]"
+      ],
+      "lines": [
+        64
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 38 >>>         random.shuffle(TRAIN_DATA)"
+      ],
+      "lines": [
+        38
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_scoring_server.py": {
+    "Columns and DataType Not Explicitly Set": {
+      "instances": [
+        "pdf = pd.DataFrame(",
+        "pdf = pd.DataFrame(",
+        "    data = pd.DataFrame(",
+        "    pdf = pd.DataFrame(sklearn_model.inference_data)",
+        "    incompatible_df = pd.DataFrame(np.array(range(10)))",
+        "    df = _shuffle_pdf(pandas_df_with_csv_types)",
+        "    df = _shuffle_pdf(pandas_df_with_all_types)",
+        "    df = _shuffle_pdf(pandas_df_with_all_types)",
+        "    data = pd.DataFrame(sklearn_model.inference_data)",
+        "    pandas_split_content = pd.DataFrame(",
+        "    data = pd.DataFrame(sklearn_model.inference_data)"
+      ],
+      "lines": [
+        54,
+        75,
+        101,
+        178,
+        227,
+        459,
+        467,
+        520,
+        642,
+        578,
+        642
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "knn_model = knn.KNeighborsClassifier()",
+        "model.compile(loss=\"mean_squared_error\", optimizer=SGD())"
+      ],
+      "lines": [
+        93,
+        110
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 393 >>>         \"col_m\": [random_int(0, 1000) for _ in range(size)],",
+        "Line 394 >>>         \"col_z\": [random_str() for _ in range(size)],",
+        "Line 395 >>>         \"col_a\": [random_int() for _ in range(size)],",
+        "Line 436 >>>     random.shuffle(cols)"
+      ],
+      "lines": [
+        393,
+        394,
+        395,
+        436
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_lightgbm_autolog.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 738 >>>     mlflow.lightgbm.autolog()",
+        "Line 739 >>>     lgb.Dataset(None)"
+      ],
+      "lines": [
+        738,
+        739
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_4.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "mod = RandomForestClassifier("
+      ],
+      "lines": [
+        45
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 30 >>>     return train_test_split(X, y, test_size=0.2)",
+        "Line 45 >>>     mod = RandomForestClassifier("
+      ],
+      "lines": [
+        30,
+        45
+      ]
+    },
+    "Threshold Dependent Validation": {
+      "instances": [
+        "Line 51 >>>     acc = accuracy_score(y_test, preds)"
+      ],
+      "lines": [
+        51
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_pyfunc_schema_enforcement.py": {
+    "DataFrame Conversion API Misused": {
+      "instances": [
+        "Line 186 >>>         pyfunc_model.predict(pdf.values)",
+        "Line 576 >>>         pyfunc_model.predict(pd.DataFrame(test_data).values), pd.DataFrame(test_data)"
+      ],
+      "lines": [
+        186,
+        576
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/log_runs.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 46 >>>     clf = GridSearchCV(svm.SVC(), parameters)",
+        "Line 51 >>>         clf = svm.SVC(**params)"
+      ],
+      "lines": [
+        46,
+        51
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 46 >>>     clf = GridSearchCV(svm.SVC(), parameters)"
+      ],
+      "lines": [
+        46
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_1.py": {
+    "Deterministic Algorithm Option Not Used": {
+      "instances": [
+        "Line 53 >>> history = model.fit("
+      ],
+      "lines": [
+        53
+      ]
+    },
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 51 >>> model.compile(loss=\"categorical_crossentropy\", optimizer=\"adam\", metrics=[\"accuracy\"])"
+      ],
+      "lines": [
+        51
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "(x_train, y_train), (x_test, y_test) = reuters.load_data(num_words=max_words, test_split=0.2)"
+      ],
+      "lines": [
+        22
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/test_pmdarima_model_export.py": {
+    "Hyperparameter Not Explicitly Set": {
+      "instances": [
+        "Line 78 >>>     model = pmdarima.arima.ARIMA(order=(2, 1, 3), maxiter=25)"
+      ],
+      "lines": [
+        78
+      ]
+    },
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 78 >>>     model = pmdarima.arima.ARIMA(order=(2, 1, 3), maxiter=25)"
+      ],
+      "lines": [
+        78
+      ]
+    }
+  },
+  "/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow_projet_sampled/train_5.py": {
+    "Randomness Uncontrolled": {
+      "instances": [
+        "Line 17 >>>     X_train, X_test, y_train, y_test = train_test_split(X, y)"
+      ],
+      "lines": [
+        17
+      ]
+    }
+  }
+}

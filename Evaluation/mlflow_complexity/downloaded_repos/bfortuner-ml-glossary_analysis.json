@@ -1,0 +1,178 @@
+[
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/activation_functions.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/autoencoder.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/cnn.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/decision_tree.py",
+    "num_functions": 21,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 115,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 299
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/gan.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/id3_decision_tree_simple.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/knn.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/layers.py",
+    "num_functions": 23,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 261
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/loss_functions.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/mlp.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/nn_matrix.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/nn_simple.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/random_forest_classifier.py",
+    "num_functions": 13,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 266
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/rnn.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/code/vae.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 75
+  },
+  {
+    "file": "bfortuner/ml-glossary/bfortuner-ml-glossary-ad889a8/docs/conf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 207
+  }
+]

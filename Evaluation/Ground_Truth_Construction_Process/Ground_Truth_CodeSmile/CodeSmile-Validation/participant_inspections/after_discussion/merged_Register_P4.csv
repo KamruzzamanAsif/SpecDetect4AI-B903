@@ -1,0 +1,20 @@
+File Analyzed,Quality Issue Name,Present,line_occurrences
+./files/EvalID_50/_m5.py,R15,Yes,55
+./files/EvalID_51/script_download_data.py,R15,Yes,360/379/380
+./files/EvalID_52/afd_profile.py,R15,Yes,444/214/380
+./files/EvalID_53/kaldi2json.py,R15,Yes,91/100/92
+./files/EvalID_54/kdd2012_track2_preprocess_data.py,R15,Yes,52/53/51
+./files/EvalID_55/cross_feature_stats_generator.py,R15,Yes,199
+./files/EvalID_56/time_series.py,R15,Yes,138
+./files/EvalID_57/identity_spacy_annotator.py,R15,Yes,83
+./files/EvalID_58/sklearn.py,R18,Yes,129
+./files/EvalID_61/ppo_continuous_multiprocess.py,R8,No,
+./files/EvalID_62/tools.py,R8,No,
+./files/EvalID_63/linr_layer.py,R8,No,
+./files/EvalID_64/scripted_seq2seq_generator.py,R8,No,
+./files/EvalID_65/sgc.py,R8,No,
+./files/EvalID_66/ac.py,R8,No,
+./files/EvalID_67/base_model.py,R8,Yes,183/134/127
+./files/EvalID_68/mnist_ptl_mini.py,R8,No,
+./files/EvalID_83/base_model.py,R8,Yes,84/121/131/172/38/191/48
+./files/EvalID_90/sac_pendulum.py,R8,No,

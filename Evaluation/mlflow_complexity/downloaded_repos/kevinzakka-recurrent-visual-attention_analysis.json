@@ -1,0 +1,123 @@
+[
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/config.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 167
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/data_loader.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/modules.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 352
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/plot_glimpses.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/tests/test_model.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/tests/test_modules.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/tests/test_retina.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/trainer.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 135,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 493
+  },
+  {
+    "file": "kevinzakka/recurrent-visual-attention/kevinzakka-recurrent-visual-attention-a38ac89/utils.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  }
+]

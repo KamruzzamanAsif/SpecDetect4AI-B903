@@ -1,0 +1,156 @@
+[
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/doc/_templates/numpydoc_docstring.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/doc/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 114
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/examples/plot_classifier.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/examples/plot_template.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/examples/plot_transformer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/_template.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 308
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/tests/test_common.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/tests/test_template.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/utils/discovery.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 217
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/utils/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "scikit-learn-contrib/project-template/scikit-learn-contrib-project-template-fc9f82e/skltemplate/utils/tests/test_discovery.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  }
+]

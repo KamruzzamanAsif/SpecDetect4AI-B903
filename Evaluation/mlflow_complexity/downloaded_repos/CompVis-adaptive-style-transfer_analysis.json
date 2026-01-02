@@ -1,0 +1,211 @@
+[
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/download_evaluation_data.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/feature_extractor.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 182
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/image_getter.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/nets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/nets/nets_factory.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/nets/vgg.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 306
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/preprocessing/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/preprocessing/preprocessing_factory.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/evaluation/feature_extractor/preprocessing/vgg_preprocessing.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 370
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/img_augm.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 187
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/main.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 166
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/model.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 132,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 548
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/module.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 246
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/ops.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/prepare_dataset.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "CompVis/adaptive-style-transfer/CompVis-adaptive-style-transfer-51b4c90/utils.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 75
+  }
+]

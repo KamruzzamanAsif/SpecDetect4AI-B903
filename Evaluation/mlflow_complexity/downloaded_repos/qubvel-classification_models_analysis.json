@@ -1,0 +1,156 @@
+[
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/__version__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/keras.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models/_common_blocks.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 119
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models/resnet.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 395
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models/resnext.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 71,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 281
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models/senet.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 110,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 449
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/models_factory.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/tfkeras.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/classification_models/weights.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 390
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/setup.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 133
+  },
+  {
+    "file": "qubvel/classification_models/qubvel-classification_models-a0f006e/tests/test_models.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  }
+]

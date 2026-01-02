@@ -1,0 +1,46 @@
+[
+  {
+    "file": "otaha178/Emotion-recognition/otaha178-Emotion-recognition-5c3b2c7/load_and_process.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "otaha178/Emotion-recognition/otaha178-Emotion-recognition-5c3b2c7/models/cnn.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 131,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 353
+  },
+  {
+    "file": "otaha178/Emotion-recognition/otaha178-Emotion-recognition-5c3b2c7/real_time_video.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "otaha178/Emotion-recognition/otaha178-Emotion-recognition-5c3b2c7/train_emotion_classifier.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  }
+]

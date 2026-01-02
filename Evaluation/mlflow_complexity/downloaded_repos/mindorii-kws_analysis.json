@@ -1,0 +1,178 @@
+[
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/audio_producer.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 199
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/decoder/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/kws_eval.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/models/kws_model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/models/multi_speech_model.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 195
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/models/speech_model.py",
+    "num_functions": 25,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 326
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/models/streaming_model.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 69
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/user_ops/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/user_ops/test_warp_ctc.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 129
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/user_ops/warp_ctc_ops.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/utils/ctc.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/utils/wave_utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "mindorii/kws/mindorii-kws-2452400/www/kws_server.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/applications/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/applications/demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/_pose_estimator.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 150
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/cpm.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 193,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 396
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/draw.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/prob_model.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 261
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/process.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 299
+  },
+  {
+    "file": "DenisTome/Lifting-from-the-Deep-release/DenisTome-Lifting-from-the-Deep-release-ec63c1b/packages/lifting/utils/upright_fast.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 88,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 293
+  }
+]

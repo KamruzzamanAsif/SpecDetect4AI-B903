@@ -1,0 +1,101 @@
+[
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/batchnorm.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 412
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/batchnorm_reimpl.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/comm.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/replicate.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/sync_batchnorm/unittest.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/tests/test_numeric_batchnorm.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/tests/test_numeric_batchnorm_v2.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "vacancy/Synchronized-BatchNorm-PyTorch/vacancy-Synchronized-BatchNorm-PyTorch-7553990/tests/test_sync_batchnorm.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 114
+  }
+]

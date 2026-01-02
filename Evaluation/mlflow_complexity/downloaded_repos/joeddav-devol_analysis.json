@@ -1,0 +1,57 @@
+[
+  {
+    "file": "joeddav/devol/joeddav-devol-91afe78/devol/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "joeddav/devol/joeddav-devol-91afe78/devol/devol.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 286
+  },
+  {
+    "file": "joeddav/devol/joeddav-devol-91afe78/devol/genome_handler.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 251
+  },
+  {
+    "file": "joeddav/devol/joeddav-devol-91afe78/example/demo.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "joeddav/devol/joeddav-devol-91afe78/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  }
+]

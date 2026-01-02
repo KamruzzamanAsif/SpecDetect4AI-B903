@@ -1,0 +1,101 @@
+[
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/ldscore/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/ldscore/jackknife.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 514
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/ldscore/parse.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 292
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/ldscore/regressions.py",
+    "num_functions": 34,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 214,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 743
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/ldscore/sumstats.py",
+    "num_functions": 32,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 166,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 581
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/make_annot.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/test/simulate.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "bulik/ldsc/bulik-ldsc-aa33296/test/test_parse.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  }
+]

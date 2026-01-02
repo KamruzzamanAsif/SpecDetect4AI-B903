@@ -1,0 +1,46 @@
+[
+  {
+    "file": "GoogleCloudPlatform/tensorflow-object-detection-example/GoogleCloudPlatform-tensorflow-object-detection-example-e3d8c06/object_detection_app/app.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "GoogleCloudPlatform/tensorflow-object-detection-example/GoogleCloudPlatform-tensorflow-object-detection-example-e3d8c06/object_detection_app/decorator.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "GoogleCloudPlatform/tensorflow-object-detection-example/GoogleCloudPlatform-tensorflow-object-detection-example-e3d8c06/object_detection_app_p3/app.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 195
+  },
+  {
+    "file": "GoogleCloudPlatform/tensorflow-object-detection-example/GoogleCloudPlatform-tensorflow-object-detection-example-e3d8c06/object_detection_app_p3/decorator.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  }
+]

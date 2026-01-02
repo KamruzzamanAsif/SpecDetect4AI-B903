@@ -1,0 +1,74 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+The NaN equivalence comparison is different to None comparison. The result of NaN == NaN is False.
+#### Context
+NaN equivalence comparison behaves differently from None equivalence comparison.
+#### Problem
+While None == None evaluates to True, np.nan == np.nan evaluates to False in NumPy. As Pandas treats None like np.nan for simplicity and performance reasons, a comparison of DataFrame elements with np.nan always returns False [4]. If the developer is not aware of this, it may lead to unintentional behaviours in the code.
+#### Solution
+Developers need to be careful when using the NaN comparison.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `numpy` or `pandas` is imported.
+    
+    -   `import numpy as np`
+        
+    -   `from numpy import ...`
+        
+    -   `import pandas as pd`
+        
+    -   `from pandas import ...`
+        
+2.  Search for any presence of:
+    
+    -   `np.nan`
+        
+    -   `numpy.nan`
+        
+    -   `NaN` (case-sensitive if not explicitly defined)
+        
+    -   Literal `nan` only if it’s clear it refers to `np.nan`
+        
+3.  If found, check if `==` or `!=` is used to compare with NaN.
+    
+    -   Example patterns:
+        
+        -   `x == np.nan`
+            
+        -   `x != np.nan`
+            
+        -   `df['col'] == np.nan`
+            
+        -   `if var == np.nan:`
+            
+4.  If comparison with `==` or `!=` is used, mark as NaN Equivalence Comparison Misused.
+    
+5.  Valid alternative expected: use `isna()`, `isnull()`, or `numpy.isnan()`.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Nan Equivalence Comparison Misused code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Nan Equivalence Comparison Misused code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"df_is_nan = df == np.nan"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

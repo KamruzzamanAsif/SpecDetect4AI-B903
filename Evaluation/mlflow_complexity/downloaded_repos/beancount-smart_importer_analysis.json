@@ -1,0 +1,123 @@
+[
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/smart_importer/__init__.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/smart_importer/entries.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 67
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/smart_importer/pipelines.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 6,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/smart_importer/predictor.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 26,
+    "pipeline_patterns": 4,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 282
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/smart_importer/wrapper.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/tests/data_test.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/tests/entries_test.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/tests/pipelines_test.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "beancount/smart_importer/beancount-smart_importer-d288eb3/tests/predictors_test.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 307
+  }
+]

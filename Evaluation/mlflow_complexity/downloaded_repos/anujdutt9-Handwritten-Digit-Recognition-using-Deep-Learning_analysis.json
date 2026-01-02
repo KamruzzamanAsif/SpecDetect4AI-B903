@@ -1,0 +1,112 @@
+[
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/1. K Nearest Neighbors/MNIST_Dataset_Loader/mnist_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/1. K Nearest Neighbors/knn.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/2. SVM/MNIST_Dataset_Loader/mnist_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/2. SVM/svm.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/3. Random Forest Classifier/MNIST_Dataset_Loader/mnist_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/3. Random Forest Classifier/RFC.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 119
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/CNN_Keras/CNN_MNIST.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/CNN_Keras/cnn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/CNN_Keras/cnn/neural_network.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning/anujdutt9-Handwritten-Digit-Recognition-using-Deep-Learning-dbe3284/MNIST_Dataset_Loader/mnist_loader.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  }
+]

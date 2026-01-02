@@ -1,0 +1,213 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Hyperparameters should be set explicitly.
+#### Context
+Hyperparameters are usually set before the actual learning process begins and control the learning process [4]. These parameters directly influence the behavior of the training algorithm and therefore have a significant impact on the model’s performance.
+#### Problem
+The default parameters of learning algorithm APIs may not be optimal for a given data or problem, and may lead to local
+
+---
+
+### DETECTION METHODOLOGY
+
+1. Check if any of the following libraries is imported:
+
+-   `scikit-learn` (`sklearn`)
+
+-   `torch` (`pytorch`)
+
+-   `tensorflow`
+
+-   `xgboost`
+
+-   `lightgbm`
+
+-   `catboost`
+
+
+
+
+2. If one of these libraries is imported, search for the following classes, methods, or functions being used:
+
+
+2.1 scikit-learn
+
+(any model/class without explicit hyperparameters)
+
+-   Classifiers:
+
+    -   `SVC`
+
+    -   `SGDClassifier`
+
+    -   `RandomForestClassifier`
+
+    -   `GradientBoostingClassifier`
+
+    -   `LogisticRegression`
+
+    -   `KNeighborsClassifier`
+
+    -   `DecisionTreeClassifier`
+
+-   Regressors:
+
+    -   `SVR`
+
+    -   `SGDRegressor`
+
+    -   `RandomForestRegressor`
+
+    -   `GradientBoostingRegressor`
+
+    -   `KNeighborsRegressor`
+
+    -   `DecisionTreeRegressor`
+
+-   Clustering:
+
+    -   `KMeans`
+
+    -   `DBSCAN`
+
+    -   `AgglomerativeClustering`
+
+-   Dimensionality Reduction:
+
+    -   `PCA`
+
+    -   `TruncatedSVD`
+
+-   Pipelines:
+
+    -   `make_pipeline` _(check models inside pipeline if they have hyperparameters)_
+
+
+
+
+2.2 PyTorch
+
+(any optimizer or scheduler without explicit hyperparameters)
+
+-   Optimizers:
+
+    -   `torch.optim.SGD`
+
+    -   `torch.optim.Adam`
+
+    -   `torch.optim.AdamW`
+
+    -   `torch.optim.RMSprop`
+
+    -   `torch.optim.Adagrad`
+
+-   Schedulers:
+
+    -   `torch.optim.lr_scheduler.StepLR`
+
+    -   `torch.optim.lr_scheduler.ReduceLROnPlateau`
+
+-   _(Optional)_ Layers (low priority):
+    `torch.nn.Linear`, `torch.nn.Conv2d` — (only if critical params omitted like activation, rare).
+
+
+
+
+2.3 TensorFlow
+
+(optimizers and compile step)
+
+-   Optimizers:
+
+    -   `tf.keras.optimizers.SGD`
+
+    -   `tf.keras.optimizers.Adam`
+
+    -   `tf.keras.optimizers.RMSprop`
+
+-   Model compile:
+
+    -   `model.compile(optimizer=..., loss=..., metrics=...)` _(make sure optimizer hyperparameters are set)_
+
+
+
+
+2.4 XGBoost
+
+-   Models:
+
+    -   `xgboost.XGBClassifier`
+
+    -   `xgboost.XGBRegressor`
+
+    -   `xgboost.train`
+
+
+
+
+2.5 LightGBM
+
+-   Models:
+
+    -   `lightgbm.LGBMClassifier`
+
+    -   `lightgbm.LGBMRegressor`
+
+    -   `lightgbm.train`
+
+
+2.6 CatBoost
+
+-   Models:
+
+    -   `catboost.CatBoostClassifier`
+
+    -   `catboost.CatBoostRegressor`
+
+    -   `catboost.train`
+
+
+
+
+3. For each constructor/method found:
+
+-   Check if key hyperparameters are explicitly set (like `learning_rate`, `n_estimators`, `momentum`, `random_state`, etc.).
+
+-   If no hyperparameters are explicitly set, mark as Hyperparameter Not Explicitly Set.
+
+
+
+
+4. If none of these libraries are imported:
+
+-   Skip checking for this code smell.
+
+
+> If a model, optimizer, scheduler, or trainer is called without setting key hyperparameters explicitly → code smell.
+
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Hyperparameter Not Explicitly Set code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Hyperparameter Not Explicitly Set code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"kmeans = KMeans()",
+"optimizer = SGD()"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

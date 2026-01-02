@@ -1,0 +1,112 @@
+[
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/deepwalk/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/deepwalk/__main__.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 165
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/deepwalk/graph.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 313
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/deepwalk/skipgram.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/deepwalk/walks.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 275
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/example_graphs/scoring.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "phanein/deepwalk/phanein-deepwalk-6e6dff2/tests/test_deepwalk.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  }
+]

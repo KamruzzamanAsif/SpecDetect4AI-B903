@@ -1,0 +1,1 @@
+Donne moi à présent une nouvelle règle pour cette nouvelle description : Voir sur ce lien : https://hynn01.github.io/ml-smells/posts/codesmells/5-empty-column-misinitialization/

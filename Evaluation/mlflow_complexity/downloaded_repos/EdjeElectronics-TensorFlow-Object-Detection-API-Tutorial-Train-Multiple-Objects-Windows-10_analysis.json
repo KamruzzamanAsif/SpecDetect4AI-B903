@@ -1,0 +1,79 @@
+[
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/Object_detection_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/Object_detection_video.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/Object_detection_webcam.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/generate_tfrecord.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/resizer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/sizeChecker.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/EdjeElectronics-TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10-c164582/xml_to_csv.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  }
+]

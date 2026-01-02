@@ -1,0 +1,178 @@
+[
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/count_model_size.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/mnist/distill_mnist.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 175
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/mnist/distill_mnist_unlabeled.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 175
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/mnist/student_mnist.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 159
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/mnist/teacher_mnist.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 149
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/data_loader.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/densenet.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/net.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/preresnet.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/resnet.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 153
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/resnext.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 148
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/model/wrn.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 125
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/search_hyperparams.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/synthesize_results.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "haitongli/knowledge-distillation-pytorch/haitongli-knowledge-distillation-pytorch-9937528/utils.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 227
+  }
+]

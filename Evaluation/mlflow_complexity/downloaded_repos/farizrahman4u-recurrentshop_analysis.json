@@ -1,0 +1,200 @@
+[
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/examples/query_reduction_network.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 167
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/examples/recurrent_highway_networks.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 168
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/examples/rwa_adding_problem.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/examples/rwa_sequence_length_problem.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/examples/speed_test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/advanced_cells.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/backend/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/backend/tensorflow_backend.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/backend/theano_backend.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 187
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/basic_cells.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/cells.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 185
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/engine.py",
+    "num_functions": 75,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 331,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1089
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/recurrentshop/generic_utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 68
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/tests/test_recurrent_model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/tests/test_recurrent_sequential.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 325
+  },
+  {
+    "file": "farizrahman4u/recurrentshop/farizrahman4u-recurrentshop-bd3a7e2/tests/test_rnn_cell_from_model.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/core/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/core/scorer.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 311
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/core/sentence.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/core/tokenizer.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 80,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 333
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/inference.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 310
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/setup/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/setup/custom_summary.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/setup/prepare_data.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 110,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 563
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/setup/settings.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 243
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/tests/answers_detokenizer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/tests/answers_replace.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/tests/answers_scorer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/tests/bpe_wpm_tokenizer.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/tests/tokenizer_standard.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/train.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/utils/pairing_testing_outputs.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/utils/prepare_for_deployment.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 175
+  },
+  {
+    "file": "daniel-kukiela/nmt-chatbot/daniel-kukiela-nmt-chatbot-9d0e73b/utils/run_tensorboard.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/main.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 219,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 571
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/main_parse.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 174,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 476
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/charbigru.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/charbilstm.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/charcnn.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/crf.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 135,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 438
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/sentclassifier.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/seqlabel.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/wordrep.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 118
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/model/wordsequence.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 155
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/alphabet.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/data.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 247,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 587
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/functions.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 95,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 223
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/metric.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 89,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 238
+  },
+  {
+    "file": "jiesutd/NCRFpp/jiesutd-NCRFpp-105a53a/utils/tagSchemeConverter.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  }
+]

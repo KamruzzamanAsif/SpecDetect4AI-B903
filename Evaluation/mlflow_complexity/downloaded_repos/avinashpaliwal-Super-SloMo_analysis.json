@@ -1,0 +1,68 @@
+[
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/data/create_dataset.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/dataloader.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 537
+  },
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/eval.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 177
+  },
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/model.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 361
+  },
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/train.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 106,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 335
+  },
+  {
+    "file": "avinashpaliwal/Super-SloMo/avinashpaliwal-Super-SloMo-544802b/video_to_slomo.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 231
+  }
+]

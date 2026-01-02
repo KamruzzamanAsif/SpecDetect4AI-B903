@@ -1,0 +1,35 @@
+[
+  {
+    "file": "ANSSI-FR/ASCAD/ANSSI-FR-ASCAD-410b92b/ASCAD_generate.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 398
+  },
+  {
+    "file": "ANSSI-FR/ASCAD/ANSSI-FR-ASCAD-410b92b/ASCAD_test_models.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 91,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 372
+  },
+  {
+    "file": "ANSSI-FR/ASCAD/ANSSI-FR-ASCAD-410b92b/ASCAD_train_models.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 149,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 398
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/examples/neurofeedback.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 153
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/examples/recordStream.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/examples/startMuseStream.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/examples/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 186
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/__main__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/backends.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/cli.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 275
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/constants.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/helper.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/muse.py",
+    "num_functions": 34,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 111,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 613
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/record.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 270
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/stream.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 269
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/view.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/viewer_v1.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/muselsl/viewer_v2.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 260
+  },
+  {
+    "file": "alexandrebarachant/muse-lsl/alexandrebarachant-muse-lsl-ee1f513/setup.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  }
+]

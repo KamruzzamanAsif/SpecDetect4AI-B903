@@ -1,0 +1,145 @@
+[
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/noxfile.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/setup.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/cross_validation.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/dataframe_mapper.py",
+    "num_functions": 20,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 93,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 443
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/features_generator.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/pipeline.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/sklearn_pandas/transformers.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/test.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/tests/test_dataframe_mapper.py",
+    "num_functions": 86,
+    "max_function_depth": 2,
+    "num_classes": 9,
+    "num_assignments": 199,
+    "pipeline_patterns": 3,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1033
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/tests/test_features_generator.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 121
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/tests/test_pipeline.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 0,
+    "pipeline_patterns": 2,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 100
+  },
+  {
+    "file": "scikit-learn-contrib/sklearn-pandas/scikit-learn-contrib-sklearn-pandas-c9db2d6/tests/test_transformers.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  }
+]

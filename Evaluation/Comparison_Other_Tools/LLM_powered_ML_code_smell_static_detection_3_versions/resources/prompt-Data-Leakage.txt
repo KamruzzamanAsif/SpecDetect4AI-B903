@@ -1,0 +1,119 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Use Pipeline() API in Scikit-Learn or check data segregation carefully when using other libraries to prevent data leakage.
+#### Context
+The data leakage occurs when the data used for training a machine learning model contains prediction result information (28).
+#### Problem
+Data leakage frequently leads to overly optimistic experimental outcomes and poor performance in real-world usage [4].
+Solution
+There are two main sources of data leakage: leaky predictors and a leaky validation strategy (29). Leaky predictors are the cases in which some features used in training are modified or generated after the goal value has been achieved. This kind of data leakage can only be inspected at the data level rather than the code level. Leaky validation strategy refers to the scenario where training data is mixed with validation data. This fault can be checked at the code level. One best practice in Scikit-Learn is to use the Pipeline() API to prevent data leakage.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Apply this check only if a machine learning library is imported:
+    
+    -   `scikit-learn`
+        
+    -   `xgboost`
+        
+    -   `lightgbm`
+        
+    -   `catboost`
+        
+    -   `tensorflow`
+        
+    -   `torch`
+        
+2.  If `scikit-learn` is imported:
+    
+    2.1 Search for dataset splitting methods:
+    
+    -   `train_test_split(...)`
+        
+    -   `KFold(...)`, `StratifiedKFold(...)`
+        
+    -   `cross_val_score(...)`
+        
+    -   `cross_validate(...)`
+        
+    -   Manual indexing or slicing used for training/validation split
+        
+    
+    2.2 Search for transformations applied before the split:
+    
+    -   `StandardScaler().fit_transform(...)`
+        
+    -   `MinMaxScaler().fit_transform(...)`
+        
+    -   `Normalizer().fit_transform(...)`
+        
+    -   `SelectKBest().fit_transform(...)`
+        
+    -   `PCA().fit_transform(...)`
+        
+    -   Any `.fit_transform(...)` or `.fit(...)` followed by `.transform(...)` applied directly to the full dataset (`X`, `X, y`, etc.)
+        
+    
+    2.3 If a transformation is applied to the entire dataset before splitting:
+    
+    -   Mark as Data Leakage
+        
+    
+    2.4 Check if a `Pipeline(...)` or `make_pipeline(...)` is used:
+    
+    -   If not used and transformation is done before the split → mark as Data Leakage
+        
+3.  If `xgboost`, `lightgbm`, or `catboost` is imported:
+    
+    3.1 Check for `train_test_split(...)`, `KFold(...)`, or other splitting methods.
+    
+    3.2 Check for transformations (e.g., scaling, encoding, feature selection) applied to the entire dataset before splitting.
+    
+    3.3 If such transformations are found, and not re-applied only to training data or handled inside a pipeline:
+    
+    -   Mark as Data Leakage
+        
+4.  If `tensorflow` or `torch` is imported:
+    
+    4.1 Check for:
+    
+    -   Preprocessing applied on full dataset (`X`, `dataset`, etc.) before any split
+        
+    -   Manual split followed by using transformed data
+        
+    
+    4.2 If transformations (e.g., normalization, feature engineering, embedding, augmentation) are applied to the full dataset before splitting:
+    
+    -   Mark as Data Leakage
+        
+5.  If no model training or data splitting is found:
+    
+
+-   Skip this check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Data Leakage code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Data Leakage code smell found as a json array of string. The json array contains the complete code line of each instance.
+
+Something like this:
+
+"instances": [
+"X_selected = SelectKBest(k=25).fit_transform(X, y)",
+"gbc.fit(X_train, y_train)"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return an empty json array like this : []

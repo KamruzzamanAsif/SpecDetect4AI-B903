@@ -1,0 +1,24 @@
+[
+  {
+    "file": "ethanhe42/resnet-cifar10-caffe/ethanhe42-resnet-cifar10-caffe-a0751f6/cfgs.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "ethanhe42/resnet-cifar10-caffe/ethanhe42-resnet-cifar10-caffe-a0751f6/net_generator.py",
+    "num_functions": 32,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 389
+  }
+]

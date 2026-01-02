@@ -1,0 +1,189 @@
+[
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/config_path.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/elmo/extract_elmo.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 154
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/elmo/helpers.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/lang_converter.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/lemmatizer.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/plotting.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/preprocessing/modular_processing/conll2train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/preprocessing/modular_processing/helpers.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 189
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/preprocessing/modular_processing/unify.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/preprocessing/rus_preprocessing_mystem.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/preprocessing/rus_preprocessing_udpipe.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 73,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 234
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/run_syn.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/sparql.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/strings_reader.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/timeout.py",
+    "num_functions": 4,
+    "max_function_depth": 3,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/webvectors.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 396,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1589
+  },
+  {
+    "file": "akutuzov/webvectors/akutuzov-webvectors-5c46de3/word2vec_server.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 161,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 464
+  }
+]

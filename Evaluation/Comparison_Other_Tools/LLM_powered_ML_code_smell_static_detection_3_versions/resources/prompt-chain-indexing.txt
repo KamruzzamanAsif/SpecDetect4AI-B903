@@ -1,0 +1,62 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Avoid using chain indexing in Pandas.
+#### Context
+In Pandas, df[“one”][“two”] and df.loc[:,(“one”,“two”)] give the same result. df[“one”][“two”] is called chain indexing.
+#### Problem
+Using chain indexing may cause performance issues as well as error-prone code (30)(31)(32). For example, when using df[“one”][“two”], Pandas sees this operation as two events: call df[“one”] first and call [“two”] based on the result the previous operation gets. On the contrary, df.loc[:,(“one”,“two”)] only performs a single call. In this way, the second approach can be significantly faster than the first one. Furthermore, assigning to the product of chain indexing has inherently unpredictable results. Since Pandas makes no guarantees on whether df[“one”] will return a view or a copy, the assignment may fail.
+#### Solution
+Developers using Pandas should avoid using chain indexing.
+
+---
+
+### DETECTION METHODOLOGY
+
+1. Check if pandas is imported.
+
+import pandas as pd
+
+from pandas import ...
+
+2. If Pandas is imported:
+
+Search for two consecutive indexing operations on the same object:
+
+Pattern: df[...][...] or <the dataframe>[...][...]
+
+(including cases like df["col"][0], df[0][1], etc.)
+
+It must be double or two-dimensional indexing, 2 pairs of brackets one after another. Otherwise it cannot be chain indexing and you can ignore it.
+
+3. If found, verify if the object is a Pandas DataFrame or Series.
+
+If yes, Chain Indexing is present.
+
+4. Expected alternative: use .loc[], .iloc[], .at[], or .iat[] instead of chained [].
+
+5. If Pandas is not imported, you can skip checking this file (very low risk of this smell).
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the chain indexing code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the chain indexing code smell found as a json array of string. The json array contains the complete code line of each instance.
+
+Something like this:
+
+"instances": [
+"df[col][x] = 42",
+"val = df[col][x]"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return an empty json array like this : []

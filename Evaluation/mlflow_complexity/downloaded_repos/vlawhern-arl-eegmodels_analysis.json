@@ -1,0 +1,24 @@
+[
+  {
+    "file": "vlawhern/arl-eegmodels/vlawhern-arl-eegmodels-4a512e5/EEGModels.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 90,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 402
+  },
+  {
+    "file": "vlawhern/arl-eegmodels/vlawhern-arl-eegmodels-4a512e5/examples/ERP.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 243
+  }
+]

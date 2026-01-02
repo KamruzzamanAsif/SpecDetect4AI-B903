@@ -1,0 +1,79 @@
+[
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/GenerateData/2_generate_normal.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/GenerateData/3_camera_transform.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/GenerateData/generate_data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/p2m/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/p2m/inits.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/p2m/losses.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "nywang16/Pixel2Mesh/nywang16-Pixel2Mesh-930a016/p2m/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  }
+]

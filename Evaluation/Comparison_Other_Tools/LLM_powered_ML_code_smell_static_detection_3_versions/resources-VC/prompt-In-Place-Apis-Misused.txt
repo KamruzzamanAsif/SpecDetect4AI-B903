@@ -1,0 +1,154 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Remember to assign the result of an operation to a variable or set the in-place parameter in the API.
+#### Context
+Data structures can be manipulated in mainly two different approaches: 1) by applying the changes to a copy of the data structure and leaving the original object intact, or 2) by changing the existing data structure (also known as in-place).
+#### Problem
+Some methods can adopt in-place by default, while others return a copy. If the developer assumes an in-place approach, he will not assign the returned value to any variable. Hence, the operation will be executed, but it will not affect the final outcome. For example, when using the Pandas library, the developer may not assign the result of df.dropna() to a variable. He may assume that this API will make changes on the original DataFrame and not set the in-place parameter to be True either. The original DataFrame will not be updated in this way [4]. In the “TensorFlow Bugs” replication package, we also found an example (11) where the developer thought np.clip() is an in-place operation and used it without assigning it to a new variable.
+#### Solution
+We suggest developers check whether the result of the operation is assigned to a variable or the in-place parameter is set in the API. Some developers hold the view that the in-place operation will save memory. However, this is a misconception in the Pandas library because the copy of the data is still created. In PyTorch, the in-place operation does save GPU memory, but it risks overwriting the values needed to compute the gradient (10).
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `pandas`, `numpy`, `tensorflow`, `torch` is imported.
+
+    -   `import pandas as pd`
+
+    -   `import numpy as np`
+
+    -   `import tensorflow as tf`
+
+    -   `import torch as ...`
+
+2.  If one of them is imported:
+
+    -   Search for method calls known to return a modified copy without modifying the original unless assigned:
+
+        -   Common Pandas methods: `dropna()`, `abs()`, `drop()`, `fillna()`, `sort_values()`, `reset_index()`, `rename()`, etc.
+
+        -   Common NumPy methods: `np.clip()`, `np.sort()`, etc.
+
+        -   Common TensorFlow ops: (less frequent, but safe to check similar patterns).
+
+	- Pandas
+
+		-   `drop()`
+
+		-   `dropna()`
+
+		-   `fillna()`
+
+		-   `sort_values()`
+
+		-   `sort_index()`
+
+		-   `rename()`
+
+		-   `reset_index()`
+
+		-   `set_index()`
+
+		-   `astype()`
+
+		-   `abs()`
+
+		-   `round()`
+
+		-   `replace()`
+
+		-   `duplicated()`
+
+		-   `mask()`
+
+		-   `where()`
+
+		-   `clip()`
+
+		-   `interpolate()`
+
+
+	- NumPy
+
+		-   `np.clip()`
+
+		-   `np.sort()`
+
+		-   `np.argsort()`
+
+		-   `np.abs()`
+
+		-   `np.round()`
+
+		-   `np.where()`
+
+		-   `np.maximum()`
+
+		-   `np.minimum()`
+
+		-   `np.nan_to_num()`
+
+
+	- TensorFlow
+
+		-   `tf.clip_by_value()`
+
+		-   `tf.math.abs()`
+
+		-   `tf.round()`
+
+		-   `tf.sort()`
+
+		-   `tf.where()`
+
+
+	- PyTorch
+
+		-   `torch.abs()`
+
+		-   `torch.round()`
+
+		-   `torch.clip()`
+
+3.  If such a method is called:
+
+    -   Check if the result is assigned to a variable.
+
+        -   If not assigned, and in-place=True is not explicitly set, mark as In-Place API Misused.
+
+4.  In Pandas specifically, prefer assignment (`df = df.method()`) over setting `inplace=True` (due to hidden copies even when inplace=True).
+
+5.  If none of these libraries are imported, skip the check.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the In-Place APIs Misused code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the In-Place APIs Misused code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+	{
+		"code": "df.abs()",
+		"line": 56
+	},
+	{
+		"code": "np.clip(zhats, -1, 1)",
+		"line": 78
+	}
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

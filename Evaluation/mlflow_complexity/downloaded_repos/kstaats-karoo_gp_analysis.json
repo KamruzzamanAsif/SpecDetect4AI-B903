@@ -1,0 +1,222 @@
+[
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo-gp.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 605
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/base_class.py",
+    "num_functions": 42,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 142,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 882
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/node.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 107,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 467
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/node_lib.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/pause.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 351
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/population.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 264
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/conftest.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_base.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 61,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 231
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_cli.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_node.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_node_lib.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_population.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_sklearn.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/test_tree.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/test/util.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/karoo_gp/tree.py",
+    "num_functions": 20,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 243
+  },
+  {
+    "file": "kstaats/karoo_gp/kstaats-karoo_gp-1bc3859/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/__init__.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 308
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/demos/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/demos/demos.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 166
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/demos/group_mean_secret_weapon.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/demos/linear_regression.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/bayesian_bootstrap/tests/test_bootstrap.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/docs/build.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "lmc2179/bayesian_bootstrap/lmc2179-bayesian_bootstrap-93b8cf4/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  }
+]

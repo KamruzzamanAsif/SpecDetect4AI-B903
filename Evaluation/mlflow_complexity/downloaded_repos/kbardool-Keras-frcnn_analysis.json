@@ -1,0 +1,145 @@
+[
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/FixedBatchNormalization.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/RoiPoolingConv.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/config.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/data_augment.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/data_generators.py",
+    "num_functions": 13,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 113,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 337
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/losses.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/pascal_voc_parser.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 102
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/resnet.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 109,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 248
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/roi_helpers.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 136,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 292
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/simple_parser.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/keras_frcnn/vgg.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "kbardool/Keras-frcnn/kbardool-Keras-frcnn-cf9685b/measure_map.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 301
+  }
+]

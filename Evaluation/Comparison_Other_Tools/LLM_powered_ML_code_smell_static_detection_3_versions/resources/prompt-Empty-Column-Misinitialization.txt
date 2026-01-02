@@ -1,0 +1,66 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+When a new empty column is needed in a DataFrame in Pandas, use the NaN value in Numpy instead of using zeros or empty strings.
+#### Context
+Developers may need a new empty column in DataFrame.
+#### Problem
+If they use zeros or empty strings to initialize a new empty column in Pandas, the ability to use methods such as .isnull() or .notnull() is retained (7). This might also happens to initializations in other data structure or libraries.
+#### Solution
+Use NaN value (e.g. “np.nan”) if a new empty column in a DataFrame is needed. Do not use “filler values” such as zeros or empty strings.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `pandas`, `polars`, `dask.dataframe`, `vaex`, `sklearn.datasets`, or `pyspark.pandas` is imported.
+    
+    -   `import pandas as pd`
+        
+    -   `from pandas import ...`
+        
+2.  If Pandas is imported:
+    
+    -   Search for new column creation like:
+        
+        -   `df['column_name'] = 0`
+            
+        -   `df['column_name'] = ''`
+            
+        -   `df['column_name'] = some_constant_value`
+            
+        -   `df['column_name'] = [0, 0, 0]` (constant lists) _(more rare but possible)_
+        
+        Any empty initialization of new columns.
+            
+3.  If a constant (0, "", fixed value) is assigned to a whole new column, suspect Empty Column Misinitialization.
+    
+4.  Distinguish cases:
+    
+    -   If the column is meant to be filled immediately after with real values → OK (no smell).
+        
+    -   If the column is meant to be "empty" initially, NaN or pd.Series(dtype=...) should have been used → code smell present.
+    
+---
+
+### INSTRUCTIONS
+Identify all instances of the Empty Column Misinitialization code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Empty Column Misinitialization code smell found as a json array of string. The json array contains the complete code line of each instance.
+
+Something like this:
+
+"instances": [
+"df['new_col_int'] = 0",
+"df['new_col_str'] = ''"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return an empty json array like this : []

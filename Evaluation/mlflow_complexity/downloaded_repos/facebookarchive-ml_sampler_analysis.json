@@ -1,0 +1,79 @@
+[
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/examples/tutorial_helpers.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/ml_sampler/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/ml_sampler/bias_functions.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 181
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/ml_sampler/biased_sample.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 107
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/ml_sampler/ml_sampler_with_histogram_weights.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 164
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "facebookarchive/ml_sampler/facebookarchive-ml_sampler-e9435ab/tests/test_ml_sampler.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/config.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 197
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/cycleGen.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/data_loader.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 189
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/download.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/folder.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/layers.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 75
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/models.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 259
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/modules.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/ops.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 265
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/trainer.py",
+    "num_functions": 28,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 244,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 683
+  },
+  {
+    "file": "barisgecer/facegan/barisgecer-facegan-7df369a/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  }
+]

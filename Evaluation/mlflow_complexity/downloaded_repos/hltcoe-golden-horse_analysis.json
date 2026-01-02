@@ -1,0 +1,13 @@
+[
+  {
+    "file": "hltcoe/golden-horse/hltcoe-golden-horse-7a73c08/theano_src/weiboNER_features.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  }
+]

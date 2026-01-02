@@ -1,0 +1,63 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Explicitly specify the parameters for merge operations. Specifically, explicitly specify on, how and validate parameter for df.merge() API in Pandas for better readability.
+#### Context
+df.merge() API merges two DataFrames in Pandas.
+#### Problem
+Although using the default parameter can produce the same result, explicitly specify on and how produce better readability. The parameter on states which columns to join on, and the parameter how describes the join method (e.g., outer, inner). Also, the validate parameter will check whether the merge is of a specified type. If the developer assumes the merge keys are unique in both left and right datasets, but that is not the case, and he does not specify this parameter, the result might silently go wrong. The merge operation is usually computationally and memory expensive. It is preferable to do the merging process in one stroke for performance consideration.
+#### Solution
+Developer should explicitly specify the parameters for
+merge operation.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `pandas` is imported.
+    
+    -   `import pandas as pd`
+        
+    -   `from pandas import ...`
+        
+2.  If Pandas is imported:
+    
+    -   Search for usage of `.merge(...)` on a DataFrame object.
+        
+3.  If `.merge()` is used:
+    
+    -   Check if the following parameters are explicitly specified:
+        
+        -   `on=...`
+            
+        -   `how=...`
+            
+        -   `validate=...`
+            
+4.  If any of these parameters is missing, mark as Merge API Parameter Not Explicitly Set.
+    
+5.  If Pandas is not imported, skip checking.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Merge Api Parameter Not Explicitly Set code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Merge Api Parameter Not Explicitly Set code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"df3 = df1.merge(df2)"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

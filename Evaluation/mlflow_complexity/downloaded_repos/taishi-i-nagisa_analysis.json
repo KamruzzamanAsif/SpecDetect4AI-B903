@@ -1,0 +1,189 @@
+[
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 162
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_error_analysis_kwdlc.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_error_analysis_ud.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_predict_ud.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_preprocess_kwdlc.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_stopwords.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_train_kwdlc.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/docs/examples/tutorial_train_ud.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/mecab_system_eval.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/model.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 98,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 238
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/prepro.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 82,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 218
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/tagger.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 257
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/nagisa/train.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 238
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/setup.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "taishi-i/nagisa/taishi-i-nagisa-7a5558d/test/nagisa_test.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 199
+  }
+]

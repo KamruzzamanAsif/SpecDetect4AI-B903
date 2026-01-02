@@ -1,0 +1,123 @@
+[
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/conlleval.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 88,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 297
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/data_utils.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 316
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/loader.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 171
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/main.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 232
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/model.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 121,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 399
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/rnncell.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 231
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/NER_IDCNN_CRF/utils.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 214
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/RE_BGRU_2ATT/initial.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 144,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 358
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/RE_BGRU_2ATT/network.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 152
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/RE_BGRU_2ATT/test_GRU.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 127,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 342
+  },
+  {
+    "file": "crownpku/Information-Extraction-Chinese/crownpku-Information-Extraction-Chinese-cc81efe/RE_BGRU_2ATT/train_GRU.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  }
+]

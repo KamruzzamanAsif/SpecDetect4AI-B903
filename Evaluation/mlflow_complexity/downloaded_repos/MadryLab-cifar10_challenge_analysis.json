@@ -1,0 +1,90 @@
+[
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/cifar10_input.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 160
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 162
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/fetch_model.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 46
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/model.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 186
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/model_robustml.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/pgd_attack.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/run_attack.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "MadryLab/cifar10_challenge/MadryLab-cifar10_challenge-f15682d/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 139
+  }
+]

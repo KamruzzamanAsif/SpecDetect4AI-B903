@@ -1,0 +1,57 @@
+[
+  {
+    "file": "dask/dask-xgboost/dask-dask-xgboost-78177df/dask_xgboost/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "dask/dask-xgboost/dask-dask-xgboost-78177df/dask_xgboost/core.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 97,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 631
+  },
+  {
+    "file": "dask/dask-xgboost/dask-dask-xgboost-78177df/dask_xgboost/tests/test_core.py",
+    "num_functions": 23,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 181,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 563
+  },
+  {
+    "file": "dask/dask-xgboost/dask-dask-xgboost-78177df/dask_xgboost/tracker.py",
+    "num_functions": 30,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 540
+  },
+  {
+    "file": "dask/dask-xgboost/dask-dask-xgboost-78177df/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  }
+]

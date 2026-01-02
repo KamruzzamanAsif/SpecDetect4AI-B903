@@ -1,0 +1,57 @@
+[
+  {
+    "file": "githubharald/SimpleHTR/githubharald-SimpleHTR-6342401/src/create_lmdb.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  },
+  {
+    "file": "githubharald/SimpleHTR/githubharald-SimpleHTR-6342401/src/dataloader_iam.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 134
+  },
+  {
+    "file": "githubharald/SimpleHTR/githubharald-SimpleHTR-6342401/src/main.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 209
+  },
+  {
+    "file": "githubharald/SimpleHTR/githubharald-SimpleHTR-6342401/src/model.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 86,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 304
+  },
+  {
+    "file": "githubharald/SimpleHTR/githubharald-SimpleHTR-6342401/src/preprocessor.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 191
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/embed.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 264
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/checkpoint.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/common.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 28
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/energy_function.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/graph.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 225
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/hypernymy_eval.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/manifolds/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/manifolds/euclidean.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/manifolds/lorentz.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 209
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/manifolds/manifold.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/manifolds/poincare.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/path_manager.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/rsgd.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/sn.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hype/train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 91
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/hypernymy_eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/reconstruction.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "facebookresearch/poincare-embeddings/facebookresearch-poincare-embeddings-dff101b/wordnet/transitive_closure.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/crossvalidate_blending.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 212
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/download_models.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 195
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/feature_extractor.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 360
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/models.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/submission.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/threaded_generator.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/train_lgbm.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 237
+  },
+  {
+    "file": "alexander-rakhlin/ICIAR2018/alexander-rakhlin-ICIAR2018-3eedb3c/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  }
+]

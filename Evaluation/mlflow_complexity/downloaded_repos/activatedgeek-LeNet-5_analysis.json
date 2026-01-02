@@ -1,0 +1,24 @@
+[
+  {
+    "file": "activatedgeek/LeNet-5/activatedgeek-LeNet-5-95b55a8/lenet.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "activatedgeek/LeNet-5/activatedgeek-LeNet-5-95b55a8/run.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 100
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/CIFAR-10/convnet.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 115,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 285
+  },
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/CIFAR-10/remtime.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/CIFAR-10/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  },
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/MNIST/convnet.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 121,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 314
+  },
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/MNIST/remtime.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "zishansami102/CNN-from-Scratch/zishansami102-CNN-from-Scratch-bcd3692/preprocessing.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  }
+]

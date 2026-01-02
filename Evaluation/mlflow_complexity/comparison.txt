@@ -1,0 +1,41 @@
+====== COMPARAISON MLFLOW vs GLOBAL ======
+
+num_functions:
+  → mlflow        = 8.525581
+  → global_mean   = 7.247859
+  → ratio         = 1.18x
+
+max_function_depth:
+  → mlflow        = 1.011296
+  → global_mean   = 0.887885
+  → ratio         = 1.14x
+
+num_classes:
+  → mlflow        = 0.956146
+  → global_mean   = 1.020228
+  → ratio         = 0.94x
+
+num_assignments:
+  → mlflow        = 26.142193
+  → global_mean   = 35.021609
+  → ratio         = 0.75x
+
+pipeline_patterns:
+  → mlflow        = 0.067110
+  → global_mean   = 0.032346
+  → ratio         = 2.07x
+
+custom_pipeline_classes:
+  → mlflow        = 0.000664
+  → global_mean   = 0.003548
+  → ratio         = 0.19x
+
+loc:
+  → mlflow        = 210.163455
+  → global_mean   = 189.709136
+  → ratio         = 1.11x
+
+has_dynamic_construct (%):
+  → mlflow        = 8.571429%
+  → global_mean   = 9.154913%
+  → ratio         = 0.94x

@@ -1,0 +1,178 @@
+[
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/cifar.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/datasets/cifar.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/datasets/folder.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/datasets/mnist.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/LinearAverage.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/NCEAverage.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/NCECriterion.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/alias_multinomial.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/custom_transforms.py",
+    "num_functions": 38,
+    "max_function_depth": 1,
+    "num_classes": 17,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 437
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/normalize.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/lib/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/models/resnet.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 73,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 214
+  },
+  {
+    "file": "zhirongw/lemniscate.pytorch/zhirongw-lemniscate.pytorch-f7cfe29/models/resnet_cifar.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  }
+]

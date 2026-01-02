@@ -1,0 +1,79 @@
+[
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/evaluate.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 212
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/src/optimize.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 142
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/src/transform.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/src/utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/src/vgg.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/style.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 167
+  },
+  {
+    "file": "lengstrom/fast-style-transfer/lengstrom-fast-style-transfer-0d3d981/transform_video.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  }
+]

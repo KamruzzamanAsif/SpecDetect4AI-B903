@@ -1,0 +1,145 @@
+[
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/doc/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 223
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/confirmatory_factor_analyzer.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 152,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1133
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/factor_analyzer.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 152,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1020
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/rotator.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 138,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 695
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/test_utils.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 505
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/factor_analyzer/utils.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 548
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/setup.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/tests/test_expected_confirmatory_factor_analyzer.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 152
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/tests/test_expected_factor_analyzer.py",
+    "num_functions": 32,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 130,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 427
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/tests/test_expected_rotator.py",
+    "num_functions": 22,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 215
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/tests/test_factor_analyzer.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 59,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 251
+  },
+  {
+    "file": "EducationalTestingService/factor_analyzer/EducationalTestingService-factor_analyzer-de933d2/tests/test_utils.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 211
+  }
+]

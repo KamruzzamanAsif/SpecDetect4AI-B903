@@ -1,0 +1,145 @@
+[
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/create_pretraining_data.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 91,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 469
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/extract_features.py",
+    "num_functions": 11,
+    "max_function_depth": 3,
+    "num_classes": 2,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 419
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/modeling.py",
+    "num_functions": 28,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 148,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 986
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/modeling_test.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 277
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/optimization.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 174
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/optimization_test.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/run_classifier.py",
+    "num_functions": 42,
+    "max_function_depth": 3,
+    "num_classes": 8,
+    "num_assignments": 168,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 981
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/run_classifier_with_tfhub.py",
+    "num_functions": 6,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 72,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 314
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/run_pretraining.py",
+    "num_functions": 11,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 96,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 493
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/run_squad.py",
+    "num_functions": 29,
+    "max_function_depth": 3,
+    "num_classes": 3,
+    "num_assignments": 289,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1283
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/tokenization.py",
+    "num_functions": 24,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 399
+  },
+  {
+    "file": "google-research/bert/google-research-bert-eedf571/tokenization_test.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  }
+]

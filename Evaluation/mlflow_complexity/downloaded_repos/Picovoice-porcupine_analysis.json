@@ -1,0 +1,211 @@
+[
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/_factory.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/_porcupine.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 15,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 295
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/_util.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/test_porcupine.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 136
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/test_porcupine_perf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/binding/python/test_util.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/c/test/test_porcupine_c.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/c/test/test_util.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/mcu/generate_pv_params_file.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 134
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/python/porcupine_demo_file.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 148
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/python/porcupine_demo_mic.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 158
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/python/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 60
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/demo/tkinter/main.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/resources/.lint/c/formatter.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/resources/scripts/binary_to_c_array.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/resources/scripts/update_languages.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "Picovoice/porcupine/Picovoice-porcupine-0bc9140/script/automation/browserstack.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 136
+  }
+]

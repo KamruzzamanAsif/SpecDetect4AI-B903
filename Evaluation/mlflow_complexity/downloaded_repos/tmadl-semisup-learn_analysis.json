@@ -1,0 +1,134 @@
+[
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/examples/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/examples/compare_gaussian_methods.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/examples/compare_linsvm_methods.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/examples/compare_rbfsvm_methods.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/frameworks/CPLELearning.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 281
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/frameworks/SelfLearning.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 124
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/frameworks/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/methods/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/methods/qns3vm.py",
+    "num_functions": 47,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 298,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 938
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/methods/scikitTSVM.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/methods/scikitWQDA.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 198
+  },
+  {
+    "file": "tmadl/semisup-learn/tmadl-semisup-learn-483698b/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  }
+]

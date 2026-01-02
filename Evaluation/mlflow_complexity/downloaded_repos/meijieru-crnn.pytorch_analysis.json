@@ -1,0 +1,90 @@
+[
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/dataset.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 136
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/demo.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 39
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/models/crnn.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/test/test_utils.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/tool/convert_t7.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 167
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/train.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 213
+  },
+  {
+    "file": "meijieru/crnn.pytorch/meijieru-crnn.pytorch-3cc7904/utils.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 149
+  }
+]

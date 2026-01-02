@@ -1,0 +1,112 @@
+[
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/evaluation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/generate_data.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/loss.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/net.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 214
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/opt.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/places2.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/test.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 33
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/train.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 134
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/util/image.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 9
+  },
+  {
+    "file": "naoto0804/pytorch-inpainting-with-partial-conv/naoto0804-pytorch-inpainting-with-partial-conv-8d64e7e/util/io.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  }
+]

@@ -1,0 +1,21 @@
+File Analyzed,Quality Issue Name,Present,line_occurrences
+./files/EvalID_1/remove_label_tree.py,R20,Yes,17
+./files/EvalID_2/clean.py,R20,Yes,107/77/64
+./files/EvalID_3/result_collector.py,R20,Yes,96/360/194/232/164/213/147/128
+./files/EvalID_4/result_collector.py,R20,Yes,96/360/194/232/164/213/147
+./files/EvalID_5/evaluate.py,R20,Yes,25
+./files/EvalID_6/report.py,R20,Yes,120/117/129/130/115/128/114
+./files/EvalID_7/speech_synthesis.py,R20,Yes,65/63/64/66
+./files/EvalID_8/evaluate.py,R20,Yes,26/25
+./files/EvalID_9/report.py,R21,Yes,96/123
+./files/EvalID_10/speech_synthesis.py,R21,Yes,57
+./files/EvalID_11/converter.py,R21,Yes,33/34/32
+./files/EvalID_12/build_numpy_cache.py,R21,Yes,133
+./files/EvalID_13/api_handler.py,R21,Yes,414/401
+./files/EvalID_14/LinearGaussianCPD.py,R21,Yes,107/116
+./files/EvalID_15/data_structures.py,R21,Yes,501
+./files/EvalID_16/preprocessing.py,R21,Yes,347/528/109/521/334/430/340/98/118/512/513/487/523/100
+./files/EvalID_81/dataset.py,R21,Yes,26/139/122/115/138/140
+./files/EvalID_69/vpn_pixels.py,R3,Yes,466/141/137
+./files/EvalID_70/preprocess_legacy.py,R3,Yes,242/90/243
+./files/EvalID_71/transforms.py,R3,Yes,53/116

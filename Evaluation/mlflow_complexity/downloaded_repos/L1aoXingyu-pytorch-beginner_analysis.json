@@ -1,0 +1,211 @@
+[
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/01-Linear Regression/Linear_Regression.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 73
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/02-Logistic Regression/Logistic_Regression.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 97
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/03-Neural Network/neural_network.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 97
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/04-Convolutional Neural Network/convolution_network.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 135
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/04-Convolutional Neural Network/logger.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/05-Recurrent Neural Network/recurrent_network.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 121
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/06-Natural Language Process/N-Gram.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/06-Natural Language Process/bag-of-word.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 75
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/06-Natural Language Process/seq-lstm.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/07-Language Model/data_utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/07-Language Model/language model.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/08-AutoEncoder/Variational_autoencoder.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/08-AutoEncoder/conv_autoencoder.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/08-AutoEncoder/simple_autoencoder.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/09-Generative Adversarial network/conv_gan.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 161
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/09-Generative Adversarial network/simple_Gan.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 131
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/10-Deep Q learning/reinforcement learning.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 73,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 237
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/11-backward/backward.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "L1aoXingyu/pytorch-beginner/L1aoXingyu-pytorch-beginner-61db1de/12-data io/custom_data_io.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  }
+]

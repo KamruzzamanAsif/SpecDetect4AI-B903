@@ -1,0 +1,57 @@
+[
+  {
+    "file": "scikit-learn-contrib/boruta_py/scikit-learn-contrib-boruta_py-3c9eac3/boruta/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "scikit-learn-contrib/boruta_py/scikit-learn-contrib-boruta_py-3c9eac3/boruta/boruta_py.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 127,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 637
+  },
+  {
+    "file": "scikit-learn-contrib/boruta_py/scikit-learn-contrib-boruta_py-3c9eac3/boruta/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "scikit-learn-contrib/boruta_py/scikit-learn-contrib-boruta_py-3c9eac3/boruta/test/unit_tests.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "scikit-learn-contrib/boruta_py/scikit-learn-contrib-boruta_py-3c9eac3/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  }
+]

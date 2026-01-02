@@ -1,0 +1,90 @@
+[
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/cifar.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/hubconf.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 25
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/imagenet.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/senet/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/senet/baseline.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 178
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/senet/se_inception.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/senet/se_module.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "moskomule/senet.pytorch/moskomule-senet.pytorch-8cb2669/senet/se_resnet.py",
+    "num_functions": 24,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 296
+  }
+]

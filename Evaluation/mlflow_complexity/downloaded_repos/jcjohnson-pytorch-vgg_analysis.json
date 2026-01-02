@@ -1,0 +1,24 @@
+[
+  {
+    "file": "jcjohnson/pytorch-vgg/jcjohnson-pytorch-vgg-121d07b/t7_to_state_dict.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 52
+  },
+  {
+    "file": "jcjohnson/pytorch-vgg/jcjohnson-pytorch-vgg-121d07b/test_model.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 47
+  }
+]

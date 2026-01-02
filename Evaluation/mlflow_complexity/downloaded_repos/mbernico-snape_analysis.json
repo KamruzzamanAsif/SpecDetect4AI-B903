@@ -1,0 +1,156 @@
+[
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/example/module_usage_example.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/flicker.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/make_dataset.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 449
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/make_image_dataset.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/score_dataset.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 157
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/scratch.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/test/test_make_dataset.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/test/test_make_image_dataset.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 157
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/test/test_score_dataset.py",
+    "num_functions": 16,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/test/test_utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "mbernico/snape/mbernico-snape-baecbe1/snape/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/darknet/generate_darknet_models.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/download_models.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1295
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/generate_torch_models.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/onnx/generate_conformance_list.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/onnx/generate_onnx_models.py",
+    "num_functions": 232,
+    "max_function_depth": 3,
+    "num_classes": 106,
+    "num_assignments": 1127,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 3174
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/onnx/generate_onnx_models_with_onnxscript.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 144,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 445
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/onnx/generate_quantized_onnx_models.py",
+    "num_functions": 32,
+    "max_function_depth": 2,
+    "num_classes": 14,
+    "num_assignments": 117,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 431
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/tensorflow/generate_tf2_models.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/dnn/tensorflow/generate_tf_models.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 429,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1102
+  },
+  {
+    "file": "opencv/opencv_extra/opencv-opencv_extra-b3a4020/testdata/gapi/onnx/download_onnx_models.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  }
+]

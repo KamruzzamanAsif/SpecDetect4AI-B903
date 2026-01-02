@@ -1,0 +1,189 @@
+[
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/contrib/contrib_template_test.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/contrib/range_search_crp_alpha_test.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/evals_test.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/integration_test.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 158
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/uisrnn_test.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 165
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/tests/utils_test.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 181
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/arguments.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 205
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/contrib/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/contrib/contrib_template.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/contrib/range_search_crp_alpha.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 170
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/evals.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/loss_func.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/uisrnn.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 623
+  },
+  {
+    "file": "google/uis-rnn/google-uis-rnn-9b1d5f2/uisrnn/utils.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 313
+  }
+]

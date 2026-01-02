@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/agent.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 118
+  },
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/env.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/main.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 186
+  },
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/memory.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 81,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/model.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "Kaixhin/Rainbow/Kaixhin-Rainbow-1745b18/test.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 78
+  }
+]

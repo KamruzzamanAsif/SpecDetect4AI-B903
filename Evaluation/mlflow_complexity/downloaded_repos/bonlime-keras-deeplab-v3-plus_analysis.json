@@ -1,0 +1,57 @@
+[
+  {
+    "file": "bonlime/keras-deeplab-v3-plus/bonlime-keras-deeplab-v3-plus-69a547c/.ipynb_checkpoints/model-Copy1-checkpoint.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 138,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 538
+  },
+  {
+    "file": "bonlime/keras-deeplab-v3-plus/bonlime-keras-deeplab-v3-plus-69a547c/.ipynb_checkpoints/model-checkpoint.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 129,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 487
+  },
+  {
+    "file": "bonlime/keras-deeplab-v3-plus/bonlime-keras-deeplab-v3-plus-69a547c/extract_weights.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "bonlime/keras-deeplab-v3-plus/bonlime-keras-deeplab-v3-plus-69a547c/load_weights.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "bonlime/keras-deeplab-v3-plus/bonlime-keras-deeplab-v3-plus-69a547c/model.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 133,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 477
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/bin/cythonize.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 168
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/examples/server.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/file_utils.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 243
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/tests/test_neuralcoref.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/algorithm.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 87,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 396
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/compat.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/conllparser.py",
+    "num_functions": 24,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 171,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 960
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/dataset.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 536
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/document.py",
+    "num_functions": 46,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 165,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 982
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/evaluator.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 345
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/learn.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 109,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 565
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/neuralcoref/train/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "huggingface/neuralcoref/huggingface-neuralcoref-60338df/setup.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 239
+  }
+]

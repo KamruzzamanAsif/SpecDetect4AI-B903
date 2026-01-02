@@ -1,0 +1,82 @@
+[
+  {
+    "file": "examples/databricks/log_runs.py",
+    "line": 46
+  },
+  {
+    "file": "examples/evaluation/evaluate_on_binary_classifier.py",
+    "line": 14
+  },
+  {
+    "file": "examples/evaluation/evaluate_on_regressor.py",
+    "line": 15
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_custom_metrics.py",
+    "line": 20
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_custom_metrics_comprehensive.py",
+    "line": 22
+  },
+  {
+    "file": "examples/evaluation/evaluate_with_model_validation.py",
+    "line": 15
+  },
+  {
+    "file": "examples/hyperparam/train.py",
+    "line": 140
+  },
+  {
+    "file": "examples/keras/train.py",
+    "line": 44
+  },
+  {
+    "file": "examples/multistep_workflow/train_keras.py",
+    "line": 85
+  },
+  {
+    "file": "examples/pytorch/mnist_tensorboard_artifact.py",
+    "line": 131
+  },
+  {
+    "file": "examples/pytorch/torchscript/MNIST/mnist_torchscript.py",
+    "line": 173
+  },
+  {
+    "file": "examples/ray_serve/train_model.py",
+    "line": 23
+  },
+  {
+    "file": "examples/shap/binary_classification.py",
+    "line": 19
+  },
+  {
+    "file": "examples/shap/multiclass_classification.py",
+    "line": 18
+  },
+  {
+    "file": "examples/shap/regression.py",
+    "line": 19
+  },
+  {
+    "file": "examples/sklearn_autolog/grid_search_cv.py",
+    "line": 16
+  },
+  {
+    "file": "examples/sklearn_autolog/linear_regression.py",
+    "line": 19
+  },
+  {
+    "file": "examples/sklearn_autolog/pipeline.py",
+    "line": 21
+  },
+  {
+    "file": "examples/sklearn_logistic_regression/train.py",
+    "line": 11
+  },
+  {
+    "file": "examples/tensorflow/train.py",
+    "line": 93
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "gregversteeg/corex_topic/gregversteeg-corex_topic-beea64b/corextopic/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "gregversteeg/corex_topic/gregversteeg-corex_topic-beea64b/corextopic/corextopic.py",
+    "num_functions": 37,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 160,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 705
+  },
+  {
+    "file": "gregversteeg/corex_topic/gregversteeg-corex_topic-beea64b/corextopic/vis_topic.py",
+    "num_functions": 24,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 145,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 606
+  },
+  {
+    "file": "gregversteeg/corex_topic/gregversteeg-corex_topic-beea64b/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  }
+]

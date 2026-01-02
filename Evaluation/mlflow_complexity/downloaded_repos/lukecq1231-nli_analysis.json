@@ -1,0 +1,68 @@
+[
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/data/download.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/scripts/ESIM/data_iterator.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 147
+  },
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/scripts/ESIM/gen.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/scripts/ESIM/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/scripts/TreeLSTM_IM/data_iterator.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 193
+  },
+  {
+    "file": "lukecq1231/nli/lukecq1231-nli-f503a1b/scripts/TreeLSTM_IM/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  }
+]

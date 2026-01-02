@@ -1,0 +1,107 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Free memory in time.
+#### Context
+Machine learning training is memory-consuming, and the machine’s memory is always limited by budget.
+#### Problem
+If the machine runs out of memory while training the model, the training will fail.
+#### Solution
+Some APIs are provided to alleviate the run-out-of memory issue in deep learning libraries. TensorFlow’s documentation notes that if the model is created in a loop, it is suggested to use clear_session() in the loop (19). Meanwhile, the GitHub repository pytorch-styleguide recommends using .detach() to free the tensor from the graph whenever possible (5). The .detach() API can prevent unnecessary operations from being recorded and therefore can save memory (38). Developers should check whether they use this kind of APIs to free the memory whenever possible in their code.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if any of these libraries is imported:
+    
+    -   `tensorflow`
+        
+    -   `torch` (PyTorch)
+        
+    -   `jax`
+        
+2.  If TensorFlow is imported:
+    
+    2.1 Search for model creation:
+    
+    -   Look for:
+        
+        -   `tf.keras.Sequential([...])`
+            
+        -   `tf.keras.Model(inputs, outputs)`
+            
+    
+    2.2 If model creation is found:
+    
+    -   Check if it happens inside a loop (`for`, `while`).
+        
+    
+    2.3 If model creation happens inside a loop:
+    
+    -   Verify that `tf.keras.backend.clear_session()` is called at the beginning of the loop.
+        
+    
+     If not, mark as Memory Not Freed.
+    
+3.  If PyTorch is imported:
+    
+    3.1 Search for:
+    
+    -   Tensor operations involving model outputs, predictions, or losses.
+        
+    
+    3.2 Check if:
+    
+    -   A tensor (model output, intermediate tensor, loss) is stored, saved, appended, or assigned to a variable, a list, or an object.
+        
+    
+    3.3 If a tensor is stored:
+    
+    -   Verify that `.detach()` or `.detach_()` is called before storing.
+        
+    
+     If not, mark as Memory Not Freed.
+    
+4.  If JAX is imported:
+    
+    4.1 Search for:
+    
+    -   Intermediate arrays or tensors kept across multiple computations.
+        
+    
+    4.2 Check if:
+    
+    -   Unused arrays are explicitly deleted with `del` or managed properly.
+        
+    
+     If not, mark as Memory Not Freed.
+    
+5.  If none of these libraries are imported:
+    
+
+-   Skip this check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Memory Not Freed code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Memory Not Freed code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"<Instance>",
+"<Second Instance>"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "mquad/hgru4rec/mquad-hgru4rec-13f9fbe/data/xing/build_dataset.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 168
+  },
+  {
+    "file": "mquad/hgru4rec/mquad-hgru4rec-13f9fbe/src/evaluation.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 137,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 457
+  },
+  {
+    "file": "mquad/hgru4rec/mquad-hgru4rec-13f9fbe/src/hgru4rec.py",
+    "num_functions": 35,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 357,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1032
+  },
+  {
+    "file": "mquad/hgru4rec/mquad-hgru4rec-13f9fbe/src/train_hier_gru.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 220
+  }
+]

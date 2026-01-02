@@ -1,0 +1,81 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Avoid unnecessary iterations. Use vectorized solutions instead of loops.
+#### Context
+Loops are typically time-consuming and verbose, while developers can usually use some vectorized solutions to replace the loops.
+#### Problem
+As stated in the Pandas documentation (14): “Iterating through pandas objects is generally slow. In many cases, iterating manually over the rows is not needed and can be avoided”. In (6), it is also stated that the slicing operation with loops in TensorFlow is slow, and there is a substitute for better performance.
+#### Solution
+Machine learning applications are typically dataintensive, requiring operations on data sets rather than an individual value. Therefore, it is better to adopt a vectorized solution instead of iterating over data. In this way, the program runs faster and code complexity is reduced, resulting in more efficient and less error-prone code [4]. Pandas’ built-in methods (e.g., join, groupby) are vectorized. It is therefore recommended to use Pandas builtin
+methods as an alternative to loops. In TensorFlow, using the tf.reduce_sum() API to perform reduction operation is much faster than combining slicing operation and loops.
+
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `pandas` or `tensorflow` is imported.
+    
+    -   `import pandas as pd`
+        
+    -   `from pandas import ...`
+        
+    -   `import tensorflow as tf`
+        
+    -   `from tensorflow import ...`
+        
+2.  If `pandas` is imported:
+    
+    -   Search for:
+        
+        -   `for ... in df.iterrows()`
+            
+        -   `for ... in df.itertuples()`
+            
+        -   `for ... in series:`
+            
+    -   If found, verify if a Pandas built-in vectorized method (`add`, `sum`, `mean`, `groupby`, etc.) could replace the loop.
+        
+3.  If `tensorflow` is imported:
+    
+    -   Search for:
+        
+        -   `for i in range(tensor.shape[0]):`
+            
+        -   `for i in tf.range(tensor.shape[0]):`
+            
+        -   Any `for` loop slicing tensor elements like `tensor[i]`
+            
+    -   If found, verify if a TensorFlow built-in operation (`reduce_sum`, `reduce_mean`, etc.) could replace the loop.
+        
+4.  If vectorization is possible, mark as Unnecessary Iteration.
+    
+5.  If vectorization is not possible, no smell.
+
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Unnecesarry Iteration code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Unnecesarry Iteration code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+    {
+        "code": "z += x[i]",
+        "line": 22
+    }
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

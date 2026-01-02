@@ -1,0 +1,90 @@
+[
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/data_utils.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 98
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/loss.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 51
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/model.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 117
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/pytorch_ssim/__init__.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/test_benchmark.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 80
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/test_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 40
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/test_video.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 85
+  },
+  {
+    "file": "leftthomas/SRGAN/leftthomas-SRGAN-7ddfdf2/train.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 166
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/camera_utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 183
+  },
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/mesh_renderer.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 402
+  },
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/mesh_renderer_test.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 85,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 317
+  },
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/rasterize_triangles.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 177
+  },
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/rasterize_triangles_test.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 196
+  },
+  {
+    "file": "google/tf_mesh_renderer/google-tf_mesh_renderer-7de13fc/mesh_renderer/test_utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/download_dataset.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/download_models.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/test_Fuji.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 98,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/test_Sony.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 77,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 155
+  },
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/train_Fuji.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 125,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 227
+  },
+  {
+    "file": "cchen156/Learning-to-See-in-the-Dark/cchen156-Learning-to-See-in-the-Dark-607d8d6/train_Sony.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 105,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 203
+  }
+]

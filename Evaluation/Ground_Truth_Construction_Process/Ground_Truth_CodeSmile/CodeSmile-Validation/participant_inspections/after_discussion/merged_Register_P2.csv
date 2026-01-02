@@ -1,0 +1,21 @@
+File Analyzed,Quality Issue Name,Present,line_occurrences
+./files/EvalID_17/ukb.py,R14,Yes,264/265/263/275/649/262/648
+./files/EvalID_18/regression_dataset.py,R14,Yes,100
+./files/EvalID_19/predictor.py,R14,Yes,82
+./files/EvalID_20/wine.py,R14,Yes,285/316/304/284/237/303/317/238
+./files/EvalID_21/transcode.py,R14,Yes,118/119/120
+./files/EvalID_22/ppca.py,R14,Yes,357/429
+./files/EvalID_23/util.py,R14,Yes,59/62/36/35
+./files/EvalID_24/data_loader.py,R14,Yes,142/254/242
+./files/EvalID_88/crime.py,R14,Yes,286/355/361/334/354/367/287/362/368/332/333
+./files/EvalID_25/CachedMultipleNegativesRankingLoss.py,R9,Yes,60/234
+./files/EvalID_26/run_pretraining.py,R9,Yes,511/513
+./files/EvalID_27/run_bertology.py,R9,Yes,96
+./files/EvalID_28/deepfool.py,R9,Yes,110
+./files/EvalID_29/train.py,R9,Yes,134/120/123
+./files/EvalID_30/train.py,R9,Yes,160
+./files/EvalID_31/torch_utils.py,R9,Yes,123
+./files/EvalID_32/recom_amr.py,R9,Yes,226
+./files/EvalID_99/gp_models.py,R9,Yes,80
+./files/EvalID_59/__init__.py,R18,Yes,298
+./files/EvalID_60/utils.py,R18,Yes,85

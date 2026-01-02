@@ -1,0 +1,68 @@
+[
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/convert_model.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 26
+  },
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/convert_python36.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/demo_pytorch_CAM.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 72,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 231
+  },
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/run_placesCNN_basic.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 66
+  },
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/run_placesCNN_unified.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 192
+  },
+  {
+    "file": "CSAILVision/places365/CSAILVision-places365-0621862/wideresnet.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 215
+  }
+]

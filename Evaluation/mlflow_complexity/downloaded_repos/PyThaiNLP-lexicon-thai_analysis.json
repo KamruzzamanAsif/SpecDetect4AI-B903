@@ -1,0 +1,24 @@
+[
+  {
+    "file": "PyThaiNLP/lexicon-thai/PyThaiNLP-lexicon-thai-f826bca/corpus/news/it-blognone.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "PyThaiNLP/lexicon-thai/PyThaiNLP-lexicon-thai-f826bca/\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21/build_pythainlp.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  }
+]

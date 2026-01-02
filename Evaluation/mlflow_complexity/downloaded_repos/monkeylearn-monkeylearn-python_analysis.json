@@ -1,0 +1,112 @@
+[
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/__init__.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/base.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/classification.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/exceptions.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 16,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 129
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/extraction.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/response.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/settings.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/validation.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/monkeylearn/workflows.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "monkeylearn/monkeylearn-python/monkeylearn-monkeylearn-python-2ffff0e/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  }
+]

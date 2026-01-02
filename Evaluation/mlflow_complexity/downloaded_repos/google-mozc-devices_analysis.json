@@ -1,0 +1,123 @@
+[
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/bluetooth.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/core.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/keyboard_recorder.py",
+    "num_functions": 13,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 290
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/led.py",
+    "num_functions": 19,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 145
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/lib.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 411
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/nazoru_test.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/nazorunet.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 259
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/predictor.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "google/mozc-devices/google-mozc-devices-2dafea4/mozc-nazoru/src/nazoru/utils.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/sigopt_sklearn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/sigopt_sklearn/ensemble.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/sigopt_sklearn/search.py",
+    "num_functions": 17,
+    "max_function_depth": 3,
+    "num_classes": 1,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 450
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/sigopt_sklearn/sklearn_fit.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 181
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/sigopt_sklearn/version.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/test/test_ensemble.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/test/test_search.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 238
+  },
+  {
+    "file": "sigopt/sigopt-sklearn/sigopt-sigopt-sklearn-ce0fec3/test/test_util.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  }
+]

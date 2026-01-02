@@ -1,0 +1,57 @@
+[
+  {
+    "file": "abhiskk/fast-neural-style/abhiskk-fast-neural-style-df08530/neural_style/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "abhiskk/fast-neural-style/abhiskk-fast-neural-style-df08530/neural_style/neural_style.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 210
+  },
+  {
+    "file": "abhiskk/fast-neural-style/abhiskk-fast-neural-style-df08530/neural_style/transformer_net.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "abhiskk/fast-neural-style/abhiskk-fast-neural-style-df08530/neural_style/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "abhiskk/fast-neural-style/abhiskk-fast-neural-style-df08530/neural_style/vgg16.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  }
+]

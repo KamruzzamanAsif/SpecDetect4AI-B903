@@ -1,0 +1,167 @@
+[
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/__main__.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 283
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/defaults.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 1,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/model/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/model/cnn.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 166
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/model/model.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 140,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 517
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/model/seq2seq.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 67,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 548
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/model/seq2seq_model.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 147
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/bucketdata.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/data_gen.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/dataset.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/export.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/aocr/util/visualizations.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 169
+  },
+  {
+    "file": "emedvedev/attention-ocr/emedvedev-attention-ocr-fd50b4c/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  }
+]

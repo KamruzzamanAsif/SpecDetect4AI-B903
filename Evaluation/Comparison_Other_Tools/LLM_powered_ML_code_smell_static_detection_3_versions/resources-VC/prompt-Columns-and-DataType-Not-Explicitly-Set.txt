@@ -1,0 +1,101 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Explicitly select columns and set DataType when importing data.
+#### Context
+In Pandas, all columns are selected by default when a DataFrame is imported from a file or other sources. The data type for each column is defined based on the default dtype conversion.
+#### Problem
+If the columns are not selected explicitly, it is not easy for developers to know what to expect in the downstream data schema (7). If the datatype is not set explicitly, it may silently continue the next step even though the input is unexpected, which may cause errors later. The same applies to other data importing scenarios.
+#### Solution
+It is recommended to set the columns and DataType explicitly
+in data processing.
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `pandas` is imported.
+    
+    -   `import pandas as pd`
+        
+    -   `from pandas import ...`
+        
+2.  If Pandas is imported:
+    
+    -   Search for data import functions:
+        
+		-   `pd.read_csv(...)`
+		    
+		-   `pd.read_excel(...)`
+		    
+		-   `pd.read_json(...)`
+		    
+		-   `pd.read_html(...)`
+		    
+		-   `pd.read_parquet(...)`
+		    
+		-   `pd.read_feather(...)`
+		    
+		-   `pd.read_orc(...)`
+		    
+		-   `pd.read_pickle(...)`
+		    
+		-   `pd.read_sas(...)`
+		    
+		-   `pd.read_spss(...)`
+		    
+		-   `pd.read_sql(...)`
+		    
+		-   `pd.read_sql_query(...)`
+		    
+		-   `pd.read_sql_table(...)`
+		    
+		-   `pd.read_stata(...)`
+		    
+		-   `pd.read_clipboard(...)`
+
+		-   `.to_csv`
+
+		-   `toPandas(...)`
+
+	-  To make it simple you can search for `pd.read_`, `toPandas` and `.to_csv`
+            
+3.  When a data import function is found, verify:
+    
+    -   Columns: after loading, is there a selection like `df = df[['col1', 'col2']]`?
+        
+        -   If not, columns are not explicitly selected (code smell).
+            
+    -   Data types: is the `dtype` parameter used in the import function (`dtype={...}`)?
+        
+        -   If not, dtypes are not explicitly set (code smell).
+            
+4.  If neither columns nor dtypes are set explicitly, mark as Columns and DataType Not Explicitly Set.
+    
+5.  If Pandas is not imported, you can skip this check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Columns and DataType Not Explicitly Set code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Columns and DataType Not Explicitly Set code smell found as a json array of string. The json array contains the complete code line of each instance.
+
+Something like this:
+
+"instances": [
+	{
+		"code": "df = pd.read_csv('data.csv')",
+		"line": 25
+	}
+]
+
+Respond with only the json array of the instances and of their corresponding lines (line number). Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return an empty json array like this : []

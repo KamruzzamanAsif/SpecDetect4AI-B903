@@ -1,0 +1,68 @@
+[
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/data.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/flow.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/masks.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 181
+  },
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/train_variational_autoencoder_jax.py",
+    "num_functions": 23,
+    "max_function_depth": 2,
+    "num_classes": 7,
+    "num_assignments": 122,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 437
+  },
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/train_variational_autoencoder_pytorch.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 69,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 282
+  },
+  {
+    "file": "jaanli/variational-autoencoder/jaanli-variational-autoencoder-7e8c661/train_variational_autoencoder_tensorflow.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 171
+  }
+]

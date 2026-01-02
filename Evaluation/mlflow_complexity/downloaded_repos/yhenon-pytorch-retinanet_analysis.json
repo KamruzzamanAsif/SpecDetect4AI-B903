@@ -1,0 +1,156 @@
+[
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/coco_validation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 49
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/csv_validation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 52
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/anchors.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 130
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/coco_eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 84
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/csv_eval.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 259
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/dataloader.py",
+    "num_functions": 34,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 120,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 458
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/losses.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 77,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 177
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/model.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 133,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 353
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/oid_dataset.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 86,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 260
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/retinanet/utils.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 65,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 180
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/visualize.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 108
+  },
+  {
+    "file": "yhenon/pytorch-retinanet/yhenon-pytorch-retinanet-0348a9d/visualize_single_image.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 132
+  }
+]

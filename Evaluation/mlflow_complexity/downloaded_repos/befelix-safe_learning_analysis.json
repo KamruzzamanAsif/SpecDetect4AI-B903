@@ -1,0 +1,167 @@
+[
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 188
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/examples/plotting.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 239
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/examples/utilities.py",
+    "num_functions": 37,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 288,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 811
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/configuration.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/functions.py",
+    "num_functions": 103,
+    "max_function_depth": 3,
+    "num_classes": 20,
+    "num_assignments": 261,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1786
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/lyapunov.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 196,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 797
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/reinforcement_learning.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 279
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/tests/test_functions.py",
+    "num_functions": 40,
+    "max_function_depth": 2,
+    "num_classes": 12,
+    "num_assignments": 264,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 781
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/tests/test_lyapunov.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/tests/test_rl.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 182
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/tests/test_utilities.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 114
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/safe_learning/utilities.py",
+    "num_functions": 25,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 583
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/scripts/jupyter_output.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "befelix/safe_learning/befelix-safe_learning-f1aad5a/setup.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  }
+]

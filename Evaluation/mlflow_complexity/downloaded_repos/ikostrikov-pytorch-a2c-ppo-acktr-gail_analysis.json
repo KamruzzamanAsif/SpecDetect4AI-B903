@@ -1,0 +1,200 @@
+[
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/algo/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/algo/a2c_acktr.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/algo/gail.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 166
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/algo/kfac.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 242
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/algo/ppo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 96
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/arguments.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 161
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/distributions.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/envs.py",
+    "num_functions": 21,
+    "max_function_depth": 2,
+    "num_classes": 7,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 259
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/model.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 229
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/storage.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 80,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 202
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/a2c_ppo_acktr/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/enjoy.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 96
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/evaluation.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 48
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/gail_experts/convert_to_pytorch.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/generate_tmux_yaml.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 198
+  },
+  {
+    "file": "ikostrikov/pytorch-a2c-ppo-acktr-gail/ikostrikov-pytorch-a2c-ppo-acktr-gail-41332b7/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  }
+]

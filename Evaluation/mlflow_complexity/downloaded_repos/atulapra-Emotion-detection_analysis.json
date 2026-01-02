@@ -1,0 +1,24 @@
+[
+  {
+    "file": "atulapra/Emotion-detection/atulapra-Emotion-detection-934e111/src/dataset_prepare.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "atulapra/Emotion-detection/atulapra-Emotion-detection-934e111/src/emotions.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  }
+]

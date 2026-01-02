@@ -1,0 +1,90 @@
+[
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/tensorflow/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/tensorflow/methods.py",
+    "num_functions": 40,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 130,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 650
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/tensorflow/utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/deepexplain/tests/test_tensorflow.py",
+    "num_functions": 91,
+    "max_function_depth": 1,
+    "num_classes": 9,
+    "num_assignments": 286,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 870
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/examples/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "marcoancona/DeepExplain/marcoancona-DeepExplain-87fb43a/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  }
+]

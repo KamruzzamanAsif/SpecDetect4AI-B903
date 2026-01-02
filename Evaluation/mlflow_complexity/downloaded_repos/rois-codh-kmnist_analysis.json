@@ -1,0 +1,35 @@
+[
+  {
+    "file": "rois-codh/kmnist/rois-codh-kmnist-eb78dc1/benchmarks/kuzushiji_mnist_cnn.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "rois-codh/kmnist/rois-codh-kmnist-eb78dc1/benchmarks/kuzushiji_mnist_knn.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "rois-codh/kmnist/rois-codh-kmnist-eb78dc1/download_data.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  }
+]

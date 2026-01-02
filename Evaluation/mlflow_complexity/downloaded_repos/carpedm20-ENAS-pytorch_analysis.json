@@ -1,0 +1,156 @@
+[
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/config.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 151
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/data/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/data/image.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/data/text.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 60
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/generate_gif.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 20
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/models/controller.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 225
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/models/shared_base.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/models/shared_cnn.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/models/shared_rnn.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 102,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 412
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/tensorboard.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/trainer.py",
+    "num_functions": 25,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 138,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 691
+  },
+  {
+    "file": "carpedm20/ENAS-pytorch/carpedm20-ENAS-pytorch-0468b8c/utils.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 276
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "peterlee0127/tensorflow-nvJetson/peterlee0127-tensorflow-nvJetson-fa116d7/tf-test/1.0/gpu.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "peterlee0127/tensorflow-nvJetson/peterlee0127-tensorflow-nvJetson-fa116d7/tf-test/1.0/test_tftrt.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  },
+  {
+    "file": "peterlee0127/tensorflow-nvJetson/peterlee0127-tensorflow-nvJetson-fa116d7/tf-test/2.0/gpu.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "peterlee0127/tensorflow-nvJetson/peterlee0127-tensorflow-nvJetson-fa116d7/tf-test/2.0/mnist.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  }
+]

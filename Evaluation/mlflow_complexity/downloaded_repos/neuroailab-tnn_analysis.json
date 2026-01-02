@@ -1,0 +1,156 @@
+[
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tests/setup.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tests/test_basic.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tests/test_temporal.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 121,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 329
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/cell.py",
+    "num_functions": 29,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 408,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1501
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/convrnn.py",
+    "num_functions": 60,
+    "max_function_depth": 1,
+    "num_classes": 13,
+    "num_assignments": 332,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1269
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/efficientgaternn.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 387
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/main.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 405
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/reciprocalgaternn.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 237,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 996
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tnn/spatial_transformer.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 82,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 203
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tutorials/alexnet_example.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "neuroailab/tnn/neuroailab-tnn-c8248b7/tutorials/customcell_example.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 100
+  }
+]

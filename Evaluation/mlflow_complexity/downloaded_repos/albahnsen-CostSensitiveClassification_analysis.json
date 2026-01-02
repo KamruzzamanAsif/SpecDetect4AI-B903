@@ -1,0 +1,233 @@
+[
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/datasets/base.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 85,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 415
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/metrics/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/metrics/costs.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 200
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/bagging.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 85,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 619
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/cost_ensemble.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 482
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/cost_tree.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 115,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 695
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/directcost.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 255
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/models/regression.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 290
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/probcal/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/probcal/probcal.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 225
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/sampling/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/sampling/_smote.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 148
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/sampling/cost_sampling.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/sampling/sampling.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/costcla/utils/cross_validation.py",
+    "num_functions": 56,
+    "max_function_depth": 1,
+    "num_classes": 12,
+    "num_assignments": 166,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1571
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/doc/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 336
+  },
+  {
+    "file": "albahnsen/CostSensitiveClassification/albahnsen-CostSensitiveClassification-92e40ed/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  }
+]

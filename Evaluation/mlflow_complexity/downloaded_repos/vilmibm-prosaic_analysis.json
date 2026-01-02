@@ -1,0 +1,145 @@
+[
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/cfg.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/commands.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 337
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/dogma.py",
+    "num_functions": 17,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 180
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/generation.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/models.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/nlp.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 153
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/parsing.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 169
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/src/prosaic/util.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/test/cfgfile.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/test/cli_test.py",
+    "num_functions": 20,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 237
+  },
+  {
+    "file": "vilmibm/prosaic/vilmibm-prosaic-1abac7a/test/nlp_test.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  }
+]

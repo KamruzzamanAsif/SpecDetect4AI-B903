@@ -1,0 +1,123 @@
+[
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/activations.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/models.py",
+    "num_functions": 52,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 142,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 741
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/tensorflow/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/tensorflow/models.py",
+    "num_functions": 50,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 112,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 529
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/dbn/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 41
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/example_classification.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/example_regression.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/example_save.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/example_unsupervised.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "albertbup/deep-belief-network/albertbup-deep-belief-network-3860590/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  }
+]

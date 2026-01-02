@@ -1,0 +1,211 @@
+[
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/data/extract_features_detectron.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 42,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 233
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/evaluate.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 240
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 319
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/data/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/data/dataset.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 316
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/data/readers.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 326
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/data/vocabulary.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/decoders/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/decoders/disc.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/decoders/gen.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 131
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/encoders/__init__.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/encoders/lf.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 135
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/metrics.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 173
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/utils/checkpointing.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "batra-mlp-lab/visdial-challenge-starter-pytorch/batra-mlp-lab-visdial-challenge-starter-pytorch-5844f3d/visdialch/utils/dynamic_rnn.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 62
+  }
+]

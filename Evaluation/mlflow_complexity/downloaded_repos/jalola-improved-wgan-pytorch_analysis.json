@@ -1,0 +1,101 @@
+[
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/congan_train.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 124,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 327
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/libs/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/libs/plot.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/models/conwgan.py",
+    "num_functions": 20,
+    "max_function_depth": 1,
+    "num_classes": 10,
+    "num_assignments": 125,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 223
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/models/wgan.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 104,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 190
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 71,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 239
+  },
+  {
+    "file": "jalola/improved-wgan-pytorch/jalola-improved-wgan-pytorch-5bb0b72/training_utils.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  }
+]

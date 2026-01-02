@@ -1,0 +1,167 @@
+[
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/dcrnn_train.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/lib/AMSGrad.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 168
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/lib/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/lib/metrics.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/lib/metrics_test.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 198
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/lib/utils.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 212
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/model/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/model/dcrnn_cell.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 184
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/model/dcrnn_model.py",
+    "num_functions": 9,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/model/dcrnn_supervisor.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 104,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 318
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/run_demo.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/scripts/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/scripts/eval_baseline_methods.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 141
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/scripts/gen_adj_mx.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "liyaguang/DCRNN/liyaguang-DCRNN-602afd9/scripts/generate_training_data.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  }
+]

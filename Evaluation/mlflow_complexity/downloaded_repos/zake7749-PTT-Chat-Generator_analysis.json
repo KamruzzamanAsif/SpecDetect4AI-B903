@@ -1,0 +1,167 @@
+[
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/bm25Matcher.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 160
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/fuzzyMatcher.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/matcher.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 131
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/quickSearch.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/Matcher/wordWeightMatcher.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 114
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/article.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/chat.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 75
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/corpus.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/filter.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 282
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/match.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/responsesEvaluate.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 156
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/util/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "zake7749/PTT-Chat-Generator/zake7749-PTT-Chat-Generator-d8a8a04/util/fileReader.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  }
+]

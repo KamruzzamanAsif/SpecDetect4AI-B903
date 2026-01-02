@@ -1,0 +1,222 @@
+[
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/Test_img.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 132
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/KITTILoader.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 81
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/KITTI_submission_loader.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/KITTI_submission_loader2012.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/KITTIloader2012.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/KITTIloader2015.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/SecenFlowLoader.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 72
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/listflowfile.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/preprocess.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/dataloader/readpfm.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 193
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 3
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/models/basic.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/models/stackhourglass.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 58,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 160
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/models/submodule.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 132
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/submission.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 123
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/utils/preprocess.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  },
+  {
+    "file": "JiaRenChang/PSMNet/JiaRenChang-PSMNet-87ac909/utils/readpfm.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  }
+]

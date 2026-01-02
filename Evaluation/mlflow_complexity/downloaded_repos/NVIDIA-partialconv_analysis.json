@@ -1,0 +1,79 @@
+[
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/main.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 74,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 457
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/loss.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 83,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 315
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/partialconv2d.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/partialconv3d.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/pd_resnet.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 231
+  },
+  {
+    "file": "NVIDIA/partialconv/NVIDIA-partialconv-610d373/models/pd_vgg.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 220
+  }
+]

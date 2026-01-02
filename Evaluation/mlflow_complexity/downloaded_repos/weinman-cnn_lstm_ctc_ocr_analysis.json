@@ -1,0 +1,112 @@
+[
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/charset.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/evaluate.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 170
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/filters.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/mjsynth.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/model.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 212
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/model_fn.py",
+    "num_functions": 18,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 96,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 516
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/pipeline.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 178
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/test.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/train.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 182
+  },
+  {
+    "file": "weinman/cnn_lstm_ctc_ocr/weinman-cnn_lstm_ctc_ocr-a413a34/src/utils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 61
+  }
+]

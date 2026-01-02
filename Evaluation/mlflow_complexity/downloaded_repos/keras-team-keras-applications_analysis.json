@@ -1,0 +1,233 @@
+[
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/__init__.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/densenet.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 62,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 358
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/efficientnet.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 551
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/imagenet_utils.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 331
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/inception_resnet_v2.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 90,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 368
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/inception_v3.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 128,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 407
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/mobilenet.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 73,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 442
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/mobilenet_v2.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 90,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 481
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/mobilenet_v3.py",
+    "num_functions": 14,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 113,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 549
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/nasnet.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 110,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 754
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/resnet.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/resnet50.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 77,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 297
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/resnet_common.py",
+    "num_functions": 23,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 122,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 590
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/resnet_v2.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/resnext.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/vgg16.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 216
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/vgg19.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 228
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/keras_applications/xception.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 80,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 319
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 53
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/tests/applications_test.py",
+    "num_functions": 22,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 302
+  },
+  {
+    "file": "keras-team/keras-applications/keras-team-keras-applications-06fbeb0/tests/imagenet_utils_test.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 64,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 250
+  }
+]

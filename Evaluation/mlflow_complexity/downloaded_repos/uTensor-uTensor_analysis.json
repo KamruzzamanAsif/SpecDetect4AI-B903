@@ -1,0 +1,233 @@
+[
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/scrape_for_events.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_arg_min_max.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_avgpool.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_conv_bias.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 117
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_conv_nobias.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 113
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_conv_v2.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 112
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_dw_conv.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_fc.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_maxpool.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_qconv2d.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_qlogistic.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_qsoftmax.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 71
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_qtanh.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 178
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_relu.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 104
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_reshape.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_squeeze.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/gen_tflu_quantize.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/jinja_env/__init__.py",
+    "num_functions": 33,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 330
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/jinja_env/quantization_util.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 34,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/tflu_exported_quantized_tests/3_FULLY_CONNECTED/gen_quantized_fc_ref_3.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 211
+  },
+  {
+    "file": "uTensor/uTensor/uTensor-uTensor-6aa081b/python/test_scripts/tflu_exported_quantized_tests/test_import_example.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  }
+]

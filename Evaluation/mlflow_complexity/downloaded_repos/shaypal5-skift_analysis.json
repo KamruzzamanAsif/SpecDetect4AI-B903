@@ -1,0 +1,101 @@
+[
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/skift/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/skift/_version.py",
+    "num_functions": 18,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 92,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 520
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/skift/core.py",
+    "num_functions": 30,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 466
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/skift/util.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/tests/test_common.py",
+    "num_functions": 21,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 278
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/tests/test_pickle.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "shaypal5/skift/shaypal5-skift-00b6728/versioneer.py",
+    "num_functions": 34,
+    "max_function_depth": 2,
+    "num_classes": 8,
+    "num_assignments": 178,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1822
+  }
+]

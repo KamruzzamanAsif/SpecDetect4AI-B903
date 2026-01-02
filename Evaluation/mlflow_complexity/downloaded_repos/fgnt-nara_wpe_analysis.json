@@ -1,0 +1,145 @@
+[
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 295
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/benchmark_online_wpe.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 78
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/ntt_wpe.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 208
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/test_utils.py",
+    "num_functions": 6,
+    "max_function_depth": 4,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 95
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/tf_wpe.py",
+    "num_functions": 36,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 121,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 764
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/torch_wpe.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 309
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/utils.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 527
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/nara_wpe/wpe.py",
+    "num_functions": 47,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 229,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1554
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/tests/test_notebooks.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/tests/test_tf_wpe.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 255
+  },
+  {
+    "file": "fgnt/nara_wpe/fgnt-nara_wpe-5fbfc36/tests/test_wpe.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 81,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 249
+  }
+]

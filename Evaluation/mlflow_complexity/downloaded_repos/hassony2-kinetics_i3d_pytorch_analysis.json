@@ -1,0 +1,112 @@
+[
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/i3d_pt_demo.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 106
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/i3d_pt_profiling.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 82
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/i3d_tf_to_pt.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 183
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/i3dpt.py",
+    "num_functions": 17,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 151,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 455
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/i3dtf.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 137,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 679
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/monitorutils.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/test_batch_norm.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 43
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/test_first_block.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "hassony2/kinetics_i3d_pytorch/hassony2-kinetics_i3d_pytorch-786fbae/src/test_inflate_conv.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 70
+  }
+]

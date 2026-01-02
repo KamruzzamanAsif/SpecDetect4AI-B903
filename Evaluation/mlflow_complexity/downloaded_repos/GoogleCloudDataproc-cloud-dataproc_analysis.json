@@ -1,0 +1,211 @@
+[
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/benchmarks/benchmarkUtil.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/benchmarks/runPerformanceTesting.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/benchmarks/trigger_bigbench_benchmark.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 77
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/benchmarks/trigger_hibench_benchmark.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 87
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/benchmarks/unittests.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 85
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/codelabs/spark-bigquery/backfill.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 117
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/codelabs/spark-bigquery/counts_by_subreddit.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/codelabs/spark-hudi/pyspark_hudi_example.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/codelabs/spark-nlp/topic_model.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 222
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-hbase/scripts/pyspark-hbase.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 26
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/data.py",
+    "num_functions": 8,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 261
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/model.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/preprocess_artifacts_gcs.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/preprocess_artifacts_local.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 73
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/task.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 249
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "GoogleCloudDataproc/cloud-dataproc/GoogleCloudDataproc-cloud-dataproc-cb0ced6/spark-tensorflow/trainer/tests.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 89
+  }
+]

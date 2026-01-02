@@ -1,0 +1,178 @@
+[
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/examples/gym_pendulum.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 49,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/examples/gym_pendulum_approximate.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 99,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 227
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/dynamics.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 202
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/env_dx/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/env_dx/cartpole.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 152
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/env_dx/control.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 108
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/env_dx/pendulum.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 141
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/lqr_step.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 167,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 409
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/mpc.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 174,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 601
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/pnqp.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/torch_numdiff.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 80
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/mpc/util.py",
+    "num_functions": 15,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 165
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/tests/test_dynamics.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 59
+  },
+  {
+    "file": "locuslab/mpc.pytorch/locuslab-mpc.pytorch-1fb5d41/tests/test_mpc.py",
+    "num_functions": 30,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 363,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 958
+  }
+]

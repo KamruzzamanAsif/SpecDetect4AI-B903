@@ -1,0 +1,69 @@
+
+---
+
+### CODE SMELL DESCRIPTION
+
+Use optimizer.zero_grad(), loss_fn.backward(), optimizer.step() together in order in PyTorch. Do not forget to use optimizer.zero_-grad() before loss_fn.backward() to clear gradients.
+#### Context
+In PyTorch, optimizer.zero_grad() clears the old gradients from last step, loss_fn.backward() does the back propagation, and optimizer.step() performs weight update using the gradients.
+#### Problem
+If optimizer.zero_grad() is not used before loss_-fn.backward(), the gradients will be accumulated from all loss_-fn.backward() calls and it will lead to the gradient explosion, which fails the training (36).
+#### Solution
+Developers should use optimizer.zero_grad(), loss_-fn.backward(), optimizer.step() together in order and should not forget to use optimizer.zero_grad() before loss_fn.backward().
+
+---
+
+### DETECTION METHODOLOGY
+
+1.  Check if `torch` is imported.
+    
+2.  If PyTorch is imported:
+    
+    2.1 Search for presence of these three functions in the same training loop:
+    
+    -   `optimizer.zero_grad()`
+        
+    -   `loss.backward()`
+        
+    -   `optimizer.step()`
+        
+3.  If `loss.backward()` is found:
+    
+    -   Check if `optimizer.zero_grad()` appears before it, within the same loop iteration (same level of nesting).
+        
+    -   Order must be:
+        
+        1.  `optimizer.zero_grad()`
+            
+        2.  `loss.backward()`
+            
+        3.  `optimizer.step()`
+            
+4.  If `loss.backward()` is called and `optimizer.zero_grad()` is missing or comes after, mark as Gradients Not Cleared before Backward Propagation.
+    
+5.  If `loss.backward()` is used multiple times (e.g., for gradient accumulation), skip this smell — that may be intentional.
+    
+6.  If PyTorch is not imported:
+
+-   Skip this check.
+
+---
+
+### INSTRUCTIONS
+Identify all instances of the Gradients Not Cleared before Backward Propagation code smell in the code file using the detection methodology above.
+
+---
+
+### OUTPUT FORMAT
+
+You must return all the instances of the Gradients Not Cleared before Backward Propagation code smell found as a json array of string. The json array contains the complete code line of each instance (each exactly as it is in the code).
+
+Something like this:
+
+"instances": [
+"loss.backward()"
+]
+
+Respond with only the json array of the instances. Do not return anything else, not even an emoji or an okay. Return only the json array. Make sure you give a valid json array with no comments in it.
+
+If no instance is found, return a json array like this : []

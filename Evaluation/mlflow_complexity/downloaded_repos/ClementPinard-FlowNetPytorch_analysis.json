@@ -1,0 +1,167 @@
+[
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/KITTI.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 12
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/flyingchairs.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/listdataset.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 58
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/mpisintel.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 122
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/datasets/util.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/flow_transforms.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 11,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 271
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/main.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 452
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/models/FlowNetC.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 61,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/models/FlowNetS.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 116
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/models/util.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/multiscaleloss.py",
+    "num_functions": 5,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 64
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/run_inference.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 30,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 164
+  },
+  {
+    "file": "ClementPinard/FlowNetPytorch/ClementPinard-FlowNetPytorch-990dba7/util.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 50
+  }
+]

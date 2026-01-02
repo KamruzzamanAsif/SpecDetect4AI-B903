@@ -1,0 +1,178 @@
+[
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/tests.py",
+    "num_functions": 64,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1560
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/background_generator.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/computer_text_generator.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 225
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/data_generator.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 290
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/distorsion_generator.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 157
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/generators/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/generators/from_dict.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 111
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/generators/from_random.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/generators/from_strings.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 40,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 154
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/generators/from_wikipedia.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 101
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/handwritten_text_generator.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 236
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/run.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 493
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/string_generator.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 140
+  },
+  {
+    "file": "Belval/TextRecognitionDataGenerator/Belval-TextRecognitionDataGenerator-dd9d7d3/trdg/utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 149
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/hyperband.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 85,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 505
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/nonnegative.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 103
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/preprocessing.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 71,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 395
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/stacking.py",
+    "num_functions": 41,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 739
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/test/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/test/test_hyperband.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 68,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 386
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/test/test_nonnegative.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 121
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/test/test_preprocessing.py",
+    "num_functions": 53,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 169,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 820
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/civismlext/test/test_stacking.py",
+    "num_functions": 63,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 208,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 962
+  },
+  {
+    "file": "civisanalytics/civisml-extensions/civisanalytics-civisml-extensions-bc1ea49/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  }
+]

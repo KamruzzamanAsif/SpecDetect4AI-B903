@@ -1,0 +1,24 @@
+[
+  {
+    "file": "asingh33/CNNGestureRecognizer/asingh33-CNNGestureRecognizer-e70d5fc/gestureCNN.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 98,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 471
+  },
+  {
+    "file": "asingh33/CNNGestureRecognizer/asingh33-CNNGestureRecognizer-e70d5fc/trackgesture.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 108,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 370
+  }
+]

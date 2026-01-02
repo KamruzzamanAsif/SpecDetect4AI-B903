@@ -1,0 +1,79 @@
+[
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/Create_clients.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/DiffPrivate_FedLearning.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 283
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/Helper_Functions.py",
+    "num_functions": 24,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 106,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 391
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/accountant.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 383
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/mnist_inference.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 255
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/sample.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "SAP-samples/machine-learning-diff-private-federated-learning/SAP-samples-machine-learning-diff-private-federated-learning-915c2fa/utils.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 84,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 309
+  }
+]

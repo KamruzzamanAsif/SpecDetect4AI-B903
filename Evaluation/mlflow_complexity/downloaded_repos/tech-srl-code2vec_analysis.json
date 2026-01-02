@@ -1,0 +1,211 @@
+[
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/CSharpExtractor/extract.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/JavaExtractor/extract.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 84
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/code2vec.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/common.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 217
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/config.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 277
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/extractor.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 49
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/interactive_predict.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_attention_layer.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 66
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_checkpoint_saver_callback.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_model.py",
+    "num_functions": 26,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 70,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 415
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_topk_word_predictions_layer.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 39
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_word_prediction_layer.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/keras_words_subtoken_metrics.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 128
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/model_base.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 18,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 182
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/path_context_reader.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 49,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 228
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/preprocess.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 141
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/tensorflow_model.py",
+    "num_functions": 31,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 128,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 551
+  },
+  {
+    "file": "tech-srl/code2vec/tech-srl-code2vec-77637c5/vocabularies.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 240
+  }
+]

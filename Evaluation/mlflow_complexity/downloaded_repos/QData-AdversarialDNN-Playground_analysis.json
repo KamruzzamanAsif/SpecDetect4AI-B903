@@ -1,0 +1,145 @@
+[
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/experiments/cleverhans_analyze.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 24
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/experiments/fjsma_analyze.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/experiments/tests.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 115,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 322
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/run.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/utils/json_gen.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 96
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/utils/search_images.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/models/l0_model.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 79,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 190
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/models/linf_model.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 72
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/models/mnist_model.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 33,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 84
+  },
+  {
+    "file": "QData/AdversarialDNN-Playground/QData-AdversarialDNN-Playground-8a5396c/webapp/views.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 139
+  }
+]

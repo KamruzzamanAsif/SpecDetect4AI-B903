@@ -1,0 +1,145 @@
+[
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 5
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/TIMIT/process.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 51,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/WSJ0/process.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 76,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 224
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/dataset.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/timit.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 123
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/datasets/wsj0.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 17,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/hparams.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 222
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/modules.py",
+    "num_functions": 29,
+    "max_function_depth": 1,
+    "num_classes": 14,
+    "num_assignments": 128,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 604
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/ops.py",
+    "num_functions": 11,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 114,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 432
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/ozers.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/app/utils.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 137
+  },
+  {
+    "file": "khaotik/DaNet-Tensorflow/khaotik-DaNet-Tensorflow-c369622/main.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 175,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 754
+  }
+]

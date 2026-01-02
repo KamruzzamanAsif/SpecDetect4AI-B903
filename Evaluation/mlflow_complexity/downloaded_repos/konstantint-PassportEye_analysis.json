@@ -1,0 +1,167 @@
+[
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/mrz/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/mrz/image.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 9,
+    "num_assignments": 93,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": false,
+    "loc": 358
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/mrz/scripts.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 196
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/mrz/text.py",
+    "num_functions": 20,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 179,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 525
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/util/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 6
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/util/geometry.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 52,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 253
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/util/ocr.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 68
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/util/pdf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/passporteye/util/pipeline.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 19,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": true,
+    "loc": 117
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 43
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 10
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/tests/mrz_test.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 113
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/tests/ocr_test.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "konstantint/PassportEye/konstantint-PassportEye-d866f1b/tests/pdf_extraction_test.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 21
+  }
+]

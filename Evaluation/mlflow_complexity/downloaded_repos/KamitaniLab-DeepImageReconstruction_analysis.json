@@ -1,0 +1,79 @@
+[
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/1_reconstruct_natural_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 215
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/2_reconstruct_natural_image_without_DGN.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 173
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/3_reconstruct_natural_image_different_combinations_of_CNN_layers.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 186
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/4_reconstruct_shape_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 184
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/5_reconstruct_shape_image_different_ROI.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 172
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/6_reconstruct_alphabet_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 174
+  },
+  {
+    "file": "KamitaniLab/DeepImageReconstruction/KamitaniLab-DeepImageReconstruction-e9c4346/7_reconstruct_imagined_image.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 41,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 179
+  }
+]

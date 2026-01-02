@@ -1,0 +1,147 @@
+Ã™RandomForestClassifier()d/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/binary_classification.pyg/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/binary_classification.py:197Call to RandomForestClassifier without hyperparametersAttribute()r/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_on_binary_classifier.pyu/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_on_binary_classifier.py:14.Call to XGBClassifier without hyperparametersLinearRegression()j/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_on_regressor.pym/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_on_regressor.py:151Call to LinearRegression without hyperparametersq/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_custom_metrics.pyt/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_custom_metrics.py:20/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_custom_metrics_comprehensive.py‚/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_custom_metrics_comprehensive.py:22s/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_model_validation.pyv/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/evaluation/evaluate_with_model_validation.py:15LogisticRegression()j/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/resources/onnx/generate_onnx_models.pym/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/resources/onnx/generate_onnx_models.py:733Call to LogisticRegression without hyperparametersh/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/grid_search_cv.pyk/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/grid_search_cv.py:16$Call to SVC without hyperparameters_/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/helper_functions.pyb/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/helper_functions.py:59b/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/helper_functions.py:72k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/linear_regression.pyn/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/linear_regression.py:19]/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/databricks/log_runs.py`/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/databricks/log_runs.py:46Net()l/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/pytorch/mnist_tensorboard_artifact.pyp/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/pytorch/mnist_tensorboard_artifact.py:131$Call to Net without hyperparametersu/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/pytorch/torchscript/MNIST/mnist_torchscript.pyy/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/pytorch/torchscript/MNIST/mnist_torchscript.py:173h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/multiclass_classification.pyk/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/multiclass_classification.py:18b/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/pipeline.pye/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_autolog/pipeline.py:21Y/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/regression.py\/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/shap/regression.py:19y/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py:62	KMeans()}/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py:181'Call to KMeans without hyperparameters}/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_behaviors_integration.py:263i/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_utils.pym/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/autologging/test_autologging_utils.py:587f/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.pyk/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1717k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1757k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1794k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1866k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1891k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1915k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_default_evaluator.py:1939i/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_dependencies_functions.pym/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_dependencies_functions.py:244_/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_evaluation.pyc/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_evaluation.py:223c/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_evaluation.py:240c/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_evaluation.py:298d/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/evaluate/test_evaluation.py:1219Sequential()i/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_model_export.pyl/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_model_export.py:82+Call to Sequential without hyperparametersm/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_model_export.py:115m/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_model_export.py:166„/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py‡/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:60SGD()‡/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:63$Call to SGD without hyperparameters‡/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:83ˆ/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:103ˆ/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:113ˆ/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_keras_pyfunc_model_works_with_all_input_types.py:146T/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_log.pyX/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_log.py:147x/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py:104}/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_model_export_with_class_and_artifacts.py:1093a/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/paddle/test_paddle_autolog.pyd/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/paddle/test_paddle_autolog.py:26l/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_pyfunc_schema_enforcement.pyo/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_pyfunc_schema_enforcement.py:28w/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:189{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:236{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:265{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:282{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:324{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:352{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:367{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:379{/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:990|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:1081|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:1110|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:1165|/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/ml/test_pyspark_ml_autologging.py:1216b/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tracking/test_rest_tracking.pyg/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tracking/test_rest_tracking.py:1566a/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_scoring_server.pye/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_scoring_server.py:110m/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/store/artifact/test_sftp_artifact_repo.pyq/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/store/artifact/test_sftp_artifact_repo.py:208RandomForestRegressor()U/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_shap.pyX/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_shap.py:506Call to RandomForestRegressor without hyperparametersX/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_shap.py:62Y/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/shap/test_shap.py:233\/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/models/test_signature.py`/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/models/test_signature.py:158`/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/models/test_signature.py:170`/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/models/test_signature.py:183c/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.pyg/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:183g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:192g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:332g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:364g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:399g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:434g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:454g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:667g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:690g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:726g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:769g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:876g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:903g/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:964h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1002AgglomerativeClustering()h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:10218Call to AgglomerativeClustering without hyperparametersh/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1040h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1055h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1072h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1085h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1099h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1126h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1161h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1286h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1313&Call to Lasso without hyperparametersh/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1450h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1463h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1537h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1600h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1617h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1653h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1685h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1738h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_autolog.py:1772h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_model_export.pyk/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_model_export.py:94l/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/sklearn/test_sklearn_model_export.py:638X/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_spark.py\/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_spark.py:974”/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/datasource/test_spark_datasource_autologging_crossframework.py—/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/spark/autologging/datasource/test_spark_datasource_autologging_crossframework.py:23j/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.pym/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:76m/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:91%Call to Adam without hyperparametersn/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:121n/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:163n/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:168n/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:466n/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:574n/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/tensorflow/test_tensorflow2_autolog.py:602^/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/test_train_step.pyb/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/test_train_step.py:365b/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/recipes/test_train_step.py:371m/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/transformers/test_transformers_autolog.pyq/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/transformers/test_transformers_autolog.py:354q/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/transformers/test_transformers_autolog.py:390q/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/transformers/test_transformers_autolog.py:430q/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/transformers/test_transformers_autolog.py:472]/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_virtualenv.py`/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/tests/pyfunc/test_virtualenv.py:37Z/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/hyperparam/train.py^/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/hyperparam/train.py:140k/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_logistic_regression/train.pyn/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/sklearn_logistic_regression/train.py:11Z/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/tensorflow/train.py]/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/tensorflow/train.py:93U/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/keras/train.pyX/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/keras/train.py:44h/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/multistep_workflow/train_keras.pyk/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/multistep_workflow/train_keras.py:85GradientBoostingClassifier()_/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/ray_serve/train_model.pyb/Users/bramss/Documents/ETS/PhD/Code_Smells_ML/mlflow-master/examples/ray_serve/train_model.py:23;Call to GradientBoostingClassifier without hyperparametersÊ#selectcallei ei s É­ø 	 ‚Í­ø}	 äµ¹Ğø›§	û»Ğø™§	êÀĞø¼ÏÕÂĞø¹Ï¦ÿÃĞø¼× ÉĞøÈ×¦äËĞø¼¼—ÒĞø»	¼¦üÔĞø›¾
+)ÏÙĞø±¾
+)ÑìÚø§¼II ³ñÚø¦¼II “ÿ€İø›Æ¹„İø®Æ™³²áø¼½;;&³½áøœ½;;&¦¬³áø§½HH(ğ½áøş½HH(“©Æçø¼à¿ÈçøËà¦å±êø›¹.. •µêø–¹.. ™°ˆîøöüƒ	ƒïšîøèüƒ	ƒØö§îøöü­­Õµîøñü­­ØŸ³óø ê	 ¼¶óøÒê	 äÍ¼ÿø¼½;L‡¿ÿøŸ½;L¦Ô„ù¼„	”ˆùİ„	¦Û§±ù§¹>> óÂ±ù²¹>> “ß®±ù® ¹µµ´Æ±ù· ¹µµ´!Î³±ù›¹‡‡æÈ±ùÛ!¹‡‡™›é³ù¼Ø"ËË”«´ùÁ#Ø"ËË¦†š½ù§®$µµä¯¾ù”%®$µµ“‰š½ù¼®$µµ-æ¯¾ù”%®$µµ-¦éœ½ù§®$İFİY—±¾ùÿ%®$İFİY“Á½ù§®$‚‚$ˆ²¾ùê&®$‚‚$“µ£½ù§®$ÊÊ$Ç´¾ùÕ'®$ÊÊ$“Ì¥½ù§®$ãã$Öµ¾ùÀ(®$ãã$“Æ§½ù§®$ûû$Ø¶¾ù«)®$ûû$“ß¨½ù§®$““$«·¾ù–*®$““$“…Ù¾ù¼+ô"ô3â¾ùê++ô"ô3¦ªëÀù›×,ßß=ÑÁù¶-×,ßß=“‰ìÀù›×,ğğ1ÌÑÁù™.×,ğğ1¦êîÀù›×,ªª3ÿÒÁùü.×,ªª3“î£Áù›×,Ã	Ã	5«îÁùß/×,Ã	Ã	5“ö¦ÏùÃ0Ğ0RR¡ğÏù¹1Ğ0RR¥2é¨ÏùÃ0Ğ0ss ñÏùĞ2Ğ0ss¥2¬ÏùÃ0Ğ0¦¦äòÏù½3Ğ0¦¦¥2‹ŠĞùÃ0ª4<<è´Ğù¯5ª4<<¥2·ŠĞù·6ª4?8?<‚µĞù½6ª4?8?<Å7ı‹Ğù·6ª4S8S<èµĞùé7ª4S8S<Å7”ĞùÃ0ª4gg¶¶Ğùñ8ª4gg¥2ğĞù·6ª4q8q<ç¶Ğùú9ª4q8q<Å7‘Ğù·6ª4’8’<ü·Ğùƒ;ª4’8’<Å7ò Óù›Œ<““7©ÀÓùà<Œ<““7¦ºÅÕù›¸=hh9”¾Öù°>¸=hh9“°ûÕù¼¸=ÅÅ'‰ÚÖù¬?¸=ÅÅ'¦¿úÚù¼©@+Ì„ÛùŠA©@+¦ ßù›îA3Í‡àùÚBîA3¦à¶àù¼ÉC½	½Ù¯áùÀDÉC½	½¦Ü¹àù¼ÉCì
+ì±áù»EÉCì
+ì¦‡¼àù¼ÉC‰
+‰Ÿ²áù¶FÉC‰
+‰¦Á½àù¼ÉCš
+šø²áù±GÉCš
+š¦ı¿àù§ÉCÄÄ”´áù¬HÉCÄÄ“²Áàù¼ÉCààò´áù§IÉCàà¦¹Âàù§ÉCïï·µáù¢JÉCïï“èÂàù¼ÉCûûĞµáùKÉCûû¦€ìàù¼ÉCŞŞ¡Ëáù˜LÉCŞŞ¦àóàù¼ÉC¹N¹_‡Ïáù“MÉC¹N¹_¦óõàù§ÉCÖÖ –ĞáùNÉCÖÖ “èøàù§ÉC		 ßÑáù‹OÉC		 “¿ûàù§ÉCÀ	
+À	Óáù‡PÉCÀ	
+À	“Ç‚æù§ƒQ"5ÑïæùåQƒQ"5“®„ëù·6ÌRn8n<òÀëù­SÌRn8n<Å7“ñìù§’TĞĞ#­„íùÿT’TĞĞ#“¡‡íùğUˆV22#å íùİVˆV22#µW‰ˆíù ˆV>>$™¡íùëWˆV>>$ä¿”íùğUˆVéé#©§íùÃXˆVéé#µW„µíùğUœY+A¿ÆíùøYœY+AµWùµíùğUœYª	ª÷ÆíùØZœYª	ªµWÖ¶íùğUœY··,¦Çíù¸[œY··,µWÍØíù›˜\··ë…ïùû\˜\··´!†Ùíù›˜\ÀÀ$‡†ïùâ]˜\ÀÀ$´!Şáíù›˜\ÌÌ3¼ŠïùÉ^˜\ÌÌ3¦ùãíù›˜\ìì!Ê‹ïù°_˜\ìì!™Òæíù›˜\,ñŒïù—`˜\,´!…éíù›˜\²²(‹ïùş`˜\²²(´!àêíù›˜\ÆÆ$ôïùåa˜\ÆÆ$´!Ôúíù›˜\››$æ–ïùÌb˜\››$´!×ûíù›˜\²²ª—ïù³c˜\²²™¹ıíù›˜\ÖÖ˜ïùšd˜\ÖÖ™Œ€îù›˜\Ñ™ïùe˜\™Øˆîù›˜\ììùïùèe˜\ìì™×Šîù›˜\‡‡3÷ïùÏf˜\‡‡3¦Ëîù›˜\ÄÄD¹ ïù¶g˜\ÄÄD¦šîù›˜\êê3İ¡ïùh˜\êê3¦±‘îù…i˜\ıı%«¢ïùŸi˜\ıı%‡j¾’îù›˜\7ô¢ïù¿j˜\7¦Ã“îù›˜\ŸŸ7¹£ïù§k˜\ŸŸ7¦Ù”îù›˜\°°7ƒ¤ïùl˜\°°7¦æ•îù›˜\½½7Æ¤ïù÷l˜\½½7¦ñ–îù›˜\ËË7†¥ïùßm˜\ËË7¦´˜îù›˜\ææ7é¥ïùÇn˜\ææ7¦®šîù›˜\‰	‰	3î¦ïù¯o˜\‰	‰	3¦Í¡îù›˜\†
+†
+$Ìªïù—p˜\†
+†
+$´!à£îù›˜\¡
+¡
+ Í«ïùÿp˜\¡
+¡
+ çqİ¬îù›˜\ªª+ °ïùr˜\ªª+´!Å­îù›˜\··6Õ°ïùõr˜\··6¦ƒ²îù›˜\#ó²ïùİs˜\#™Ï¶îù›˜\ÀÀ6¢µïùÅt˜\ÀÀ6¦Â·îù›˜\ÑÑ!Ûµïù­u˜\ÑÑ!™¡¹îù›˜\õõ+Ë¶ïù•v˜\õõ+´!‘»îù§˜\•• Æ·ïùıv˜\•• “ö¾îù›˜\Ê	Ê ¸¹ïùåw˜\Ê	Ê ´!ÜÀîù›˜\ìì±ºïùÍx˜\ìì™ÜÃïù›µy^^(Èƒğùzµy^^(“äãïù…iµyşş(Ò“ğùˆ{µyşş(‡jéÃñù§ô{ÎÎ ÌòùÌ|ô{ÎÎ “¶ğòù¼¨}Úùòù½~¨}¦ääûù›ÕLL!åéüù¿€ÕLL!¥2Òåûù›Õ[[,¢êüù¬Õ[[,™‚şçûù›Õyy,·ëüù¾‚Õyy,™‚ééûù›Õ££!«ìüù¬ƒÕ££!¥2£êûù›Õ¨¨,Ììüùš„Õ¨¨,™‚æşûù›ÕÒÒ!Ëöüùˆ…ÕÒÒ!¥2é‡üùÃ0Õ¾¾†ûüùö…Õ¾¾¥2…Šüù›ÕÚÚ!¦üüùä†ÕÚÚ!¥2¢¼ÿù§Ò‡íí·ôÿù°ˆÒ‡íí“¶¼ÿù›Ò‡óóÁôÿù’‰Ò‡óóç³€ú›ô‰ââ(ü×€úáŠô‰ââ(´!™¶€ú›ô‰††(–Ù€úÒ‹ô‰††(´!¸¸€ú›ô‰®®(£Ú€úÃŒô‰®®(´!ÿº€ú›ô‰ØØ(ÈÛ€ú´ô‰ØØ(´!ˆ›‡ú§¥%% ¤®‡ú‚¥%% “ÔøúÃ0âŒŒ$Ë„ú¼âŒŒ$¥2œ†ú§š‘
+¶ˆú…’š‘
+“Ñ¡ú¼ó’]]$¶¯úÍ“ó’]]$¦š¬úÃ0ª”,	,á°úÿ”ª”,	,¥2óÜúÃ0×•UUîäú¿–×•UU¥2•óúª—Ç—(Íöú¦˜Ç—(ˆ™… ---
+run:
+  queries:
+   -
+    pack: codeql-project#3
+    relativeQueryPath: queries/find_functions.ql
+    relativeBqrsPath: codeql-project/queries/find_functions.bqrs
+    metadata: {}
+  extensionPacks: []
+  packs:
+    codeql/python-all#0:
+      name: codeql/python-all
+      version: 4.0.10
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/bramss/.codeql/packages/codeql/python-all/4.0.10/
+      localPackDefinitionFile: file:///Users/bramss/.codeql/packages/codeql/python-all/4.0.10/qlpack.yml
+      headSha: 4ece8abc3032a266eb4b9839442d8be5084552ea
+      runDataExtensions: []
+    codeql-project#3:
+      name: codeql-project
+      version: 0.0.1
+      isLibrary: false
+      isExtensionPack: false
+      localPath: file:///Users/bramss/Desktop/codeql_project/
+      localPackDefinitionFile: file:///Users/bramss/Desktop/codeql_project/qlpack.yml
+      runDataExtensions:
+       -
+        pack: codeql/python-all#0
+        relativePath: ext/default-threat-models-fixup.model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 1
+        locations:
+          lineNumbers: A=8
+          columnNumbers: A=9
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/Asyncpg.model.yml
+        index: 0
+        firstRowId: 1
+        rowCount: 5
+        locations:
+          lineNumbers: A=7+1+2+1+2
+          columnNumbers: A=9*5
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/Asyncpg.model.yml
+        index: 1
+        firstRowId: 6
+        rowCount: 6
+        locations:
+          lineNumbers: A=20+4+1*2+2+1
+          columnNumbers: A=9*6
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/Stdlib.model.yml
+        index: 0
+        firstRowId: 12
+        rowCount: 12
+        locations:
+          lineNumbers: A=6+1*4+2+1+2+1*2+4+2
+          columnNumbers: A=9*12
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/Stdlib.model.yml
+        index: 1
+        firstRowId: 24
+        rowCount: 1
+        locations:
+          lineNumbers: A=29
+          columnNumbers: A=9
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/Stdlib.model.yml
+        index: 2
+        firstRowId: 25
+        rowCount: 66
+        locations:
+          lineNumbers: A=37+1+2+4+2*2+4+2*3+1+2+1+2+1+2+4+2+4+2*2+3+2*2+3+1+2*4+4+1+4+1+4+1*5+2*4+4+1+2*11+3+2+3+4+1+2*2+1+2
+          columnNumbers: A=9*66
+       -
+        pack: codeql/python-all#0
+        relativePath: semmle/python/frameworks/data/internal/subclass-capture/ALL.model.yml
+        index: 0
+        firstRowId: 91
+        rowCount: 58275
+        locations:
+          lineNumbers: A=7+3*58274
+          columnNumbers: A=5*58275
+       -
+        pack: codeql/threat-models#1
+        relativePath: ext/supported-threat-models.model.yml
+        index: 0
+        firstRowId: 58366
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/threat-models#1
+        relativePath: ext/threat-model-grouping.model.yml
+        index: 0
+        firstRowId: 58367
+        rowCount: 15
+        locations:
+          lineNumbers: A=8+3+1+3+1*5+3+1+5+1*3
+          columnNumbers: A=9*15
+    codeql/util#2:
+      name: codeql/util
+      version: 2.0.13
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/bramss/.codeql/packages/codeql/util/2.0.13/
+      localPackDefinitionFile: file:///Users/bramss/.codeql/packages/codeql/util/2.0.13/qlpack.yml
+      headSha: 4ece8abc3032a266eb4b9839442d8be5084552ea
+      runDataExtensions: []
+    codeql/threat-models#1:
+      name: codeql/threat-models
+      version: 1.0.26
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/bramss/.codeql/packages/codeql/threat-models/1.0.26/
+      localPackDefinitionFile: file:///Users/bramss/.codeql/packages/codeql/threat-models/1.0.26/qlpack.yml
+      headSha: 4ece8abc3032a266eb4b9839442d8be5084552ea
+      runDataExtensions: []
+metadata: {}

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/ddpg.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 204
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/main.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 36,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 151
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/naf.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 47,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 147
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/normalized_actions.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 16
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/ounoise.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/param_noise.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "ikostrikov/pytorch-ddpg-naf/ikostrikov-pytorch-ddpg-naf-d900aa6/replay_memory.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  }
+]

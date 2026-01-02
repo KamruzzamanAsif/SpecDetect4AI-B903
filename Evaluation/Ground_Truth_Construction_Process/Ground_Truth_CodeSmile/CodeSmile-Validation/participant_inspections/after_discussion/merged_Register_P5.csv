@@ -1,0 +1,22 @@
+File Analyzed,Quality Issue Name,Present,line_occurrences
+./files/EvalID_84/dataset.py,R21,Yes,61
+./files/EvalID_85/db2_handler.py,R21,Yes,203/144
+./files/EvalID_86/reader.py,R21,Yes,244/89/119/59
+./files/EvalID_89/predict_tools.py,R21,Yes,144
+./files/EvalID_91/borzoi_satg_gene_gpu_focused_ism.py,R21,Yes,407/341/300
+./files/EvalID_93/utils.py,R21,Yes,46/69/47
+./files/EvalID_95/eval_on_synthetic.py,R21,Yes,123
+./files/EvalID_96/chromadb_handler.py,R21,Yes,317/426
+./files/EvalID_98/twilio_handler.py,R21,Yes,196/385/353/352/384
+./files/EvalID_100/feature_server.py,R21,Yes,236/172
+./files/EvalID_72/model.py,R3,Yes,98
+./files/EvalID_73/tensorboard_pr_curve.py,R3,Yes,120/121/151/153/155/119
+./files/EvalID_74/FISM.py,R3,Yes,60/71
+./files/EvalID_75/project.py,R3,Yes,218/177/54
+./files/EvalID_76/dataset.py,R3,Yes,335/324/124/337/85/90/363/126/54
+./files/EvalID_78/inputs.py,R3,Yes,65/63/64
+./files/EvalID_80/NAIS.py,R3,Yes,79/110/172
+./files/EvalID_87/resize.py,R3,Yes,203
+./files/EvalID_97/hed.py,R3,Yes,89/109/154/117/85
+./files/EvalID_77/DEP_xsolution.py,R17,Yes,100
+./files/EvalID_79/protseq_analysis.py,R17,Yes,216/606/459/661/596/628/166/364

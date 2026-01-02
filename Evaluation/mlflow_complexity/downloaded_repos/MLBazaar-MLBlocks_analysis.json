@@ -1,0 +1,156 @@
+[
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 199
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/examples/tutorials/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 52
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/mlblocks/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 36
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/mlblocks/discovery.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 2,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 470
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/mlblocks/mlblock.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 59,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 334
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/mlblocks/mlpipeline.py",
+    "num_functions": 44,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 177,
+    "pipeline_patterns": 2,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": true,
+    "loc": 1378
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 136
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/features/test_fit_predicr_args.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/features/test_partial_outputs.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 35,
+    "pipeline_patterns": 3,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 144
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/features/test_pipeline_loading.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 12,
+    "pipeline_patterns": 5,
+    "custom_pipeline_classes": 1,
+    "has_dynamic_construct": false,
+    "loc": 105
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/test_discovery.py",
+    "num_functions": 27,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 68,
+    "pipeline_patterns": 5,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 408
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/test_mlblock.py",
+    "num_functions": 26,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 512
+  },
+  {
+    "file": "MLBazaar/MLBlocks/MLBazaar-MLBlocks-db5ff4b/tests/test_mlpipeline.py",
+    "num_functions": 44,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 222,
+    "pipeline_patterns": 32,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1210
+  }
+]

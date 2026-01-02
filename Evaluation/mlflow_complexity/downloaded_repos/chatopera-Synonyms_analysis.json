@@ -1,0 +1,79 @@
+[
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/benchmark.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/demo.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 32,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 158
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 51
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/synonyms/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 15
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/synonyms/synonyms.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 99,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 425
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/synonyms/utils.py",
+    "num_functions": 21,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 311
+  },
+  {
+    "file": "chatopera/Synonyms/chatopera-Synonyms-b2e7f75/synonyms/word2vec.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 277
+  }
+]

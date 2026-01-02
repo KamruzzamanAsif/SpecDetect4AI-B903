@@ -1,0 +1,200 @@
+[
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/index/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/index/annoyVectorIndex.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/index/faiss/faiss.py",
+    "num_functions": 44,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 435
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/index/faiss/swigfaiss.py",
+    "num_functions": 607,
+    "max_function_depth": 1,
+    "num_classes": 100,
+    "num_assignments": 2012,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 6363
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/index/faissVectorIndex.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/abstract_model_api.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 45
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/onmt_lua_model_api.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 35
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/opennmt_model.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 72,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 485
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/processing/faiss.py",
+    "num_functions": 44,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 435
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/model_api/processing/swigfaiss.py",
+    "num_functions": 607,
+    "max_function_depth": 1,
+    "num_classes": 100,
+    "num_assignments": 2012,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 4862
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/s2s/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/s2s/lru.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 32
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/s2s/project.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 43,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 176
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/scripts/faiss.py",
+    "num_functions": 44,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 435
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/scripts/h5_to_faiss.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 57
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/scripts/swigfaiss.py",
+    "num_functions": 607,
+    "max_function_depth": 1,
+    "num_classes": 100,
+    "num_assignments": 2012,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 4862
+  },
+  {
+    "file": "HendrikStrobelt/Seq2Seq-Vis/HendrikStrobelt-Seq2Seq-Vis-7e3096c/server.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 157,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 615
+  }
+]

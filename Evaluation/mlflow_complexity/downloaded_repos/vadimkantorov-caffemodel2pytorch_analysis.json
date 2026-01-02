@@ -1,0 +1,13 @@
+[
+  {
+    "file": "vadimkantorov/caffemodel2pytorch/vadimkantorov-caffemodel2pytorch-3364739/caffemodel2pytorch.py",
+    "num_functions": 39,
+    "max_function_depth": 1,
+    "num_classes": 8,
+    "num_assignments": 113,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 399
+  }
+]

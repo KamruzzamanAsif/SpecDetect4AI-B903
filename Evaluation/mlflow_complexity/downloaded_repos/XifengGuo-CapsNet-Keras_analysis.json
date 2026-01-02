@@ -1,0 +1,46 @@
+[
+  {
+    "file": "XifengGuo/CapsNet-Keras/XifengGuo-CapsNet-Keras-2f6d47d/capsulelayers.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 202
+  },
+  {
+    "file": "XifengGuo/CapsNet-Keras/XifengGuo-CapsNet-Keras-2f6d47d/capsulenet-multi-gpu.py",
+    "num_functions": 2,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 138
+  },
+  {
+    "file": "XifengGuo/CapsNet-Keras/XifengGuo-CapsNet-Keras-2f6d47d/capsulenet.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 50,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 256
+  },
+  {
+    "file": "XifengGuo/CapsNet-Keras/XifengGuo-CapsNet-Keras-2f6d47d/utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 56
+  }
+]

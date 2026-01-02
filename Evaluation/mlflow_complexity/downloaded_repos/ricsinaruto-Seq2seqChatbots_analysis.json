@@ -1,0 +1,189 @@
+[
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/setup.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 17
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/config.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/hparams/seq2seq_hparams.py",
+    "num_functions": 16,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 46,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 141
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/hparams/transformer_hparams.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 117
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/main.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/models/gradient_checkpointed_seq2seq.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 22,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 148
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/character_chatbot.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 69
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/cornell_chatbots.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 68,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 367
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/daily_dialog_chatbot.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 126
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/opensubtitles_chatbot.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 42,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 274
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/persona_chat_chatbot.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 39,
+    "pipeline_patterns": 1,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 194
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/problems/word_chatbot.py",
+    "num_functions": 30,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 255
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/scripts/frequencies.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/scripts/remove.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/utils/optimizer.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 163
+  },
+  {
+    "file": "ricsinaruto/Seq2seqChatbots/ricsinaruto-Seq2seqChatbots-898cd7e/t2t_csaky/utils/run.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 119
+  }
+]

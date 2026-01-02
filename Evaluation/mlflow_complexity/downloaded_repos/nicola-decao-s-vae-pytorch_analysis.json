@@ -1,0 +1,90 @@
+[
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/examples/mnist.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 54,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 210
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/distributions/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/distributions/hyperspherical_uniform.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/distributions/von_mises_fisher.py",
+    "num_functions": 15,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 57,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 210
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/ops/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/hyperspherical_vae/ops/ive.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "nicola-decao/s-vae-pytorch/nicola-decao-s-vae-pytorch-671c46c/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 19
+  }
+]

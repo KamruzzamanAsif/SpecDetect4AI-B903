@@ -1,0 +1,156 @@
+[
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/features.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/go.py",
+    "num_functions": 27,
+    "max_function_depth": 2,
+    "num_classes": 5,
+    "num_assignments": 118,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 406
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/load_data_sets.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 48,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 143
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/main.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/policy.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 208
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/sgf_wrapper.py",
+    "num_functions": 10,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 141
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/strategies.py",
+    "num_functions": 38,
+    "max_function_depth": 1,
+    "num_classes": 6,
+    "num_assignments": 56,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 288
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_datasets.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 11,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_features.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 97
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_go.py",
+    "num_functions": 23,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 93,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 531
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_sgf_wrapper.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 155
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_strategies.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 33
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/tests/test_utils.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 15,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 107
+  },
+  {
+    "file": "brilee/MuGo/brilee-MuGo-8ca84b8/utils.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 63
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/cifar/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/cifar/resnet.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/cifar/wrn.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 93
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/fashion/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 4
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/fashion/resnet.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 63,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 159
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/models/fashion/wrn.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 37,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/transforms.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 55
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 11
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/eval.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 18
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/logger.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 134
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/misc.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 74
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/progress/__init__.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 127
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/progress/bar.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 7,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 88
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/progress/counter.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 4,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/progress/helpers.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/progress/spinner.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 5,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 44
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 29
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/progress/test_progress.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 6,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 48
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/transforms.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "zhunzhong07/Random-Erasing/zhunzhong07-Random-Erasing-ed05424/utils/visualize.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 110
+  }
+]

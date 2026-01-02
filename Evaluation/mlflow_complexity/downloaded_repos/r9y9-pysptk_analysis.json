@@ -1,0 +1,233 @@
+[
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/docs/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 360
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/pysptk/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/pysptk/conversion.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 183
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/pysptk/sptk.py",
+    "num_functions": 71,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2863
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/pysptk/synthesis.py",
+    "num_functions": 26,
+    "max_function_depth": 1,
+    "num_classes": 10,
+    "num_assignments": 38,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 707
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/pysptk/util.py",
+    "num_functions": 13,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 31,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 218
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/setup.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 3,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 192
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/regression/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/regression/test_metrics.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 47
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/regression/test_mgcep.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 138
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_adaptive.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 82
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_conversions.py",
+    "num_functions": 44,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 331
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_f0.py",
+    "num_functions": 10,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 194
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_lib.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 22
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_mfcc.py",
+    "num_functions": 7,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 54
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_mgcep.py",
+    "num_functions": 36,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 24,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 271
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_sptk.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 2
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_synthesis.py",
+    "num_functions": 33,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 82,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 326
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_synthesis_filters.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_utils.py",
+    "num_functions": 16,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 133
+  },
+  {
+    "file": "r9y9/pysptk/r9y9-pysptk-65c26f5/tests/test_window.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 27
+  }
+]

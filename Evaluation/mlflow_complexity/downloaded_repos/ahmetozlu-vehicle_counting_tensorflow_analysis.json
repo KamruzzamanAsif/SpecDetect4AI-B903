@@ -1,0 +1,167 @@
+[
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/protos/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/protos/string_int_label_map_pb2.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 10,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 120
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/color_recognition_module/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/color_recognition_module/color_histogram_feature_extraction.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 127
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/color_recognition_module/color_recognition_api.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/color_recognition_module/knn_classifier.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 86
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/image_utils/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/image_utils/crop_image.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 14
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/image_utils/image_saver.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 23
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/label_map_util.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 16,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 167
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/speed_and_direction_prediction_module/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/speed_and_direction_prediction_module/speed_prediction.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 65
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/utils/visualization_utils.py",
+    "num_functions": 14,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 89,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 565
+  },
+  {
+    "file": "ahmetozlu/vehicle_counting_tensorflow/ahmetozlu-vehicle_counting_tensorflow-ce4e861/vehicle_detection_main.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 268
+  }
+]

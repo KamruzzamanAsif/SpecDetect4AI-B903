@@ -1,0 +1,167 @@
+[
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/doc/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 298
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 8
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/_program.py",
+    "num_functions": 18,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 97,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 670
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/fitness.py",
+    "num_functions": 9,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 167
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/functions.py",
+    "num_functions": 8,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 23,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 182
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/genetic.py",
+    "num_functions": 20,
+    "max_function_depth": 2,
+    "num_classes": 4,
+    "num_assignments": 173,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1520
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_estimator_checks.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 34
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_examples.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 60,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 221
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_fitness.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 45,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 221
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_functions.py",
+    "num_functions": 11,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 27,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 207
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_genetic.py",
+    "num_functions": 36,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 365,
+    "pipeline_patterns": 3,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 1277
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/tests/test_utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 42
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/gplearn/utils.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 3,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 76
+  },
+  {
+    "file": "trevorstephens/gplearn/trevorstephens-gplearn-98ce158/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 38
+  }
+]

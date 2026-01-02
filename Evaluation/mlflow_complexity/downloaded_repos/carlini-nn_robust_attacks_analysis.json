@@ -1,0 +1,101 @@
+[
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/l0_attack.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 78,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 262
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/l2_attack.py",
+    "num_functions": 4,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 75,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 241
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/li_attack.py",
+    "num_functions": 6,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 61,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 200
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/setup_cifar.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 35,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 124
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/setup_inception.py",
+    "num_functions": 12,
+    "max_function_depth": 2,
+    "num_classes": 3,
+    "num_assignments": 55,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 270
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/setup_mnist.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 94
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/test_attack.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 14,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 91
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/train_models.py",
+    "num_functions": 3,
+    "max_function_depth": 2,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 115
+  },
+  {
+    "file": "carlini/nn_robust_attacks/carlini-nn_robust_attacks-c6b8f6a/verify.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 8,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 31
+  }
+]

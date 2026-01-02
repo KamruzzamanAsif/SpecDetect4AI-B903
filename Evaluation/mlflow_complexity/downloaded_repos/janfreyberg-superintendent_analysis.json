@@ -1,0 +1,167 @@
+[
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/docs/conf.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 29,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 186
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/docs/examples/docker-compose/orchestrate.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 12,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/__init__.py",
+    "num_functions": 14,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 53,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 413
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/_compatibility.py",
+    "num_functions": 1,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/acquisition_functions/__init__.py",
+    "num_functions": 3,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 4,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 92
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/acquisition_functions/decorators.py",
+    "num_functions": 7,
+    "max_function_depth": 3,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 83
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/db_queue.py",
+    "num_functions": 21,
+    "max_function_depth": 1,
+    "num_classes": 2,
+    "num_assignments": 44,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 390
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/queueing_utils.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 37
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/src/superintendent/serialization.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 79
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/conftest.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 67
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/test_base.py",
+    "num_functions": 22,
+    "max_function_depth": 2,
+    "num_classes": 1,
+    "num_assignments": 73,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 316
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/test_db_queue.py",
+    "num_functions": 19,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 39,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 362
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/test_feature_conversion.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 9,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 106
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/test_prioritisation.py",
+    "num_functions": 5,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 5,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  },
+  {
+    "file": "janfreyberg/superintendent/janfreyberg-superintendent-09caeb9/tests/test_serialisation.py",
+    "num_functions": 6,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 13,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 99
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/docs/source/_themes/klink/docs/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 249
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/docs/source/_themes/klink/klink/__init__.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 26,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 90
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/docs/source/_themes/klink/klink/demo.py",
+    "num_functions": 2,
+    "max_function_depth": 1,
+    "num_classes": 1,
+    "num_assignments": 2,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 40
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/docs/source/_themes/klink/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 13
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/docs/source/conf.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 20,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 263
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/ffn/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 1,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 7
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/ffn/core.py",
+    "num_functions": 86,
+    "max_function_depth": 2,
+    "num_classes": 2,
+    "num_assignments": 447,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 2503
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/ffn/data.py",
+    "num_functions": 4,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 28,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 160
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/ffn/utils.py",
+    "num_functions": 12,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 21,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 190
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/setup.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 2
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/tests/__init__.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 0,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 0
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/tests/test_core.py",
+    "num_functions": 46,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 233,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": true,
+    "loc": 1000
+  },
+  {
+    "file": "pmorissette/ffn/pmorissette-ffn-03e99bb/tests/test_utils.py",
+    "num_functions": 7,
+    "max_function_depth": 1,
+    "num_classes": 0,
+    "num_assignments": 25,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 109
+  }
+]

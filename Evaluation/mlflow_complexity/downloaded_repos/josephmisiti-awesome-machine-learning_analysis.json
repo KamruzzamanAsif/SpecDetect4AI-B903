@@ -1,0 +1,13 @@
+[
+  {
+    "file": "josephmisiti/awesome-machine-learning/josephmisiti-awesome-machine-learning-a709e27/scripts/pull_R_packages.py",
+    "num_functions": 0,
+    "max_function_depth": 0,
+    "num_classes": 0,
+    "num_assignments": 7,
+    "pipeline_patterns": 0,
+    "custom_pipeline_classes": 0,
+    "has_dynamic_construct": false,
+    "loc": 30
+  }
+]
